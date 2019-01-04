@@ -1,3 +1,6 @@
 *.ini
 *.iml
+*.log
 preprocessing/.idea/
+fcm/.idea/
+fcm/__pycache__/
