@@ -25,7 +25,7 @@ This directory contains the VecMap dataset.
 
 If you make use of the CRW development set or the code in this repository, please cite the following paper:
 ```
-@inproceedings{schick2018learning,
+@inproceedings{schick2019learning,
   title={Learning Semantic Representations for Novel Words: Leveraging Both Form and Context},
   author={Schick, Timo and Sch{\"u}tze, Hinrich},
   url="https://arxiv.org/abs/1811.03866",
