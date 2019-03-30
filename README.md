@@ -3,10 +3,6 @@
 This repository contains the code and supplementary material for the paper [Learning Semantic Representations for Novel Words: Leveraging Both Form and Context](https://arxiv.org/abs/1811.03866). 
 The contents of each subdirectory are as follows:
 
-### crw-dev
-
-This directory contains the CRW development dataset. For more info, refer to the original paper.
-
 ### fcm
 
 This directory contains the actual form-context model. Information on how to use it can be found in the README file of this directory.
@@ -16,6 +12,14 @@ This directory contains the actual form-context model. Information on how to use
 ### preprocessing
 
 This directory contains a preprocessing script that is required for training the form-context model. Information on how to use it can be found in the README file of this directory.
+
+### crw-dev
+
+This directory contains the CRW development dataset. For more info, refer to the original paper.
+
+### vecmap
+
+This directory contains the VecMap dataset.
 
 ## Citation
 
