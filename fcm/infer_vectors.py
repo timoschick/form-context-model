@@ -1,23 +1,21 @@
 import argparse
 import io
-import logging
+import my_log
 import re
 
-from form_context_model import load_model
+from form_context_model import FormContextModel
 
-logger = logging.getLogger(__name__)
+logger = my_log.get_logger('root')
 
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--model', '-m', type=str, required=True, help="The form-context model file")
-    parser.add_argument('--input', '-i', type=str, required=True,
-                        help="The input file. Each line of this file must be in the format 'WORD<t>CONTEXT1<t>CONTEXT2<t>...<t>CONTEXTn' where <t> denotes a TAB")
-    parser.add_argument('--output', '-o', type=str, required=True,
-                        help="The output file. Each line of this file will be in the format 'WORD VECTOR'")
+    parser.add_argument('--model', '-m', type=str, required=True)
+    parser.add_argument('--input', '-i', type=str, required=True)
+    parser.add_argument('--output', '-o', type=str, required=True)
 
     args = parser.parse_args()
-    model = load_model(args.model)
+    model = FormContextModel.load(args.model)
 
     count = 0
 
@@ -27,6 +25,7 @@ def main():
             comps = re.split(r'\t', line)
             word = comps[0]
             context = comps[1:]
+            context = [c for c in context if c != '']
             vec = model.infer_vector(word, context)
             output_file.write(word + ' ' + ' '.join([str(x) for x in vec]) + '\n')
             count += 1
@@ -35,7 +34,4 @@ def main():
 
 
 if __name__ == '__main__':
-    import logging.config
-
-    logging.config.fileConfig('logging.conf', disable_existing_loggers=False)
     main()

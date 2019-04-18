@@ -1,0 +1,7 @@
+word
+lord
+sword 10
+ngram1 3
+ngram2
+ngram3
+ngram4

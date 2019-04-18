@@ -1,0 +1,15 @@
+word2	this is a word2 lord word sword lordcontext	this is also a lord context here, again sword for word2
+word3	this is the only context lord sword word for word3
+word1
+word5
+word6	word6 abc	word6 sword lord
+word1	word1
+|
+|
+|
+
+gunsglinger
+sword	lord sword sword lord	sword lord lord lord lord words	lord sword sword
+lord    lord lord sword	sword sword lord word1	lord word	lord ngram1
+ngram1	ngram1 lord sword
+ngram2	ngram2 lord sword	ngram2 lord	ngram2 sword

@@ -1,0 +1,5 @@
+"this is a sentence to be tokenized."
+(also) to be tokenized-by...call-in call-in... forget-me-not" lectureship's 50%!
+yeah! great... {abc} [abc] eat/drink eat&drink eat+drink a-b
+single.word
+--end.of.document--

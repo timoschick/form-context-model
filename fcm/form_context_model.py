@@ -1,67 +1,95 @@
+from abc import ABC, abstractmethod
+from typing import List
+
 import numpy as np
 import tensorflow as tf
-import json
-import os
-import io
-import logging
+import jsonpickle
 
-from batch_builder import load_builder, EndOfDatasetException
+import my_log
+from batch_builder import InputProcessor, EndOfDatasetException
 
-logger = logging.getLogger(__name__)
-
+# logging options
 np.set_printoptions(suppress=True)
 tf.logging.set_verbosity(tf.logging.DEBUG)
+logger = my_log.get_logger('root')
 
+# constants definition
 FORM_ONLY = 'form_only'
 CONTEXT_ONLY = 'context_only'
-GATED = 'gated'
 SINGLE_PARAMETER = 'single_parameter'
-
-COMBINATORS = [FORM_ONLY, CONTEXT_ONLY, GATED, SINGLE_PARAMETER]
-
-DEFAULT = 'orig'
-POSSUM = 'possuml'
+GATED = 'gated'
+DEFAULT = 'default'
 CLUSTERING = 'clustering'
+COMBINATORS = [FORM_ONLY, CONTEXT_ONLY, SINGLE_PARAMETER, GATED]
+CONTEXT_WEIGHTS = [DEFAULT, CLUSTERING]
 
-CONTEXT_WEIGHTS = [DEFAULT, POSSUM, CLUSTERING]
+
+class RareWordVectorizer(ABC):
+    @abstractmethod
+    def train(self, num_epochs: int, batch_size: int,
+              log_after_n_steps: int = 100, out_path: str = None) -> None:
+        pass
+
+    @abstractmethod
+    def infer_vector(self, word: str, contexts: List[str]) -> np.ndarray:
+        pass
+
+    @abstractmethod
+    def save(self, path: str) -> None:
+        pass
+
+    @classmethod
+    @abstractmethod
+    def load(cls, path: str) -> 'RareWordVectorizer':
+        pass
 
 
-class FormContextModel:
-    def __init__(self, config, batch_builder=None):
+class FormContextModel(RareWordVectorizer):
+    def __init__(self, batch_builder: InputProcessor, emb_dim: int = None, learning_rate: float = None,
+                 combinator: str = None, sent_weights: str = None, distance_embedding: bool = None):
 
+        self.emb_dim = emb_dim
+        self.learning_rate = learning_rate
+        self.combinator = combinator
+        self.sent_weights = sent_weights
+        self.distance_embedding = distance_embedding
+        self.batch_builder = batch_builder
+        self._setup()
+
+    def _setup(self):
         tf.reset_default_graph()
         tf.set_random_seed(1234)
 
-        self.config = config
-        self.batch_builder = batch_builder
-
-        if self.batch_builder is None:
-            self.batch_builder = load_builder(config)
-
-        batch_size = None
-
         self.features = {
-            # word features
-            'ngrams': tf.placeholder(tf.int32, shape=[batch_size, None]),
-            'ngram_lengths': tf.placeholder(tf.int32, shape=[batch_size]),
-            # context features
-            'context_vectors': tf.placeholder(tf.float32, shape=[batch_size, None, None, self.config['emb_dim']]),
-            'context_lengths': tf.placeholder(tf.int32, shape=[batch_size]),
-            'words_per_context': tf.placeholder(tf.int32, shape=[batch_size, None]),
-            'distances': tf.placeholder(tf.int32, shape=[batch_size, None, None])
+            # shape: batch_size x max_ngrams_per_word
+            'ngrams': tf.placeholder(tf.int32, shape=[None, None]),
+            # shape: batch_size
+            'ngram_lengths': tf.placeholder(tf.int32, shape=[None]),
+            # shape: batch_size x max_contexts_per_word x max_words_per_context x emb_dim
+            'context_vectors': tf.placeholder(tf.float32, shape=[None, None, None, self.emb_dim]),
+            # shape: batch_size
+            'context_lengths': tf.placeholder(tf.int32, shape=[None]),
+            # shape: batch_size x max_contexts_per_word
+            'words_per_context': tf.placeholder(tf.int32, shape=[None, None]),
+            # shape: batch_size x max_contexts_per_word x max_words_per_context
+            'distances': tf.placeholder(tf.int32, shape=[None, None, None])
         }
 
-        self.targets = tf.placeholder(tf.float32, shape=[batch_size, self.config['emb_dim']])
-
         self.form_embedding = self._form_embedding(self.features)
-        self.context_embedding = self._context_embedding(self.features)
+        self.context_embedding = self._context_embedding(self.features, self.form_embedding)
 
         self.form_context_embedding = self._combine_embeddings(
             self.form_embedding, self.context_embedding, self.features)
 
-        self.loss = tf.losses.mean_squared_error(labels=self.targets, predictions=self.form_context_embedding)
+        self.targets = tf.placeholder(tf.float32, shape=[None, self.emb_dim])
 
-        optimizer = tf.train.AdamOptimizer(self.config['learning_rate'])
+        print(self.targets)
+        print(self.form_context_embedding)
+        print(self.emb_dim)
+        print(self.learning_rate)
+
+        self.loss = tf.losses.mean_squared_error(labels=self.targets, predictions=self.form_context_embedding)
+        optimizer = tf.train.AdamOptimizer(self.learning_rate)
         self.train_op = optimizer.minimize(loss=self.loss, global_step=tf.train.get_global_step())
 
         self.session = tf.Session()
@@ -70,15 +98,31 @@ class FormContextModel:
             tf.global_variables_initializer().run()
             tf.tables_initializer().run()
 
-    def train(self, num_epochs=1, evaluator=None, model_path=None, print_after_n_steps=100):
+    def infer_vector(self, word: str, context: List[str]) -> np.ndarray:
+
+        batch_inputs, _ = self.batch_builder.generate_batch_from_input(word, context)
+        feed_dict = {self.features[feature]: batch_inputs[feature] for feature in self.features}
+
+        if batch_inputs['context_vectors'].size == 0:
+            if self.combinator == CONTEXT_ONLY:
+                logger.warning('Cannot infer embeddings without contexts, returning zeros instead')
+                return np.zeros(self.emb_dim)
+            vector = self.session.run(self.form_embedding, feed_dict=feed_dict)
+        else:
+            vector = self.session.run(self.form_context_embedding, feed_dict=feed_dict)
+
+        vector = np.reshape(vector, [self.emb_dim])
+        return vector
+
+    def train(self, num_epochs: int, batch_size: int, log_after_n_steps: int = 100,
+              out_path: str = None):
 
         summed_loss, step = 0, 0
 
         for epoch in range(num_epochs):
             while True:
                 try:
-                    batch_inputs, batch_labels = self.batch_builder.generate_batch_from_buffer(
-                        self.config['batch_size'])
+                    batch_inputs, batch_labels = self.batch_builder.generate_batch_from_buffer(batch_size)
 
                     feed_dict = {self.targets: batch_labels}
                     for feature in self.features:
@@ -89,35 +133,31 @@ class FormContextModel:
                     summed_loss += loss_val
                     step += 1
 
-                    if step > 0 and step % print_after_n_steps == 0:
-                        logger.info('Step: %d\tLoss: %.17f', step, (summed_loss / print_after_n_steps))
+                    if step > 0 and step % log_after_n_steps == 0:
+                        logger.info('Step: %d\tLoss: %.17f', step, (summed_loss / log_after_n_steps))
                         summed_loss = 0
 
                 except EndOfDatasetException:
                     logger.info('Done with epoch %d', epoch)
 
-                    if model_path is not None:
-                        self.save(model_path + '.e' + str(epoch))
-
-                    if evaluator:
-                        logger.info('Starting evaluation')
-                        evaluator.evaluate_model(self)
-                        logger.info('Finished evaluation')
+                    if out_path is not None:
+                        self.save('{}.e{}'.format(out_path, epoch))
 
                     self.batch_builder.reset()
                     break
 
     def _form_embedding(self, features):
 
+        if self.combinator == CONTEXT_ONLY:
+            return tf.zeros([1])
+
         ngrams = features['ngrams']
         word_lengths = features['ngram_lengths']
 
-        if self.config['combinator'] == CONTEXT_ONLY:
-            return tf.zeros([1])
-
         with tf.device("/cpu:0"):
             ngram_embeddings = tf.get_variable("ngram_embeddings",
-                                               [self.batch_builder.nr_of_letters, self.batch_builder.emb_dim])
+                                               [self.batch_builder.ngram_builder.get_number_of_ngrams(),
+                                                self.batch_builder.vector_size])
             ngrams_embedded = tf.nn.embedding_lookup(ngram_embeddings, ngrams, name="ngrams_embedded")
 
         mask = tf.sequence_mask(word_lengths, dtype=tf.float32)
@@ -140,19 +180,19 @@ class FormContextModel:
         attention = mask / tf.maximum(words_per_training_instance, 1)
         return tf.reduce_sum(context_vectors * attention, axis=[1, 2])
 
-    def _context_embedding(self, features):
+    def _context_embedding(self, features, form_embedding=None):
 
-        if self.config['combinator'] == FORM_ONLY:
+        if self.combinator == FORM_ONLY:
             return tf.zeros([1])
 
-        elif self.config['sent_weights'] == 'orig':
+        elif self.sent_weights == DEFAULT:
             return self._context_embedding_uniform(features['context_vectors'], features['words_per_context'])
 
         mask = tf.sequence_mask(features['words_per_context'], dtype=tf.float32)
         mask = tf.expand_dims(mask, -1)
 
         # get weights for each context and expand them to 4 dimensions
-        context_weights = self._context_weights(features)
+        context_weights = self._context_weights(features, form_embedding)
         context_weights = tf.expand_dims(tf.expand_dims(context_weights, -1), -1)
 
         # get weights for each word and expand them to 4 dimensions
@@ -161,21 +201,40 @@ class FormContextModel:
 
         weights = mask * (context_weights * word_weights)
 
-        context_embedding = tf.reduce_sum(features['context_vectors'] * weights, axis=[1, 2])
+        if self.distance_embedding:
+            distance_embeddings = tf.get_variable("distance_embeddings_01", [20 + 1, self.batch_builder.vector_size])
+            distances_embedded = tf.nn.embedding_lookup(distance_embeddings, features['distances'],
+                                                        name="distances_embedded_01")
+
+            vectors_with_distances = features['context_vectors'] * distances_embedded
+            context_embedding = tf.reduce_sum(vectors_with_distances * weights, axis=[1, 2])
+        else:
+            context_embedding = tf.reduce_sum(features['context_vectors'] * weights, axis=[1, 2])
         return context_embedding
 
-    def _context_weights(self, features):
+    def _context_weights(self, features, form_embedding=None):
         """
         Returns the weight for each context of each traning instance
         The shape is batch_size x max_number_of_contexts
         """
-        if self.config['sent_weights'] == CLUSTERING:
+        if self.sent_weights == CLUSTERING:
             # get one embedding per context
-            vectors_avg = tf.reduce_sum(features['context_vectors'], axis=2)
+            if self.distance_embedding:
+                logger.info("using distance embeddings")
+                distance_embeddings = tf.get_variable("distance_embeddings_02",
+                                                      [20 + 1, self.batch_builder.vector_size])
+                distances_embedded = tf.nn.embedding_lookup(distance_embeddings, features['distances'],
+                                                            name="distances_embedded_02")
+                vectors_with_distances = features['context_vectors'] * distances_embedded
+                vectors_avg = tf.reduce_sum(vectors_with_distances, axis=2)
+
+            else:
+                vectors_avg = tf.reduce_sum(features['context_vectors'], axis=2)
+
             vectors_avg /= tf.expand_dims(tf.cast(features['words_per_context'], dtype=tf.float32), axis=-1) + 1e-9
 
             # compute the pairwise match between the embeddings obtained from all contexts
-            vectors_avg = tf.layers.dense(vectors_avg, self.config['emb_dim'], use_bias=None,
+            vectors_avg = tf.layers.dense(vectors_avg, self.emb_dim, use_bias=None,
                                           activation=None, name='vectors_avg_linear')
             match_scores = FormContextModel.attention_fun(vectors_avg, vectors_avg)
 
@@ -198,32 +257,7 @@ class FormContextModel:
                 match_scores_summed = tf.reduce_sum(match_scores, axis=1, keepdims=True)
                 match_scores = tf.div(match_scores, match_scores_summed + 1e-9)
 
-            # TODO perhaps multiple iterations
             return match_scores
-
-        elif self.config['sent_weights'] == POSSUM:
-
-            distance_embeddings = tf.get_variable("distance_embeddings", [20 + 1, self.batch_builder.emb_dim])
-            distances_embedded = tf.nn.embedding_lookup(distance_embeddings, features['distances'],
-                                                        name="distances_embedded")
-
-            vectors_with_distances = features['context_vectors'] * distances_embedded
-            vectors_with_distances = tf.layers.dense(vectors_with_distances, self.config['emb_dim'], use_bias=True,
-                                                     activation=None, name='vectors_with_distances_linear')
-
-            vectors_summed = tf.reduce_sum(vectors_with_distances, axis=2)
-
-            attention_score = tf.layers.dense(vectors_summed, 1, activation=None, name='att_score')
-            attention_score = tf.squeeze(attention_score, axis=2)
-            context_length_mask = tf.sequence_mask(features['context_lengths'], dtype=tf.float32)
-
-            with tf.name_scope("softmax"):
-                attention_score = tf.exp(attention_score)
-                attention_score_masked = tf.multiply(attention_score, context_length_mask)
-                attention_sum = tf.reduce_sum(attention_score_masked, axis=1, keepdims=True)
-                attention = attention_score / (attention_sum + 1e-9)
-
-            return attention
 
     def _word_weights(self, features):
         """
@@ -240,38 +274,39 @@ class FormContextModel:
         form_alpha = 0
         context_alpha = 0
 
-        if self.config['combinator'] != FORM_ONLY and self.config['combinator'] != CONTEXT_ONLY:
+        if self.combinator != FORM_ONLY and self.combinator != CONTEXT_ONLY:
 
-            if self.config['combinator'] == SINGLE_PARAMETER:
+            if self.combinator == SINGLE_PARAMETER:
                 form_alpha = tf.sigmoid(tf.get_variable("alpha_intra", [1]))
                 context_alpha = 1 - form_alpha
 
-            elif self.config['combinator'] == GATED:
+            elif self.combinator == GATED:
                 combined_guess = tf.concat([form_embedding, context_embedding], axis=-1)
-                alpha_kernel = tf.get_variable("alpha_kernel", [2 * self.config['emb_dim'], 1])
+                alpha_kernel = tf.get_variable("alpha_kernel", [2 * self.emb_dim, 1])
                 alpha_bias = tf.get_variable("alpha_bias", [1])
                 form_alpha = tf.matmul(combined_guess, alpha_kernel) + alpha_bias
                 form_alpha = tf.sigmoid(form_alpha)
                 context_alpha = 1 - form_alpha
 
             else:
-                raise ValueError("combinator not implemented")
+                raise ValueError("Combinator {} not implemented".format(self.combinator))
 
             alpha_sum = context_alpha + form_alpha + 1e-9
             form_alpha /= alpha_sum
             context_alpha /= alpha_sum
 
-        if self.config['combinator'] != FORM_ONLY:
-            context_embedding = tf.layers.dense(context_embedding, self.config['emb_dim'], use_bias=None,
+        if self.combinator != FORM_ONLY:
+            context_embedding = tf.layers.dense(context_embedding, self.emb_dim, use_bias=None,
                                                 activation=None, name='context_embedding_linear')
 
-        if self.config['combinator'] == FORM_ONLY:
+        if self.combinator == FORM_ONLY:
             return form_embedding
 
-        elif self.config['combinator'] == CONTEXT_ONLY:
+        elif self.combinator == CONTEXT_ONLY:
             return context_embedding
 
         else:
+            form_alpha = tf.Print(form_alpha, [form_alpha, context_alpha], message='(form, context) = ')
             return form_alpha * form_embedding + context_alpha * context_embedding
 
     @staticmethod
@@ -284,42 +319,38 @@ class FormContextModel:
 
         return attention
 
-    def infer_vector(self, word, context):
+    def __getstate__(self):
 
-        batch_inputs, batch_labels = self.batch_builder.generate_batch_from_context(word, context)
-        feed_dict = {self.targets: batch_labels}
-        for feature in self.features:
-            feed_dict[self.features[feature]] = batch_inputs[feature]
+        # TODO solve the other way around (remove unneeded items instead of keeping needed items)
+        odict = {
+            'emb_dim': self.emb_dim,
+            'learning_rate': self.learning_rate,
+            'combinator': self.combinator,
+            'sent_weights': self.sent_weights,
+            'distance_embedding': self.distance_embedding,
+            'batch_builder': self.batch_builder
+        }
+        return odict
 
-        if batch_inputs['context_vectors'].size == 0:
-            if self.config['combinator'] == CONTEXT_ONLY:
-                logger.warn(
-                    'Cannot infer embedding without contexts when combinator = CONTEXT_ONLY, returning zeros instead')
-                return np.zeros(self.config['emb_dim'])
-            vector = self.session.run(self.form_embedding, feed_dict=feed_dict)
-        else:
-            vector = self.session.run(self.form_context_embedding, feed_dict=feed_dict)
+    def __setstate__(self, dict):
+        self.__dict__.update(dict)
+        self._setup()
 
-        vector = np.reshape(vector, [self.config['emb_dim']])
-        return vector
-
-    def save(self, path):
-        logger.info('Saving model to %s', path)
-        with io.open(path + '.config.json', 'w') as f:
-            json.dump(self.config, f)
+    def save(self, path: str) -> None:
+        logger.info('Saving model to {}'.format(path))
         saver = tf.train.Saver()
         saver.save(self.session, path)
+        with open(path + '.config.json', 'w', encoding='utf8') as f:
+            f.write(jsonpickle.encode(self))
         logger.info('Done saving model')
 
-
-def load_model(path):
-    logger.info('Loading model from %s', path)
-    with open(path + '.config.json') as f:
-        config = json.load(f)
-
-    model = FormContextModel(config)
-
-    saver = tf.train.Saver()
-    saver.restore(model.session, path)
-    logger.info('Done loading model')
-    return model
+    @classmethod
+    def load(cls, path: str) -> 'FormContextModel':
+        logger.info('Loading model from {}'.format(path))
+        with open(path + '.config.json', 'r', encoding='utf8') as f:
+            model = jsonpickle.decode(f.read())
+            model._setup()
+        saver = tf.train.Saver()
+        saver.restore(model.session, path)
+        logger.info('Done loading model')
+        return model
