@@ -1,7 +1,6 @@
 # Form-Context Model
 
 This repository contains the code and supplementary material for [Learning Semantic Representations for Novel Words: Leveraging Both Form and Context](https://arxiv.org/abs/1811.03866) and [Attentive mimicking: Better word embeddings by attending to informative contexts](https://arxiv.org/abs/1904.01617).
-The contents of each subdirectory are as follows:
 
 **Important**: The code found in this directory is a beautified and easier-to-use version of the original form-context model. Due to random parameter initialization, results may slightly deviate from the ones reported in the papers mentioned above. If you want to *use* the form-context model, this is the right version for you. If, instead, you want to *reprocude* the original results, use the [naacl](https://github.com/timoschick/form-context-model/tree/naacl) branch for the NAACL paper results or contact me via `timo.schick<at>sulzer.de` for the AAAI results.  
 
