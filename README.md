@@ -21,8 +21,8 @@ If you leave all other parameters unchanged, this creates the following files in
 
 - `train.shuffled`: a shuffled version of your input corpus;
 - `train.shuffled.tokenized`: a shuffled, tokenized and lowercased version of your input corpus;
-- `train.vocX`, `train.vwcX`: vocabulary file containing all words that occur at least X times. In the `voc` format, each line contains exactly one word. In the `vwc` format, each line is of the form `word count`;
-- `train.bucketX`: a bucket (or chunk) of training instances. Each line is of the form `word<TAB>context1<TAB>context2<TAB>...`
+- `train.vocX`, `train.vwcX`: vocabulary file containing all words that occur at least X times. In the `voc` format, each line contains exactly one word. In the `vwc` format, each line is of the form `<word> <count>`;
+- `train.bucketX`: a bucket (or chunk) of training instances. In total, there will be 25 such buckets and for each bucket, each line is of the form `<word><TAB><context1><TAB><context2><TAB>...`
 
 To get an overview of additional parameters for the preprocessing script, run `python3 fcm/preprocess.py -h`.
 
@@ -40,7 +40,7 @@ By default, the training script uses Attentive Mimicking. If you instead want to
 
 ### Inference
 
-Inferring embeddings for novel words requires a file where each line is of the form `novel_word<TAB>context1<TAB>context2<TAB>...`. If you do not have a such file, you can generate it using the preprocessing script and a `.voc`-file containing all the words you want embeddings for:
+Inferring embeddings for novel words requires a file where each line is of the form `<novel_word><TAB><context1><TAB><context2><TAB>...`. If you do not have a such file, you can generate it using the preprocessing script and a `.voc`-file containing all the words you want embeddings for:
 
     python3 fcm/preprocess.py test --input PATH_TO_YOUR_TEXT_CORPUS --output PATH_TO_THE_TEST_FILE --words PATH_TO_A_VOC_FILE
 
@@ -48,7 +48,7 @@ The acutal inference can then be done using the `fcm/infer_vectors.py` script:
 
     python3 fcm/infer_vectors.py -m MODEL_PATH -i PATH_TO_THE_TEST_FILE -o PATH_TO_THE_OUTPUT_FILE
     
-The specified output file will then contain lines of the form `word embedding`.
+The specified output file will then contain lines of the form `<word> <embedding>`.
 
 ## Resources
 
