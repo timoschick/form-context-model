@@ -105,13 +105,17 @@ def _tokenize_lines(in_path: str, out_path: str) -> None:
     with open(in_path, 'r', encoding='utf8') as f_in, open(out_path, 'w', encoding='utf8') as f_out:
         line_count = 0
         for line in f_in:
-            tokens = nltk.word_tokenize(line)
-            f_out.write(' '.join(token.lower() for token in tokens) + '\n')
+            f_out.write(_tokenize_line(line) + '\n')
             line_count += 1
             if line_count % 10000 == 0:
                 logger.info('Done tokenizing {} lines'.format(line_count))
 
     logger.info('Done with tokenization of {} lines'.format(line_count))
+
+
+def _tokenize_line(line: str) -> str:
+    tokens = nltk.word_tokenize(line)
+    return ' '.join(token.lower() for token in tokens)
 
 
 def _create_vocab(in_path: str, out_path: str, with_counts: bool = False, min_count: int = -1):
@@ -150,7 +154,7 @@ def _load_vocab(in_path: str, with_counts: bool = False):
 
 
 def create_context_file(in_path: str, out_path: str, vocab: List[str], max_contexts_per_word=1000,
-                        max_context_size=25):
+                        max_context_size=25, tokenize=False):
     vocab = set(vocab)
     contexts_per_word = {}
 
@@ -163,6 +167,8 @@ def create_context_file(in_path: str, out_path: str, vocab: List[str], max_conte
             composite_line = composite_line[:-1]
             lines = composite_line.split(' .')
             for line in lines:
+                if tokenize:
+                    line = _tokenize_line(line)
                 words = line.split()
                 for idx, word in enumerate(words):
                     if word in vocab and len(contexts_per_word[word]) < max_contexts_per_word:
@@ -237,7 +243,7 @@ def main():
         words = _load_vocab(args.words, with_counts=False)
         create_context_file(args.input, args.output, words,
                             max_contexts_per_word=args.max_contexts_per_word,
-                            max_context_size=args.max_context_size)
+                            max_context_size=args.max_context_size, tokenize=not args.no_tokenize)
 
         # preprocess_training_file(r'/nfs/datm/schickt/bert-experiments/fcm/train-2/WestburyLab.Wikipedia.Corpus.txt',
         #                         r'/nfs/datm/schickt/bert-experiments/fcm/train-2/', shuffle=True, tokenize=True)
