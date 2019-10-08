@@ -1,149 +1,150 @@
-in the following how the frame problem is solved in various is shown
-semantic that have been used as the meaning languages in glue semantics analyses include versions of discourse representation theory intensional logic first-order logic and natural semantic
-the above are like the pa all instances of boundary mathematics i.e. mathematics whose syntax is limited to letters and brackets unk enclosing devices unk
-among them the assignment of objective status to mathematical objects as in platonism although they are used in a linguistic fashion for communications between living beings and thus subject to the same subject-object problems as other forms of such communication
-his calculus has thus become one of the fundamental of computational linguistics
-such as random access machines or universal turing machines can be used as abstract models of a sequential general-purpose computer executing such an algorithm
-having no long vowels and a single tone the high tone unk distinguished from neutral baseline pitch unk but she acknowledges that linguists using other would be justified in saying that there are two tones high and low unk or unmarked or mid unk
-an important yardstick for describing the relative expressive power of in this area is the chomsky hierarchy
-for example taking the of electromagnetic radiation and supposing a tachyon had an electric charge unk as there is no reason to suppose a priori that tachyons must be
-however there is a strong need for high-level approaches and tools that support and facilitate the description of reusable adaptive hypermedia and websites
-for more expressive this problem can be harder or even undecidable
-joy and cat differ from most functional languages unk e.g. scheme haskell unk and language unk e.g. lambda calculus combinatory logic unk in that they are based on the composition of functions rather than function application
-pfl is arguably the simplest of these yet also the one about which the least has been written
-in the first half of the 20th century various were proposed to capture the informal concept of a computable function with functions turing machines and the lambda calculus possibly being the best-known examples today
-this article assumes familiarity with the standard lagrangian and hamiltonian and their connection to canonical quantization
-as mentioned earlier some grammar are very difficult to parse computationally in general even if the desired structure is not context-free some kind of context-free approximation to the grammar is
-these are context-sensitive unk tag unk unk or that rely on context-free grammars and are extended thanks to attribute evaluation in particular for natural
-later on a series of have been derived only to mention lagrange based on minimal coordinates and a second formulation that introduces constraints
-a superset of perl 5 features with respect to unk folding them into a larger framework called rules which provide the capabilities of context-sensitive parsing unk such as the syntactic predicates of parsing expression grammars and unk unk as well as acting as a closure with respect to their lexical
-for this purpose unk have chosen to integrate two popular intuitive yet mathematically precise rule-based specification namely graph transformation unk gt unk and abstract state machines unk asm unk to manipulated graph based models
-yoshinaga unk and unk unk 2002 unk offers a proof of the strong equivalency of the unk and unk
-among them which allow to have changing model structures while the simulation time evolves
-unk phrase structure grammar is another linguistic formalism which has been popular in the parsing community but other research efforts have focused on less complex such as the one used in the penn unk
-the static semantics defines restrictions on the structure of valid texts that are hard or impossible to express in standard syntactic
-unk 1993 unk first showed how intuitionistic linear logic can be explained as a logic of resources so providing the logical language with access to that can be used for reasoning about resources within the logic itself rather than as in classical logic by means of non-logical predicates and relations
-the table below summarizes the 5s models in terms of their primitives underlying and objectives
-most later mathematical unk hilbert formalism unk mathematics unk or brower intuitionism for example unk do not use it
-in 12 the initiators of these two describe the goals they had in mind while membrane computing is a branch of natural computing which tries to abstract computing models in the turing
-unk the dormant commerce clause spilled over into its article i jurisprudence
-adaptive grammar
-in the years since a wide variety of have been developed for modeling and reasoning about concurrency
-one difficulty in evaluating this separation is the lack of well-defined to measure when and how well it is actually met
-and frameworks used to understand fallacies
-the systematical treatment of the dynamic behavior of interconnected bodies has led to a large number of important unk in the field of mechanics
-ban logic inspired many other similar such as unk logic
-4 of peirce collected papers the source for the in unk 2 unk and unk 3 unk above
-adaptive machine
-it allows for complex experiments on corpora to be realised conveniently using various types of declarative and reducing considerably the development costs
-the themselves are not presented in full what is presented are simplified versions that are however sufficient to show how the frame problem is solved
-other unk besides recursion the and the turing machine unk have been proposed for describing effective
-he was a stickler for legal which in essence meant that he introduced new constitutions any time it suited his political ends although this was also the rule during the 19th
-the attractive aspects of the are compactness and high accuracy
-the current version of syntax unk version 6.0 beta unk includes also parser generators for other used for natural language processing as well as unk
-recently mukherjee has developed a suite of state-specific many-body like coupled cluster and perturbative theories which bypass the difficulty of the notorious intruder problem for computing potential energy surfaces
-it is distinguished from mathematical for theories developed prior to the early 1900s by the use of abstract mathematical structures such as infinite-dimensional hilbert spaces and operators on these spaces
-the argument is that the intermediate scale creates effects which need to be described using different measurements mathematical and ideas
-they are highly expressive and provide good for the modeling of concurrent systems
-chomsky unk 1963 unk introduces the notion of strong equivalence and argues that only strong equivalence is relevant when comparing grammar
-1 asn
-unlike other probabilistic dop takes into account all subtrees contained in a unk rather than being restricted to for example 2-level subtrees unk like unk unk
-university of grenoble he spent 1967 unk 1970 as assistant professor at the university of montreal where he created unk one of the earliest linguistic used in the development of the unk machine translation prototype
-summary of mass concepts and
-this can be shown under various mathematical for quantum mechanics
-in contrast to most semantic wikis unk is form-based rather than unk and thus tries to hide as much of the complexity of knowledge representation from users as possible
-the following is a list unk by no means complete unk of grammar that by shutt definition above are considered to be unk or have been classified by their own inventors as being unk adaptive grammars
-adaptive in the literature
-perhaps more important however has been the incorporation of its ideas into the mathematical and logical developed in many fields without always citing their historical legacy
-typically the knowledge representation developed in srl use unk a subset of unk first-order logic to describe relational properties of a domain in a general manner unk universal quantification
-glue analyses within other syntactic have also been proposed besides lfg glue analyses have been proposed within unk context-free grammar categorial grammar and unk grammar
-unk logic and natural deduction are but two kinds of proof systems among a large family of
-numerous mathematical have been established to handle the case of an interacting system
-the mathematical formulation of quantum mechanics is the body of mathematical which permits a rigorous description of quantum mechanics
-since everett original work there have appeared a number of similar in the literature
-all unk simulation used for code generation create their equations in the form of typical explicit differential equations unk ode unk
-to describe such unk formal language theory uses separate known as automata theory
-the unk is based on the logical as description logic first-order logic and logic programming
-so these are only used to predict unk or properties of compounds unk
-dos reis academic writings show an inclination to prefer practical solutions over dated in issues of legal procedure
-in most if there is any unk that matches a particular set then there is an infinite number of such expressions
-in the 1930s and 1940s the of alonzo church lambda calculus and alan turing turing machines provided mathematical abstractions for expressing algorithms the lambda calculus remains influential in language design
-there are two features of description logics that are not shared by most other data description dls do not make the unique name assumption unk una unk or the closed world assumption unk cwa unk
-while these systems are quite different at the first glance they all are described by similar and their typical phase diagrams are identical
-the more formal people are in approaching her the more the ecclesiastical hierarchies appear closed in their unk their their unk way of thinking
-these methods collectively called unk coupled cluster are versatile and powerful methods for predicting with quantitative accuracy the energetics and cross-sections of a vast range of molecular excitations and ionization
-formal language theory mostly studies to describe sets of strings such as context-free grammars and regular expressions
-unk and weir unk 1994 unk demonstrates that linear indexed grammars combinatory categorial grammars unk grammars and head grammars are weakly equivalent in that the all define the same string languages
-for these reasons the feynman path integral has made earlier largely obsolete
-these methods do not share the shortcomings of the previously used effective hamiltonian applied to cases warranting a unk description
-are thermodynamic for turbulence modeling
-most provide the following operations to construct regular expressions
-components exist independently from pep and employ various and notations the pep tool uses converters to link them together
-chic supports a variety of interface property specification for a variety of application domains such as unk analysis for embedded systems behavioral compatibility of web service applications etc.
-in some cases the ability to accurately translate information among systems using different syntaxes may be limited to one direction when the used have different levels of expressivity unk ability to express information unk
-also several researchers have captured the formal semantics of subsets of bpel in terms of various including petri nets process algebra and finite state machine
-there are a number of related of this kind in linguistics such as type logical grammar
-as already mentioned the methods and of universal algebra are an important tool for many order theoretic considerations
-these methods collectively called unk coupled cluster unk unk unk are versatile and powerful methods for predicting with quantitative accuracy the energetics of a vast range of molecular excitations and ionization
-numerous researchers have explored algorithmic composition grounded in a wide range of mathematical
-bonding is often described using the of molecular orbital theory
-these are context-sensitive unk tag unk unk or that rely on context-free grammars and are extended thanks to attribute evaluation in particular for natural language processing unk lfg unk
-at one point in the exchange butler refers to the exercise as an unintentional comedy of unk chu p. 137 unk with each writer accusing the other two of being too abstract and formalist in relation to the declared themes of
-grammar modification was also closely associated with the movement resulting in the eventual development of adaptive grammar
-other research focuses on the specification of interaction techniques sometimes using such as petri nets for the purposes of formal verification
-new statistical and mathematical approaches to ai were developed in the 1990s using highly developed such as bayesian nets and mathematical optimization
-theory can refer to the design analysis and study of type systems although some computer scientists limit the term meaning to the study of abstract such as typed
-the term high-level petri net is used for many petri net that extend the basic net formalism this includes coloured petri nets hierarchical petri nets and all other extensions sketched in this section
-the reason we obtain radically different answers from these two is probably because of the wrong mean field solution we choose which means that we are dealing with the spin unk charge separation in a
-categorial grammar unk also unk c al grammar unk is a term used for a family of in natural language syntax motivated by the principle of compositionality and organized according to the view that syntactic constituents should generally combine as functions or
-when no depolarization occurs both are fully consistent
-the underlying mathematical of cip were first proposed by the physicist hugo unk
-similar considerations apply to that describe not sets of strings but sets of trees unk e.g. xml schema languages unk of graphs or other structures
-the attractive aspects of the are unk compactness and high accuracy
-in other words the curry unk howard correspondence is the simple observation that two unk families of the proof systems on one side and the models of computation on the other side were on the two examples considered by curry and howard
-depicting transport networks include membrane systems and brane calculi
-eigenfunctions unk are they a complete set unk and under what circumstances does a point spectrum or a continuous spectrum arise unk how do the for infinite dimensional spaces and finite dimensional spaces differ or do they differ unk can these ideas be extended to a broader class of spaces
-the belongs to the family of process calculi mathematical for describing and analyzing properties of concurrent computation
-the design of languages and involves a trade-off between expressive power and unk
-constructed languages such as esperanto programming languages and various mathematical are not necessarily restricted to the properties shared by human languages
-this approach is essentially equivalent to a system of phrase structure rules combined with a unk semantic theory since grammatical based on rewriting rules are generally equivalent in power to those based on substitution into schemata
-the listed below while not grammar either serve as the basis of full grammar or are included here because they are adaptive in nature
-in terms of unk the three oxygen atoms are in the -2 oxidation state and the sulfur atom has an oxidation state of a formal charge of 0 and
-these also obey the usual commutation relations for angular momentum and
-well-known applications of ladder operators in quantum mechanics are in the of the quantum harmonic oscillator and angular momentum
-these are context-sensitive unk tag unk unk or that rely on context-free grammars and are extended thanks to attribute evaluation in particular for natural language processing unk
-however none of the above addresses the crucial property of guarantee of service unk see unbounded nondeterminism unk
-and computer science type theory is any of several formal systems that can serve as alternatives to naive set theory or the study of such in general
-that vary over time unk such as adaptive grammars unk may rely on these side effects
-unlike many other semantic predicate transformer semantics was not designed as an investigation into foundations of computation
-contemporary unk economists claim to adopt economic subjectivism more consistently than any other school of economics and reject many neoclassical
-unk grammars are often found lacking in these areas so instead they turn to such as unk phrase structure grammar or lexical functional grammar
-another difference regarding the semantics of the two is expressed in 8 whereas brane calculi are usually equipped with an interleaving sequential semantics unk each computational step consists of the execution of a
-in the early 1980s however according to zachman there was little interest in the idea of enterprise reengineering or enterprise modeling and the use of and models was generally limited to some aspects of application development within the information systems community
-like petri nets in general and many related and notations they are used to describe and analyze process architecture
-unk
-in the latter operating on nothing is not well-formed
-unk and miller unk 1994 unk offer a refined notion of strong equivalence that allows for isomorphic relationships between the syntactic analyses given by different
-the unk unk concurrent object-oriented petri nets unk specification language is based on both algebraic specifications and algebraic petri nets
-the final stage uses various to assess whether or not an error actually has occurred
-unk is a distribution that includes a number of extensions to gnu emacs to provide an integrated development environment and support among many latex editing
-in linguistics unk grammar categorial grammar and montague grammar apply based on structural proof theory to give a formal natural language semantics
-such an algebra grasps a lot of of computer science which seem to be different on the surface relational databases multiple systems of formal logic or numerical problems of linear algebra
-adaptive may be divided into two main categories full grammar unk adaptive grammars unk and adaptive machines upon which some grammar have been based
-cg systems can be used to create full syntactic trees in other by adding small non-terminal based phrase structure grammars or dependency grammars and a number of projects have used constraint grammar for automatic annotation
-as an important feature unk system usually offer an algorithmic computer-aided way to model analyze simulate and optimize the arbitrary motion of possibly thousands of interconnected bodies
-computational linguists who work with practical applications such as machine translation information retrieval or question answering need grammar that respond to needs for both high efficiency unk fast parsing unk high coverage unk large amount of structures of english e.g. described unk and
-however apda style is less structured and theoretical than the unk style and demands less usage of technical debate
-expressive power while that of context-free grammars is greater what this means is that the sets of sets of strings described by the first three are equal and a proper subset of the set of sets of strings described by context-free grammars
-the mgs computational model is a generalisation of cellular automata unk systems unk systems and other computational inspired by chemistry and biology
-the possible states of a mechanical system are thought to be points of an abstract space phase space in lagrangian and hamiltonian of classical mechanics
-the languages generated by these properly lie between the context-free and context-sensitive languages
-formal language theory rarely concerns itself with particular languages unk except as examples unk but is mainly concerned with the study of various types of to describe languages
-all state machine including uml state machines universally assume that a state machine completes processing of each event before it can start processing the next event
-in any case these quantum logic must be generalized in order to deal with unk unk which is needed to handle unk unk and non-commutative geometry unk which is needed in
-stagflation undermined faith in a keynesian consensus and placed renewed emphasis on microeconomic behavior particularly neoclassical economics with its attempt to root macroeconomics in microeconomic
-in terms of unk the sulfur atom has an oxidation state of a formal charge of 0 and is surrounded by 5 electron pairs and can be described as
-both are turing complete
-to permit the true nature of a transaction to be disguised by mere which exist solely to alter tax liabilities would seriously impair the effective administration of the tax policies of congress
-engine unk unk unk unk this approach can not cover the full expressivity of unk due to many incompatibility between description logic and horn rule unk expand an existing unk reasoner based on the tableaux algorithm unk pellet unk
-alex p. pentland and martin fischer of mit argued in response that there is no question that deduction and unk will play an important role in ai research however it does not seem that they are up to the royal role that nils suggests
+in the following how the frame problem is solved in various formalisms is shown
+semantic formalisms that have been used as the meaning languages in glue semantics analyses include versions of discourse representation theory intensional logic first-order logic and natural semantic
+the above formalisms are like the pa all instances of boundary mathematics i.e. mathematics whose syntax is limited to letters and brackets unk enclosing devices unk
+among them the assignment of objective status to mathematical objects as in platonism although they are formalisms used in a linguistic fashion for communications between living beings and thus subject to the same subject-object problems as other forms of such communication
+his calculus has thus become one of the fundamental formalisms of computational linguistics
+formalisms such as random access machines or universal turing machines can be used as abstract models of a sequential general-purpose computer executing such an algorithm
+having no long vowels and a single tone the high tone unk distinguished from neutral baseline pitch unk but she acknowledges that linguists using other formalisms would be justified in saying that there are two tones high and low unk or unmarked or mid unk
+an important yardstick for describing the relative expressive power of formalisms in this area is the chomsky hierarchy
+for example taking the formalisms of electromagnetic radiation and supposing a tachyon had an electric charge unk as there is no reason to suppose a priori that tachyons must be
+however there is a strong need for high-level approaches formalisms and tools that support and facilitate the description of reusable adaptive hypermedia and websites
+for more expressive formalisms this problem can be harder or even undecidable
+joy and cat differ from most functional languages unk e.g. scheme haskell unk and language formalisms unk e.g. lambda calculus combinatory logic unk in that they are based on the composition of functions rather than function application
+pfl is arguably the simplest of these formalisms yet also the one about which the least has been written
+in the first half of the 20th century various formalisms were proposed to capture the informal concept of a computable function with functions turing machines and the lambda calculus possibly being the best-known examples today
+this article assumes familiarity with the standard lagrangian and hamiltonian formalisms and their connection to canonical quantization
+as mentioned earlier some grammar formalisms are very difficult to parse computationally in general even if the desired structure is not context-free some kind of context-free approximation to the grammar is
+these formalisms are context-sensitive formalisms unk tag unk unk or formalisms that rely on context-free grammars and are extended thanks to attribute evaluation in particular for natural
+later on a series of formalisms have been derived only to mention lagrange formalisms based on minimal coordinates and a second formulation that introduces constraints
+a superset of perl 5 features with respect to unk folding them into a larger framework called rules which provide the capabilities of context-sensitive parsing formalisms unk such as the syntactic predicates of parsing expression grammars and unk unk as well as acting as a closure with respect to their lexical
+for this purpose unk have chosen to integrate two popular intuitive yet mathematically precise rule-based specification formalisms namely graph transformation unk gt unk and abstract state machines unk asm unk to manipulated graph based models
+yoshinaga unk and unk unk 2002 unk offers a proof of the strong equivalency of the unk and unk formalisms
+among them formalisms which allow to have changing model structures while the simulation time evolves
+unk phrase structure grammar is another linguistic formalism which has been popular in the parsing community but other research efforts have focused on less complex formalisms such as the one used in the penn unk
+the static semantics defines restrictions on the structure of valid texts that are hard or impossible to express in standard syntactic formalisms
+unk 1993 unk first showed how intuitionistic linear logic can be explained as a logic of resources so providing the logical language with access to formalisms that can be used for reasoning about resources within the logic itself rather than as in classical logic by means of non-logical predicates and relations
+the table below summarizes the 5s models in terms of their primitives underlying formalisms and objectives
+most later mathematical formalisms unk hilbert formalism unk mathematics unk or brower intuitionism for example unk do not use it
+in 12 the initiators of these two formalisms describe the goals they had in mind while membrane computing is a branch of natural computing which tries to abstract computing models in the turing
+unk the dormant commerce clause formalisms spilled over into its article i jurisprudence
+adaptive grammar formalisms
+in the years since a wide variety of formalisms have been developed for modeling and reasoning about concurrency
+one difficulty in evaluating this separation is the lack of well-defined formalisms to measure when and how well it is actually met
+formalisms and frameworks used to understand fallacies
+the systematical treatment of the dynamic behavior of interconnected bodies has led to a large number of important unk formalisms in the field of mechanics
+ban logic inspired many other similar formalisms such as unk logic
+4 of peirce collected papers the source for the formalisms in unk 2 unk and unk 3 unk above
+adaptive machine formalisms
+it allows for complex experiments on corpora to be realised conveniently using various types of declarative formalisms and reducing considerably the development costs
+the formalisms themselves are not presented in full what is presented are simplified versions that are however sufficient to show how the frame problem is solved
+other formalisms unk besides recursion the and the turing machine unk have been proposed for describing effective
+he was a stickler for legal formalisms which in essence meant that he introduced new constitutions any time it suited his political ends although this was also the rule during the 19th
+the attractive aspects of the formalisms are compactness and high accuracy
+the current version of syntax unk version 6.0 beta unk includes also parser generators for other formalisms used for natural language processing as well as unk
+recently mukherjee has developed a suite of state-specific many-body formalisms like coupled cluster and perturbative theories which bypass the difficulty of the notorious intruder problem for computing potential energy surfaces
+it is distinguished from mathematical formalisms for theories developed prior to the early 1900s by the use of abstract mathematical structures such as infinite-dimensional hilbert spaces and operators on these spaces
+the argument is that the intermediate scale creates effects which need to be described using different measurements mathematical formalisms and ideas
+they are highly expressive and provide good formalisms for the modeling of concurrent systems
+chomsky unk 1963 unk introduces the notion of strong equivalence and argues that only strong equivalence is relevant when comparing grammar formalisms
+1 formalisms asn
+unlike other probabilistic formalisms dop takes into account all subtrees contained in a unk rather than being restricted to for example 2-level subtrees unk like unk unk
+university of grenoble he spent 1967 unk 1970 as assistant professor at the university of montreal where he created unk one of the earliest linguistic formalisms used in the development of the unk machine translation prototype
+summary of mass concepts and formalisms
+this can be shown under various mathematical formalisms for quantum mechanics
+in contrast to most semantic wikis unk is form-based rather than unk and thus tries to hide as much of the complexity of knowledge representation formalisms from users as possible
+the following is a list unk by no means complete unk of grammar formalisms that by shutt definition above are considered to be unk or have been classified by their own inventors as being unk adaptive grammars
+adaptive formalisms in the literature
+perhaps more important however has been the incorporation of its ideas into the mathematical and logical formalisms developed in many fields without always citing their historical legacy
+typically the knowledge representation formalisms developed in srl use unk a subset of unk first-order logic to describe relational properties of a domain in a general manner unk universal quantification
+glue analyses within other syntactic formalisms have also been proposed besides lfg glue analyses have been proposed within unk context-free grammar categorial grammar and unk grammar
+unk logic and natural deduction are but two kinds of proof systems among a large family of formalisms
+numerous mathematical formalisms have been established to handle the case of an interacting system
+the mathematical formulation of quantum mechanics is the body of mathematical formalisms which permits a rigorous description of quantum mechanics
+since everett original work there have appeared a number of similar formalisms in the literature
+all unk simulation formalisms used for code generation create their equations in the form of typical explicit differential equations unk ode unk
+to describe such unk formal language theory uses separate formalisms known as automata theory
+the unk is based on the logical formalisms as description logic first-order logic and logic programming
+so these formalisms are only used to predict unk or properties of compounds unk
+dos reis academic writings show an inclination to prefer practical solutions over dated formalisms in issues of legal procedure
+in most formalisms if there is any unk that matches a particular set then there is an infinite number of such expressions
+in the 1930s and 1940s the formalisms of alonzo church lambda calculus and alan turing turing machines provided mathematical abstractions for expressing algorithms the lambda calculus remains influential in language design
+there are two features of description logics that are not shared by most other data description formalisms dls do not make the unique name assumption unk una unk or the closed world assumption unk cwa unk
+while these systems are quite different at the first glance they all are described by similar formalisms and their typical phase diagrams are identical
+the more formal people are in approaching her the more the ecclesiastical hierarchies appear closed in their unk their formalisms their unk way of thinking
+these methods collectively called unk coupled cluster formalisms are versatile and powerful methods for predicting with quantitative accuracy the energetics and cross-sections of a vast range of molecular excitations and ionization
+formal language theory mostly studies formalisms to describe sets of strings such as context-free grammars and regular expressions
+unk and weir unk 1994 unk demonstrates that linear indexed grammars combinatory categorial grammars unk grammars and head grammars are weakly equivalent formalisms in that the all define the same string languages
+for these reasons the feynman path integral has made earlier formalisms largely obsolete
+these methods do not share the shortcomings of the previously used effective hamiltonian formalisms applied to cases warranting a unk description
+are thermodynamic formalisms for turbulence modeling
+most formalisms provide the following operations to construct regular expressions
+components exist independently from pep and employ various formalisms and notations the pep tool uses converters to link them together
+chic supports a variety of interface property specification formalisms for a variety of application domains such as unk analysis for embedded systems behavioral compatibility of web service applications etc.
+in some cases the ability to accurately translate information among systems using different syntaxes may be limited to one direction when the formalisms used have different levels of expressivity unk ability to express information unk
+also several researchers have captured the formal semantics of subsets of bpel in terms of various formalisms including petri nets process algebra and finite state machine
+there are a number of related formalisms of this kind in linguistics such as type logical grammar
+as already mentioned the methods and formalisms of universal algebra are an important tool for many order theoretic considerations
+these methods collectively called unk coupled cluster unk unk unk formalisms are versatile and powerful methods for predicting with quantitative accuracy the energetics of a vast range of molecular excitations and ionization
+numerous researchers have explored algorithmic composition grounded in a wide range of mathematical formalisms
+bonding is often described using the formalisms of molecular orbital theory
+these formalisms are context-sensitive formalisms unk tag unk unk or formalisms that rely on context-free grammars and are extended thanks to attribute evaluation in particular for natural language processing unk lfg unk
+at one point in the exchange butler refers to the exercise as an unintentional comedy of formalisms unk chu p. 137 unk with each writer accusing the other two of being too abstract and formalist in relation to the declared themes of
+grammar modification was also closely associated with the movement resulting in the eventual development of adaptive grammar formalisms
+other research focuses on the specification of interaction techniques sometimes using formalisms such as petri nets for the purposes of formal verification
+new statistical and mathematical approaches to ai were developed in the 1990s using highly developed formalisms such as bayesian nets and mathematical optimization
+theory can refer to the design analysis and study of type systems although some computer scientists limit the term meaning to the study of abstract formalisms such as typed
+the term high-level petri net is used for many petri net formalisms that extend the basic net formalism this includes coloured petri nets hierarchical petri nets and all other extensions sketched in this section
+the reason we obtain radically different answers from these two formalisms is probably because of the wrong mean field solution we choose which means that we are dealing with the spin unk charge separation in a
+categorial grammar unk also unk c al grammar unk is a term used for a family of formalisms in natural language syntax motivated by the principle of compositionality and organized according to the view that syntactic constituents should generally combine as functions or
+when no depolarization occurs both formalisms are fully consistent
+the underlying mathematical formalisms of cip were first proposed by the physicist hugo unk
+similar considerations apply to formalisms that describe not sets of strings but sets of trees unk e.g. xml schema languages unk of graphs or other structures
+the attractive aspects of the formalisms are unk compactness and high accuracy
+in other words the curry unk howard correspondence is the simple observation that two unk families of formalisms the proof systems on one side and the models of computation on the other side were on the two examples considered by curry and howard
+formalisms depicting transport networks include membrane systems and brane calculi
+eigenfunctions unk are they a complete set unk and under what circumstances does a point spectrum or a continuous spectrum arise unk how do the formalisms for infinite dimensional spaces and finite dimensional spaces differ or do they differ unk can these ideas be extended to a broader class of spaces
+the belongs to the family of process calculi mathematical formalisms for describing and analyzing properties of concurrent computation
+the design of languages and formalisms involves a trade-off between expressive power and unk
+constructed languages such as esperanto programming languages and various mathematical formalisms are not necessarily restricted to the properties shared by human languages
+this approach is essentially equivalent to a system of phrase structure rules combined with a unk semantic theory since grammatical formalisms based on rewriting rules are generally equivalent in power to those based on substitution into schemata
+the formalisms listed below while not grammar formalisms either serve as the basis of full grammar formalisms or are included here because they are adaptive in nature
+in terms of unk formalisms the three oxygen atoms are in the -2 oxidation state and the sulfur atom has an oxidation state of a formal charge of 0 and
+these formalisms also obey the usual commutation relations for angular momentum and
+well-known applications of ladder operators in quantum mechanics are in the formalisms of the quantum harmonic oscillator and angular momentum
+these formalisms are context-sensitive formalisms unk tag unk unk or formalisms that rely on context-free grammars and are extended thanks to attribute evaluation in particular for natural language processing unk
+however none of the above formalisms addresses the crucial property of guarantee of service unk see unbounded nondeterminism unk
+and computer science type theory is any of several formal systems that can serve as alternatives to naive set theory or the study of such formalisms in general
+formalisms that vary over time unk such as adaptive grammars unk may rely on these side effects
+unlike many other semantic formalisms predicate transformer semantics was not designed as an investigation into foundations of computation
+contemporary unk economists claim to adopt economic subjectivism more consistently than any other school of economics and reject many neoclassical formalisms
+unk grammars are often found lacking in these areas so instead they turn to formalisms such as unk phrase structure grammar or lexical functional grammar
+another difference regarding the semantics of the two formalisms is expressed in 8 whereas brane calculi are usually equipped with an interleaving sequential semantics unk each computational step consists of the execution of a
+in the early 1980s however according to zachman there was little interest in the idea of enterprise reengineering or enterprise modeling and the use of formalisms and models was generally limited to some aspects of application development within the information systems community
+like petri nets in general and many related formalisms and notations they are used to describe and analyze process architecture
+unk formalisms
+in the latter formalisms operating on nothing is not well-formed
+unk and miller unk 1994 unk offer a refined notion of strong equivalence that allows for isomorphic relationships between the syntactic analyses given by different formalisms
+the unk unk concurrent object-oriented petri nets unk specification language is based on both algebraic specifications and algebraic petri nets formalisms
+the final stage uses various formalisms to assess whether or not an error actually has occurred
+unk is a distribution that includes a number of extensions to gnu emacs to provide an integrated development environment and support among many formalisms latex editing
+in linguistics unk grammar categorial grammar and montague grammar apply formalisms based on structural proof theory to give a formal natural language semantics
+such an algebra grasps a lot of formalisms of computer science which seem to be different on the surface relational databases multiple systems of formal logic or numerical problems of linear algebra
+adaptive formalisms may be divided into two main categories full grammar formalisms unk adaptive grammars unk and adaptive machines upon which some grammar formalisms have been based
+cg systems can be used to create full syntactic trees in other formalisms by adding small non-terminal based phrase structure grammars or dependency grammars and a number of projects have used constraint grammar for automatic annotation
+as an important feature unk system formalisms usually offer an algorithmic computer-aided way to model analyze simulate and optimize the arbitrary motion of possibly thousands of interconnected bodies
+computational linguists who work with practical applications such as machine translation information retrieval or question answering need grammar formalisms that respond to needs for both high efficiency unk fast parsing unk high coverage unk large amount of structures of english e.g. described unk and
+however apda style is less structured and theoretical than the unk style and demands less usage of technical debate formalisms
+expressive power while that of context-free grammars is greater what this means is that the sets of sets of strings described by the first three formalisms are equal and a proper subset of the set of sets of strings described by context-free grammars
+the mgs computational model is a generalisation of cellular automata unk systems unk systems and other computational formalisms inspired by chemistry and biology
+the possible states of a mechanical system are thought to be points of an abstract space phase space in lagrangian and hamiltonian formalisms of classical mechanics
+the languages generated by these formalisms properly lie between the context-free and context-sensitive languages
+formal language theory rarely concerns itself with particular languages unk except as examples unk but is mainly concerned with the study of various types of formalisms to describe languages
+all state machine formalisms including uml state machines universally assume that a state machine completes processing of each event before it can start processing the next event
+in any case these quantum logic formalisms must be generalized in order to deal with unk unk which is needed to handle unk unk and non-commutative geometry unk which is needed in
+stagflation undermined faith in a keynesian consensus and placed renewed emphasis on microeconomic behavior particularly neoclassical economics with its attempt to root macroeconomics in microeconomic formalisms
+in terms of unk formalisms the sulfur atom has an oxidation state of a formal charge of 0 and is surrounded by 5 electron pairs and can be described as
+both formalisms are turing complete
+to permit the true nature of a transaction to be disguised by mere formalisms which exist solely to alter tax liabilities would seriously impair the effective administration of the tax policies of congress
+engine unk unk unk unk this approach can not cover the full expressivity of unk due to many incompatibility between description logic and horn rule formalisms unk expand an existing unk reasoner based on the tableaux algorithm unk pellet unk
+alex p. pentland and martin fischer of mit argued in response that there is no question that deduction and unk formalisms will play an important role in ai research however it does not seem that they are up to the royal role that nils suggests
+

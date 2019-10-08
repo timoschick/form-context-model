@@ -14,7 +14,9 @@ The contents of this directory are as follows:
 
 - context/<rareword>.txt: This file contains at least 128 sentences from the WWC 
   in which <rareword> occurs. Each line contains exactly one sentence. A such file 
-  exists for each of the 414 rare words listed in rarevocab.txt.
+  exists for each of the 414 rare words listed in rarevocab.txt. Note that in the most recent 
+  version, the rare word is **not removed** from the sentence. The previous version can
+  be found in the subdirectory `without_target_word`.
  
 ## References 
 

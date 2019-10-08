@@ -1,301 +1,302 @@
-in this model tropomyosin can take two blocked and open
-noncovalent interactions are extremely important in catalysis binding reactants into suitable for reaction and lowering the transition state energy of reaction
-pvdf exists in several forms alpha unk unk unk beta unk unk unk and gamma unk unk unk phases depending on the chain as trans unk t unk or gauche unk g unk linkages
-in biochemistry unk kinetics is a branch of chemical kinetics in which the kinetic species are defined by different non-covalent bindings of the molecules involved which are denoted as receptor unk s unk and ligand unk s unk
-in physical knot theory a knot energy is a functional on the space of all knot
-the levinthal paradox states that the number of possible available to a given protein is astronomically large
-in particular which are poor in secondary structures are unlikely to be unk
-the energy of these can be calculated from quantum mechanics an example of possible unk interconversions is given
-for unk unk the energy difference between the staggered and eclipsed is only a few mol
-despite this apparent freedom only two limiting are important eclipsed conformation and staggered conformation
-from this energy difference the equilibrium constant for the two can be determined
-like other gtpases unk switch between two an inactive form bound to gdp unk guanosine diphosphate unk and an active form bound to gtp unk guanosine triphosphate unk
-our results demonstrate the power of hi-c to map the dynamic of whole genomes
-these alkyl groups which can shape themselves in numerous make it very difficult for the polymer molecules to line themselves up side-by-side in an orderly way
-for proteins a prediction consists of assigning regions of the amino acid sequence as likely alpha helices beta strands unk often noted as extended unk or turns
-however there are two possible gauche and only one anti conformation
-the conformation name is derived from the idea that in the absence of specific stabilizing interactions a polymer backbone will sample all possible randomly
-within the u2 snrna there are other mutually exclusive rearrangements that occur between competing
-they form a high energy unk intermediate in the reaction cycle and they unk between at least two different denoted by e1 and e2
-arf cycles between gtp and unk
-if a protein was to attain its correctly folded configuration by sequentially sampling all the possible it would require a time longer than the age of the universe to arrive at its correct native conformation
-during his phd balaram studied the use of negative nuclear overhauser effect signals as probes of macromolecular
-unk is a unk unk unk unk a type of organic molecule with some conformational isomerism that can bind the enzyme reverse transcriptase in multiple allowing for a more robust interaction between unk and the enzyme even in the presence of mutations
-unk at this point the flexibility of the rings increases with increasing size this allows for that can significantly mitigate unk interactions
-wilson had proven that the energy barrier between any pair of eclipsed and staggered was approximately 3 and the generally accepted rationale for this was the unfavorable steric interactions between hydrogen atoms
-if there are substituents larger than hydrogen then steric hindrance may influence the relative unk of the
-the structures provided detailed pictures of the interaction of the transmembrane and abc domains as well as revealed two different with an opening in two opposite directions
-when a deformation is imposed on a muscle changes in cellular and molecular link the mechanical forces with biochemical signals and the close integration of mechanical signals with electrical metabolic and hormonal signaling may disguise the aspect of
-since the possible number of unk complex geometry is usually very large different algorithms are used in order to accurately explore the space of possible while decreasing the computational power needed for the docking calculation at the same time
-1 unk proteins can exist under various in thermal equilibrium in the absence of regulators the allosteric regulators merely shift the equilibrium between the stabilizing the ones for which they display the highest affinity and 2 unk all the subunits of a symmetrical multimeric protein exist in the same
-unk fold into unk three-dimensional but are not true topological knots
-are not unk in three dimensions and can be characterized by their dihedral angles the angle between two planes formed by unk and unk in
-the prion that is believed to cause creutzfeldt unk jakob exhibits at least two stable
-this situation varies in unusual of dna within the cell unk see below unk but the major and minor grooves are always named to reflect the differences in size that
-when comparing relative stability 6 unk and unk interactions can be used to approximate differences in enthalpy between
-is a novel method for identification of protein rigid blocks unk domains and loops unk from two different
-it is important to keep in mind that molecules have considerable flexibility and thus depending on the medium may adopt a variety of different
-of rna unk adenosine in a protein shuttle mechanism other steps in protein synthesis unk such as translocation unk are caused by changes in protein
-of five membered rings are limited to two envelope and twist
-this unique combination of contacts and of tpp leads to formation of the reactive unk eventually
-unlike its c5 unk unk acid which may occur in a number of glucuronic acid occurs in predominantly the unk conformation
-specific domains of the channel subunits have been identified that are important for unk and converting between the open conformation of the channel and closed
-through advancements in modern medicine and neuroscience scientists have generally concluded that feeling of the outer skull is not an accurate predictor of behavior
-of intermediates in the folding of the pancreatic trypsin inhibitor
-glycoprotein h has two
-there are some molecules that can be isolated in several due to the large energy barriers between different
-the main ideas behind this theory are 1 unk proteins can exist under various in thermal equilibrium in the absence of regulators the allosteric regulators merely shift the equilibrium between the stabilizing the ones for which they display
-plants unk function as valves in sieve tubes of the phloem system by reversibly changing shape between low-volume ordered unk spindles and high-volume disordered spherical
-however there is no evidence to suggest that changes between these occur in a concerted fashion
-derek barton and odd hassel both shared the nobel prize for work on the of cyclohexane and various other molecules
-a certain conformation is of the lowest possible energy is rather difficult it is possible by observing the energy distribution of a large number of despite the almost infinite number of different protein possible for any given protein unk see levinthal paradox unk with a reasonably large number of
-structural superposition is commonly used to compare multiple of the same protein unk in which case no alignment is necessary since the sequences are the same unk and to evaluate the quality of
-with our previous studies on z-dna we now have a single method to predict the relative stability of sequences in the three standard dna duplex
-the theoretical upper limit of accuracy is around 90 % partly due to idiosyncrasies in unk assignment near the ends of secondary structures where local vary under native conditions but may be forced to assume a single conformation in crystals due to packing constraints
-a channel may have several different states unk corresponding to different of the protein unk but each such state is either open or closed
-because of its unk the unk rings can adopt either of two which are described by the symbols and
-this increase in bond length decreases the electron withdrawing ability of o-6 causing a higher rate of hydrolysis than the other two
-unk the of even amorphous polymers will change when they go into solution and most thermoplastic polymers also have lamellar crystalline regions which do not persist in
-the sidechain dihedral angles tend to cluster near 180 60 and -60 which are called the trans gauche and gauche unk
-is also a substrate in the reaction catalyzed by unk the biologically active form of the enzyme is a tetramer that exists in two possible only one of which binds the second substrate unk unk unk unk
-the authors were investigating cyclohexane including unk and unk double bonds when they noticed certain were disfavored due to the geometry constraints caused by the double bond
-rotation about the central c-c bond produces two different unk trans and gauche unk for n unk butane
-coloring and selecting candidate clusters of unk and switching to a parallel coordinates representation unk used for instance for defining clusters of favorable rna backbone in the unk space of backbone dihedral angles between one ribose and the next
-it had been accepted as early as the 1930 that the staggered of ethane were more stable than the eclipsed
-the ability to predict macromolecular from sequence and thermodynamic principles has long been coveted but generally has not been achieved
-these various are themselves almost always chiral
-with the introduction of the precursor film concept the triple line can follow energetically feasible and thereby correctly explaining the cassie unk baxter model
-thus the adopted by polymers dissolved in theta solvents are identical to those adopted in bulk polymer
-the discovery of functional selectivity and that unk receptor occur and can affect interaction of receptors with different second messenger systems may mean that drugs can be designed to activate some of the downstream
-give a descriptor value that is independent of the particular characteristics of the molecular representation such as atom numbering or labeling spatial reference frame molecular etc.
-application of a stress favors some over others so the molecules of the polymer will gradually flow into the favored over time
-protein unk can be modeled using spin glass
-both postulate that enzyme subunits exist in one of two tensed unk t unk or relaxed unk r unk and that relaxed subunits bind substrate more readily than those in the tense state
-loop modeling is a problem in protein structure prediction requiring the prediction of the of loop regions in proteins without the use of a structural template
-surface charges that would ordinarily interact with solvent molecules instead interact with each other producing molecular that are unlikely to be present in any other environment
-the and motifs and disulfide bridges are crucial to the of globular functional proteins like enzymes many of which operate unk but they take on a completely dominant role in the architecture and aggregation of
-the actual structure will always differ somewhat from these idealised forms as the differences in energy between the are small compared to the thermal energy of the molecules alkane molecules have no fixed structural form whatever the models may suggest
-as usual in statistical mechanics these states correspond to ensembles of molecular not just one conformation
-this model presents two principal of the nucleotide-binding domains unk unk unk formation of a closed dimer upon binding two atp molecules and dissociation to an open dimer facilitated by
-unk of the starting amino alcohol amount of atom movement during carbon-carbon bond formation of intermediates and much more are all now considered factors in product formation
-because of the unk nature of this model the number of possible is significantly reduced
-the barrier of rotation between staggered of ethane is approximately 3.0
-the simulation of the evolution of the genome is carried out by cross-over techniques similar to biological evolution where random pairs of individuals unk unk are mated with the possibility for a random mutation in the offspring
-knowledge-based functions are formed with statistical models capturing aspects of the properties of native protein
-in some cases there is too much residual disorder in those atoms and the resulting electron density for atoms existing in many is smeared to such an extent that it is no longer detectable in the electron density map
-amino acid residues which are not in any of the above are assigned as the eighth type coil often codified as unk space unk c unk coil unk or unk unk dash unk
-the levinthal paradox states that if an averaged sized protein would sample all possible before finding the one with the lowest energy the whole process would take billions of years
-chemistry methods that can attain high accuracy for small molecules although claims that acceptable accuracy can be also achieved for unk as well as dna were recently made on the basis of vcd spectral data
-for both apo of unk the chamber opening is facing inward
-recent research suggests that both unk and b-dna consist of two distinct nucleotide unk and unk
-over eighty serpin structures in a variety of different unk described below unk have been determined to date
-in these cases it is important that both proteins be able to properly fold into their active and interact with their substrates despite being fused
-unk containing proteins only bind unk dna unk kinked or unwound unk with high affinity
-the possible are combinations of anti and gauche and are unk unk gauche unk gauche and gauche unk gauche of which the last one is
-possible for a single atom to appear multiple times in an electron density map e.g. if a protein sidechain has multiple unk 4 unk allowed
-the helices unk g h and i unk and sheet are all required to have a reasonable length
-this flexibility range accounts for the different of the ligand with energies slightly above the strain energy of the natural bite angle
-although the b-dna form is most common under the conditions found in cells it is not a well-defined conformation but a family of related dna that occur at the high hydration levels present in living cells
-the random coil is not a true secondary structure but is the class of that indicate an absence of regular secondary structure
-and hydrogen bonding in codeine and morphine salts
-mad2 is capable of forming unk and adopts at least two structural
-of controls unk e.g. shake wiggle rebuild unk to manipulate the backbone and amino acid side chains of the target protein into more energetically favorable
-unk and unk also studied the of unk sites of immunoglobulins
-the utility of unk can be generalized for use outside of cyclohexane
-due to the larger number of possible of ethyl cyclohexane the a value is reduced from what would be predicted based purely on unk terms
-the constricted nature of the interior of the molecular complex strongly favors compact molecular of the substrate protein
-in the alpha sheet unlike other the peptide bonds are oriented in parallel so that the dipoles of the individual bonds can add up to create a strong overall electrostatic dipole
-other are possible unk b-dna unk unk unk unk unk enantiomeric form of unk unk unk unk z-dna etc. have been described so far
-there are at least two closed in one the channel can open if the membrane potential becomes positive inside
-negative control fusion protein and its wild-type counterpart then the fluorescence is likely caused by non-specific protein interactions so a different combination of fusion protein should be tested
-supramolecular chemistry can require molecules to distort into thermodynamically disfavored unk e.g. during the slipping synthesis of unk unk and may include some covalent chemistry that goes along with the supramolecular
-amino acids that prefer to adopt helical in proteins include methionine alanine leucine glutamate and lysine unk malek in amino-acid unk codes unk by contrast the large aromatic residues unk tryptophan tyrosine
-if the eclipsed of an isomer have high enough potentials they may prevent rotation of substituents to different staggered at sufficiently low energy levels
-in referring to the orientations of the unk angle and the unk angle the three stable staggered unk are termed gauche unk gauche unk gg unk gauche unk trans unk gt unk and trans unk gauche unk tg unk
-both are free of torsional strain but in the gauche conformation the two methyl groups are in closer proximity than the sum of their van der
-a newman projection useful in alkane stereochemistry visualizes chemical of a carbon-carbon chemical bond from front to back with the front carbon represented by a dot and the back carbon as a circle unk
-this difference in energy between the two known as the torsion energy is low compared to the thermal energy of an ethane molecule at ambient temperature
-structures of active of gi alpha 1 and the mechanism of gtp hydrolysis
-the search space consists of all possible orientations and of the protein paired with the ligand
-switching between the open and closed dimer induces conformational changes in the tmd resulting in substrate translocation
-the importance of energy minimum and energy maximum is seen by extension of these concepts to more complex molecules for which stable may be predicted as minimum energy forms
-to calculate the conformational entropy the possible assumed by the polymer may first be discretized into a finite number of states usually characterized by unique combinations of certain structural parameters each of
-ferrocene and unk exhibit eclipsed at low temperatures whereas in the related bis unk unk unk complexes the rings are in a staggered conformation to minimize steric hindrance between the
-there are situations where seemingly identical are not equal in strain energy
-could bind the unk in different
-virus particle present in both strains will have undergone changes due to mutation and that these changes will cause the two particles to assume different and thus be differentiable on an unk gel
-unk are the side chain with low energy
-studies on the effects of the length of the primer strand reveal that an equilibrium mixture of four hybridization was observed when template bases unk as a bulge i.e. a structure flanked on both sides by duplex dna
-the equilibrium of two molecular is determined by the difference in gibbs free energy of the two
-differ based on environmental factors as well similar proteins fold differently based on where they are found
-these results demonstrate that coulombic forces do not explain the favored staggered despite the fact that central bond stretching decreases electrostatic interactions
-for some molecules such as those of unk there can be special versions of staggered called gauche and anti see first newman projection diagram in conformational isomerism
-scoring functions trained with this data can dock high affinity ligands correctly but they will also give plausible docked for ligands that do not bind
-the aplysia isoform expressed in yeast reveal that unk has a key property associated with prions it can cause other proteins to assume alternate protein that are heritable in successive generations of yeast cells
-along with isabella karle a frequent collaborator he has also pioneered the use of unk unk acid to induce and retain helicity and constrain peptide
-because these alignments rely on information about all the query sequences three-dimensional the method can only be used on sequences where these structures are known
-the traditional model is also studied but with an eye toward properties of specific embeddings unk unk of the circle
-owing to the support of hundreds of thousands of home-based computers in hopes to find the conformation of lowest possible energy or set of of lowest possible energy
-different can have different energies can usually unk and are very rarely unk
-this allows chains to assume other possibly energetically equivalent with a small amount of unk
-in this model the substrate binding site alternates between outward unk and unk
-rigid blocks are defined as blocks where all inter residue distances are conserved across
-dna exists in many possible that include unk b-dna and z-dna forms although only b-dna and z-dna have been directly observed in functional organisms
-on the other hand cycloalkanes tend to have higher boiling points than their linear counterparts due to the locked of the molecules which give a plane of intermolecular contact
-in the context of these functional rearrangements these tertiary or quaternary structures are usually referred to as and transitions between them are called conformational changes
-the topo ii core was later solved in two new one by fass et al. unk nature structure biology 1999 pdb id unk unk and one by dong et al. unk nature 2007 pdb id
-to be able to perform their biological function proteins fold into one or more specific spatial driven by a number of noncovalent interactions such as hydrogen bonding ionic interactions van der waals forces and hydrophobic packing
-unk by contrast the large aromatic residues unk tryptophan tyrosine and phenylalanine unk and amino acids unk isoleucine valine and threonine unk prefer to adopt
-for example cyclohexane can exist in a variety of different including a chair conformation and a boat conformation but for cyclohexane itself these can never be separated
-a protein were to fold by sequentially sampling all possible it would take an astronomical amount of time to do so even if the were sampled at a rapid rate unk on the nanosecond or picosecond scale unk
-of monosaccharide and oligosaccharide heavily influence their reactivity and recognition by other molecules which are essential to mammals and other organisms
-a typical decoy set will include globular of various shapes some having no secondary structures some having helices and sheets in different proportions
-effectively this makes computational prediction of protein structure by evaluating all possible unfeasible even for relatively small proteins
-unk congeners which prefer straight line unk their lowest energy state unk will likely span the two receptive sites with one molecule unk binding unk unk
-in addition it appears that ide can exist in two an open conformation in which substrates can access the active site and a closed state in which the active site is contained within the chamber
-and therefore have no one conformation that could be predicted nmr experiments indicate that unk loops are floppy and adopt many while the loop seen by x-ray crystallography may merely reflect crystal packing interactions or the stabilizing influence of crystallization unk
-with unk interactions are usually disfavored due to steric congestion and can shift equilibrium to the other chair form unk example unk to unk unk
-the conformational flexibility of gaba is important for its biological function as it has been found to bind to different receptors with different
-the levinthal paradox observes that if a protein were to fold by sequentially sampling all possible it would take an astronomical amount of time to do so even if the were sampled at a rapid rate unk on the nanosecond
-unk this can not be used as an identifier for biomolecules because often several structures for the same molecule unk in different environments or unk are contained in pdb with different pdb ids
-although many labs have a slightly different approach the main concept is to find from a myriad of protein which conformation is of the lowest energy or in the case of to find relatively low energies of proteins that could cause the protein to
-ab-initio quantum-mechanical methods may be used to calculate the potential energy of a system on the fly as needed for in a trajectory
-icm stands for internal coordinate mechanics and was first designed and built to predict low energy of biomolecules
-he has been a major contributor to the evaluation of factors influencing the folding and of designed peptides and has investigated structural elements playing a key role in the formation of secondary structural motifs such as helices beta turns and
-in the study of globular protein one customarily measures the similarity in three-dimensional structure by the unk of the atomic coordinates after optimal rigid body superposition
-this conformation is in unk equilibrium with the other
-the two also known as unk differ in energy the staggered conformation is 12.6 lower in energy unk more stable unk than the eclipsed conformation unk the
-vary in order to obtain a better fit in other cases the constraints of the flanking segments may be varied to find more unk loop
-unk transition models are formalized techniques in statistical mechanics developed to describe of linear polymers in solution
-this technique was established by hyde and is especially useful for separating overlapping epr signals which result from different radicals molecular or magnetic sites
-this compound and related compounds are studied in the laboratory because they are often display unusual and because of their unusual reactivity
-in addition there are at least 14 other having no symmetry unk not including optical isomers unk which lie within 1 of the c3 geometry
-in principle it allows coexistence of different of protein contributing to average experimental scattering pattern
-both of these staggered are much more stable than the eclipsed
-the difference in energy between is called the a value and is well known for many different substituents
-for unk cyclohexane rings unk i.e. two groups on the ring unk the relative orientation of the two substituents affect the energy of the possible
-unk extend in all directions in thick bundles on the carbon fiber however with the other three fibers unk extended in fine web-like
-for example unk has two possible anti and gauche
-in solution
-this property allows to distinguish the sequences by means of gel electrophoresis which separates the different
-can be locked in place with proper substituents replacing the hydroxyl groups which increase the rotational barrier
-the possible are combinations of anti and gauche and are unk unk gauche unk gauche and gauche unk gauche of which the last one is especially energetically unfavorable
-their remained quite consistent throughout the mycenaean period up through unk when production increased considerably notably in argolis whence came great numbers exported outside greece
-unk are then selected from these decoys using scoring functions as well as conformer clustering
-three dna are believed to be found in nature unk b-dna and z-dna
-pi binds to the rubisco active site and to another site on the large chain where it can influence transitions between activated and less active of the enzyme
-they are artificial molecules that mimic the ability of proteins nucleic acids and polysaccharides to fold into well-defined such as helices and
-the relative binding affinities of the two for the substrate largely determines the net direction of transport
-this least movement consideration would prove important in the tdr mechanism as it accounts for products with intermediates passing through unfavorable
-finding related in the protein data bank unk pdb unk is essential in many areas of bioinformatics
-in the upper-left of the current screensaver the target protein is shown adopting different shapes unk unk in its search for the lowest energy structure
-interactions are further folded into the native structure through a fast folding pathway while those containing non-native interactions are trapped in metastable or stable non-native and the process of conversion to the native structure occurs very slowly
-most unk are stable in one of two chair unk or unk
-this is true even if are sampled at rapid unk nanosecond or picosecond unk rates
-represents the natural corridor that the sierra madre occidental offered to the toltec and unk tribes both whom took advantage of the large accidental stone to survive in the wilderness of the territory
-the two chair may differ in stability depending upon the identity of the functional groups
-x-ray crystallography is the primary method for determining the molecular of biological macromolecules particularly protein and nucleic acids such as dna and rna
-unk and unk forms can exist in different conformers and one can unk between the different if an energy penalty is met
-the steric strain between the two terminal methyl groups accounts for the difference in energy between the two similar yet very different
-in butane the two staggered are no longer equivalent and represent two distinct conformers the unk unk left-most below unk and the gauche conformation unk right-most below unk
-three possible staggered possible unk unk gt unk unk unk gg unk unk unk tg unk
-the energies of these gauche do not vary in a systematic fashion as the kink unk dihedral angle 60 unk moves towards the phosphorus along the unk chain
-depending on the needs of the energy function the space of is restricted to a sufficiently nicely behaved class
-the interconversion of helical and extended at the site of a domain boundary is not uncommon
-when the chain is stretched the entropy is reduced by a large margin because there are fewer available
-some flexibility due to the absence of hydroxyproline and proline residues at specific locations in the amino acid sequence which allows the formation of other such as bends or internal loops in the triple helix and results in the development of unk
-furthermore this precursor film allows the triple line to bend and take different that were originally considered unfavorable
-in addition the newman projection unk which allows organic chemists to represent different of molecules in space unk was introduced by the chemist
-the metal also has a flexible coordination geometry which allows proteins using it to rapidly shift to perform biological reactions
-the factor itself consists of two different types of around the mrna closed and open
-when internally positioned within an oligosaccharide the unk and unk unk shown below for unk unk predominate
-unk can be composed of one or two polypeptides and can usually assume two main called e1 and e2
-the determination of stable has also played a large role in the establishment of the concept of asymmetric induction and the ability to predict the stereochemistry of reactions controlled
-thus the following unk can be identified unk unk lel unk 3 unk unk lel unk 2 unk ob unk unk unk lel unk unk ob unk 2 and
-the of the backbone and side chains are determined by unk the torsion angles and then adjusting the model with a protractor
-this carbonyl group is completely coplanar with the adjacent aromatic ring indicating that the unk conformation corresponds to one of the most stable of this group in the flexible compounds
-in this model tropomyosin can take three unk blocked closed and open
-during that time her main focus was the use of unk complexes to probe the physical of dna
-in calix unk 4 unk arene 4 up-down exist cone unk point group unk unk unk partial cone cs alternate unk and alternate unk
-in larger rings unk strain drops off until the ring is sufficiently large that it can adopt devoid of any negative interactions
-if each of these bond angles can be in one of three stable the protein can fold in unk different combinations
-bent bonds also come into play in the gauche effect explaining the preference for gauche in certain unk alkanes and the cis effect associated with some unusually stable alkene cis isomers
-the three-dimensional structure of heparin is complicated by the fact that unk acid may be present in either of two low-energy when internally positioned within an oligosaccharide
-is rather difficult it is possible by observing the energy distribution of a large number of despite the almost infinite number of different protein possible for any given protein unk see levinthal paradox unk with a reasonably large number of protein energy samplings to predict relatively closely what the
-after publishing a paper on the of cyclohexane hassel was arrested by norwegian nazis and sent to the grini concentration camp until 1944
-may not be well-structured and therefore have no one conformation that could be predicted nmr experiments indicate that unk loops are floppy and adopt many while the loop seen by x-ray crystallography may merely reflect crystal packing interactions or the stabilizing influence of crystallization unk
-this is not actually the case since the ensemble will be energy weighted due to interactions between amino acid side chains with lower-energy being present more frequently
-the white miniature schnauzer may be shown in shows sanctioned by the fci in international competitions and the white variant is becoming very popular in europe as a show dog
-peptide plane flips have been observed in the dynamics of native state protein tertiary structures by comparing crystal structures of the same proteins in multiple
-the registry between these ring and the absolute configuration of the metal centers is described by the nomenclature lel unk when the en backbone lies parallel with the c3 symmetry
-it is also a useful tool for determining sugar
-unk basically acts in an inhibitory fashion and interacts with the unk monomer and interferes with unk atp and adp bound forms unk to control the assembly of microfilaments
-with a unk guest different chemical unk cone unk are in rapid equilibrium
-like all substituted unk it can unk rapidly between two chair
-and inhibition of catalysis imply the existence of two pde5 conformers and results of native gel electrophoresis reveal that pde5 exists in two apparently distinct i.e. an extended conformer and a more compact conformer
-within the cyclic form of glucose rotation may occur around the unk torsion angle termed the unk angle to form three unk as shown in the diagram below
-these single-stranded dna molecules have no single common shape but some are more stable than others
-the representative atomic charges for flexible molecules hence should be computed as average values over several molecular
-a comparison of the open and closed of unk reveals changes in the small helix of the descending strand of the antenna which seems to recoil as the catalytic cleft opens
-there are two types of open in the c-terminal domains of the unk structure
-short loop of two to five residues of which one is frequently a glycine or a proline both of which can assume the unusual unk required for a tight turn
-open and closed
-analysis of the unk allows researchers to evaluate whether the expected number of peaks is present and thus to identify possible problems due to multiple or sample heterogeneity
-these generated are then docked successively into the protein and an md simulation consisting of a simulated annealing protocol is performed
-real polymer coils are more closely represented by a unk walk because in which different chain segments occupy the same space are not physically possible
-infrared spectroscopy has been used to obtain information about the of unk
-the mountainous the high rainfall of the area and the relative unk of the rock give rise to a high risk of storm flooding as demonstrated by
-unlike cyclohexane piperidine has two distinguishable chair one with the n unk h bond in an axial position and the other in an equatorial position
-the of the unk domain of the unk structures are dependent on the presence of a ligand
-is generally observed that the atp bound state is associated with the most extensive interface between abc domains whereas the structures of unk transporters exhibit with greater separations between the abc domains
-these two ligands induce different in the receptor unk highlighted in green unk which accounts for their different functional activity unk agonist vs. antagonist respectively unk
-the of the unk seeds ensuring the binding affinity decide the manner that ligand would be grown
-humic molecules are held together in supramolecular by weak hydrophobic bonds at neutral and alkaline ph and also by unk at low ph.
-many supramolecular systems require their components to have suitable spacing and relative to each other and therefore unk structural units are required
-this analysis is done on an extraordinarily large number of different owing to the support of hundreds of thousands of home-based computers in hopes to find the conformation of lowest possible energy or set of
-it shows the possible of and angles for a polypeptide
-is the minimal number of local maxima of the projection of the knot onto a vector where we minimize over all projections and over all of the knot
-this receptor can exist in three different
-unk unk unk unk unk unk unk give the alcohol in 99 % ee the high ee reflect their unk
-optical isomers can have different detections thresholds since their may cause them to be less perceivable for the human nose
-however the energy barriers to bond rotation between each of the optimal unk are quite low
-since all types of g-protein receptors currently known are activated through binding of molecules with highly specific or shape it is assumed that olfactory receptors operate in a similar fashion
-hair gels resist natural protein and allow hair to be styled and textured
-unk exist in different chemical because rotation around the methylene bridge is not difficult
-residue at every 3rd position and is thought to act as a unk sensor which allows the channel to respond to voltage changes by changing between conducting and non-conducting states unk called gating unk
-it is postulated that they produce 2 different of unk one able to bind gk and the other not
-peptide plane flipping provides a relatively low-energy pathway from alpha sheet or left-handed alpha helix to beta strand
-the idea behind this is that it is unnecessary to search blindly through all possible for the native conformation the search can be limited to a relevant sub-set of structures
-the existence of specific is due to hindered rotation around sigma bonds although a role for hyperconjugation is proposed by a competing theory
-the ligand binding domain of the receptor is in equilibrium between two different
-the smallest alkane with such a chemical bond ethane exists as an infinite number of with respect to rotation around the c-c bond
-side chains can be in different called gauche unk unk unk trans and gauche unk unk
-mutations that result in spontaneous formation of latent unk or unk unk inactive
-it is not trivial to obtain a canonical distribution of and velocities using these algorithms
-this will result in a racemic mixture of that may or may not have different unk in situations such as enzymatic reactions in which molecular shape is usually a key factor of operation
-of a dna plasmid that has not been cut with a restriction enzyme will move with different speeds unk slowest to fastest nicked or open
-developments of vibrational circular dichroism unk vcd unk techniques for proteins currently involving fourier transform unk fft unk instruments provide powerful means for determining protein in solution even for very large protein molecules
-these break chemical bonds in ingested molecules and modulate their and energy states
-wanting to tackle problems at a more fundamental level ramachandran decided to use this information to examine the various polypeptide then known and also to develop a good yardstick that could be used for examining and assessing any structure in general but peptides in particular
-of the late middle ages gave rise to the parallel secular development of the state and nation in spain under the spanish monarchy successive territorial
-the of the unk ring are superficially similar to that of the cyclohexane ring
-dee which is guaranteed to find the optimal solution unk is faster but less accurate overall it is significantly better at identifying correct side chain in the protein core than it is on identifying correct surface
-these are used to determine dynamical pathways between different protein using monte carlo methods
-this process has also been observed in simulations of unk and implicated as occurring naturally in certain protein families by examination of their dihedral angle in crystal structures
-in addition they all appear to unk between at least two different denoted by e1 and e2
-the unk with an odd number of alkene units are more reactive due to the presence of favorable unk diene and da reactions take place more easily with a preference for the termini
-unk are well-studied in organic chemistry because they adopt unusual chemical due to build-up of strain
-to minimize the free energy of the organic layer the molecules adopt that allow high degree of van der waals forces with some hydrogen bonding
-is stretched as it enters the air phase as the force acts in the locality of the phase it is invariant to different lengths or of the dna in solution so dna of any length will be stretched the same as the meniscus retracts
-in practice especially when higher temperatures are used the algorithm instead identifies a small number of unk unk at each position allowing the resulting relative energies to then be enumerated unk based on the precomputed energies not on those derived from the unk approximation unk
-these fractional assignments place important constraints on the possible secondary that the protein can be in
-in solution five different some folded and some extended are found as a result of solvation effects
-analogous extensions of the unk model have been put forth but have not accommodated mixed helical
-this puckering leads to a total of 38 distinct basic unk 2 chairs 6 boats 6 unk 12 unk and 12 envelopes
-pentane interference or syn unk pentane interaction is the steric hindrance that the two terminal methyl groups experience in one of the chemical of unk
-whereas the shape complementarity based approaches are typically fast and robust they can not usually model the movements or dynamic changes in the ligand protein accurately although recent developments allow these methods to investigate ligand flexibility
-noted that because of the very large number of degrees of freedom in an unfolded polypeptide chain the molecule has an astronomical number of possible
-unk have been observed in crystal structures of short non-natural peptides especially those containing a mixture of l and d amino acids
-but less accurate overall it is significantly better at identifying correct side chain in the protein core than it is on identifying correct surface
-rotation about two central single c-c bonds of n unk pentane produces four different
-the continuum representation of solvent also significantly improves the computational speed and reduces errors in statistical averaging that arise from incomplete sampling of solvent so that the energy landscapes obtained with implicit and explicit solvent are different
+in this model tropomyosin can take two conformations blocked and open
+noncovalent interactions are extremely important in catalysis binding reactants into conformations suitable for reaction and lowering the transition state energy of reaction
+pvdf exists in several forms alpha unk unk unk beta unk unk unk and gamma unk unk unk phases depending on the chain conformations as trans unk t unk or gauche unk g unk linkages
+in biochemistry unk kinetics is a branch of chemical kinetics in which the kinetic species are defined by different non-covalent bindings conformations of the molecules involved which are denoted as receptor unk s unk and ligand unk s unk
+in physical knot theory a knot energy is a functional on the space of all knot conformations
+the levinthal paradox states that the number of possible conformations available to a given protein is astronomically large
+in particular conformations which are poor in secondary structures are unlikely to be unk
+the energy of these conformations can be calculated from quantum mechanics an example of possible unk interconversions is given
+for unk unk the energy difference between the staggered and eclipsed conformations is only a few mol
+despite this apparent freedom only two limiting conformations are important eclipsed conformation and staggered conformation
+from this energy difference the equilibrium constant for the two conformations can be determined
+like other gtpases unk switch between two conformations an inactive form bound to gdp unk guanosine diphosphate unk and an active form bound to gtp unk guanosine triphosphate unk
+our results demonstrate the power of hi-c to map the dynamic conformations of whole genomes
+these alkyl groups which can shape themselves in numerous conformations make it very difficult for the polymer molecules to line themselves up side-by-side in an orderly way
+for proteins a prediction consists of assigning regions of the amino acid sequence as likely alpha helices beta strands unk often noted as extended conformations unk or turns
+however there are two possible gauche conformations and only one anti conformation
+the conformation name is derived from the idea that in the absence of specific stabilizing interactions a polymer backbone will sample all possible conformations randomly
+within the u2 snrna there are other mutually exclusive rearrangements that occur between competing conformations
+they form a high energy unk intermediate in the reaction cycle and they unk between at least two different conformations denoted by e1 and e2
+arf cycles between gtp and unk conformations
+if a protein was to attain its correctly folded configuration by sequentially sampling all the possible conformations it would require a time longer than the age of the universe to arrive at its correct native conformation
+during his phd balaram studied the use of negative nuclear overhauser effect signals as probes of macromolecular conformations
+unk is a unk unk unk unk a type of organic molecule with some conformational isomerism that can bind the enzyme reverse transcriptase in multiple conformations allowing for a more robust interaction between unk and the enzyme even in the presence of mutations
+unk at this point the flexibility of the rings increases with increasing size this allows for conformations that can significantly mitigate unk interactions
+wilson had proven that the energy barrier between any pair of eclipsed and staggered conformations was approximately 3 and the generally accepted rationale for this was the unfavorable steric interactions between hydrogen atoms
+if there are substituents larger than hydrogen then steric hindrance may influence the relative unk of the conformations
+the structures provided detailed pictures of the interaction of the transmembrane and abc domains as well as revealed two different conformations with an opening in two opposite directions
+when a deformation is imposed on a muscle changes in cellular and molecular conformations link the mechanical forces with biochemical signals and the close integration of mechanical signals with electrical metabolic and hormonal signaling may disguise the aspect of
+since the possible number of unk complex geometry is usually very large different algorithms are used in order to accurately explore the space of possible conformations while decreasing the computational power needed for the docking calculation at the same time
+1 unk proteins can exist under various conformations in thermal equilibrium in the absence of regulators the allosteric regulators merely shift the equilibrium between the conformations stabilizing the ones for which they display the highest affinity and 2 unk all the subunits of a symmetrical multimeric protein exist in the same
+unk fold into unk three-dimensional conformations but are not true topological knots
+conformations are not unk in three dimensions and can be characterized by their dihedral angles the angle between two planes formed by unk and unk in
+the prion that is believed to cause creutzfeldt unk jakob exhibits at least two stable conformations
+this situation varies in unusual conformations of dna within the cell unk see below unk but the major and minor grooves are always named to reflect the differences in size that
+when comparing relative stability 6 unk and unk interactions can be used to approximate differences in enthalpy between conformations
+is a novel method for identification of protein rigid blocks unk domains and loops unk from two different conformations
+it is important to keep in mind that molecules have considerable flexibility and thus depending on the medium may adopt a variety of different conformations
+of rna unk adenosine in a protein shuttle mechanism other steps in protein synthesis unk such as translocation unk are caused by changes in protein conformations
+conformations of five membered rings are limited to two envelope and twist
+this unique combination of contacts and conformations of tpp leads to formation of the reactive unk eventually
+unlike its c5 unk unk acid which may occur in a number of conformations glucuronic acid occurs in predominantly the unk conformation
+specific domains of the channel subunits have been identified that are important for unk and converting between the open conformation of the channel and closed conformations
+through advancements in modern medicine and neuroscience scientists have generally concluded that feeling conformations of the outer skull is not an accurate predictor of behavior
+conformations of intermediates in the folding of the pancreatic trypsin inhibitor
+glycoprotein h has two conformations
+there are some molecules that can be isolated in several conformations due to the large energy barriers between different conformations
+the main ideas behind this theory are 1 unk proteins can exist under various conformations in thermal equilibrium in the absence of regulators the allosteric regulators merely shift the equilibrium between the conformations stabilizing the ones for which they display
+plants unk function as valves in sieve tubes of the phloem system by reversibly changing shape between low-volume ordered unk spindles and high-volume disordered spherical conformations
+however there is no evidence to suggest that changes between these conformations occur in a concerted fashion
+derek barton and odd hassel both shared the nobel prize for work on the conformations of cyclohexane and various other molecules
+a certain conformation is of the lowest possible energy is rather difficult it is possible by observing the energy distribution of a large number of conformations despite the almost infinite number of different protein conformations possible for any given protein unk see levinthal paradox unk with a reasonably large number of
+structural superposition is commonly used to compare multiple conformations of the same protein unk in which case no alignment is necessary since the sequences are the same unk and to evaluate the quality of
+with our previous studies on z-dna we now have a single method to predict the relative stability of sequences in the three standard dna duplex conformations
+the theoretical upper limit of accuracy is around 90 % partly due to idiosyncrasies in unk assignment near the ends of secondary structures where local conformations vary under native conditions but may be forced to assume a single conformation in crystals due to packing constraints
+a channel may have several different states unk corresponding to different conformations of the protein unk but each such state is either open or closed
+because of its unk the unk rings can adopt either of two conformations which are described by the symbols and
+this increase in bond length decreases the electron withdrawing ability of o-6 causing a higher rate of hydrolysis than the other two conformations
+unk the conformations of even amorphous polymers will change when they go into solution and most thermoplastic polymers also have lamellar crystalline regions which do not persist in
+the sidechain dihedral angles tend to cluster near 180 60 and -60 which are called the trans gauche and gauche unk conformations
+is also a substrate in the reaction catalyzed by unk the biologically active form of the enzyme is a tetramer that exists in two possible conformations only one of which binds the second substrate unk unk unk unk
+the authors were investigating cyclohexane conformations including unk and unk double bonds when they noticed certain conformations were disfavored due to the geometry constraints caused by the double bond
+rotation about the central c-c bond produces two different conformations unk trans and gauche unk for n unk butane
+coloring and selecting candidate clusters of unk and switching to a parallel coordinates representation unk used for instance for defining clusters of favorable rna backbone conformations in the unk space of backbone dihedral angles between one ribose and the next
+it had been accepted as early as the 1930 that the staggered conformations of ethane were more stable than the eclipsed
+the ability to predict macromolecular conformations from sequence and thermodynamic principles has long been coveted but generally has not been achieved
+these various conformations are themselves almost always chiral
+with the introduction of the precursor film concept the triple line can follow energetically feasible conformations and thereby correctly explaining the cassie unk baxter model
+thus the conformations adopted by polymers dissolved in theta solvents are identical to those adopted in bulk polymer
+the discovery of functional selectivity and that unk receptor conformations occur and can affect interaction of receptors with different second messenger systems may mean that drugs can be designed to activate some of the downstream
+give a descriptor value that is independent of the particular characteristics of the molecular representation such as atom numbering or labeling spatial reference frame molecular conformations etc.
+application of a stress favors some conformations over others so the molecules of the polymer will gradually flow into the favored conformations over time
+protein unk conformations can be modeled using spin glass
+both postulate that enzyme subunits exist in one of two conformations tensed unk t unk or relaxed unk r unk and that relaxed subunits bind substrate more readily than those in the tense state
+loop modeling is a problem in protein structure prediction requiring the prediction of the conformations of loop regions in proteins without the use of a structural template
+surface charges that would ordinarily interact with solvent molecules instead interact with each other producing molecular conformations that are unlikely to be present in any other environment
+the and motifs and disulfide bridges are crucial to the conformations of globular functional proteins like enzymes many of which operate unk but they take on a completely dominant role in the architecture and aggregation of
+the actual structure will always differ somewhat from these idealised forms as the differences in energy between the conformations are small compared to the thermal energy of the molecules alkane molecules have no fixed structural form whatever the models may suggest
+as usual in statistical mechanics these states correspond to ensembles of molecular conformations not just one conformation
+this model presents two principal conformations of the nucleotide-binding domains unk unk unk formation of a closed dimer upon binding two atp molecules and dissociation to an open dimer facilitated by
+unk of the starting amino alcohol amount of atom movement during carbon-carbon bond formation conformations of intermediates and much more are all now considered factors in product formation
+because of the unk nature of this model the number of possible conformations is significantly reduced
+the barrier of rotation between staggered conformations of ethane is approximately 3.0
+the simulation of the evolution of the genome is carried out by cross-over techniques similar to biological evolution where random pairs of individuals unk conformations unk are mated with the possibility for a random mutation in the offspring
+knowledge-based functions are formed with statistical models capturing aspects of the properties of native protein conformations
+in some cases there is too much residual disorder in those atoms and the resulting electron density for atoms existing in many conformations is smeared to such an extent that it is no longer detectable in the electron density map
+amino acid residues which are not in any of the above conformations are assigned as the eighth type coil often codified as unk space unk c unk coil unk or unk unk dash unk
+the levinthal paradox states that if an averaged sized protein would sample all possible conformations before finding the one with the lowest energy the whole process would take billions of years
+chemistry methods that can attain high accuracy for small molecules although claims that acceptable accuracy can be also achieved for unk as well as dna conformations were recently made on the basis of vcd spectral data
+for both apo conformations of unk the chamber opening is facing inward
+recent research suggests that both unk and b-dna consist of two distinct nucleotide conformations unk and unk
+over eighty serpin structures in a variety of different conformations unk described below unk have been determined to date
+in these cases it is important that both proteins be able to properly fold into their active conformations and interact with their substrates despite being fused
+unk containing proteins only bind unk dna conformations unk kinked or unwound unk with high affinity
+the possible conformations are combinations of anti conformations and gauche conformations and are unk unk gauche unk gauche and gauche unk gauche of which the last one is
+possible for a single atom to appear multiple times in an electron density map e.g. if a protein sidechain has multiple unk 4 unk allowed conformations
+the helices unk g h and i unk and sheet conformations are all required to have a reasonable length
+this flexibility range accounts for the different conformations of the ligand with energies slightly above the strain energy of the natural bite angle
+although the b-dna form is most common under the conditions found in cells it is not a well-defined conformation but a family of related dna conformations that occur at the high hydration levels present in living cells
+the random coil is not a true secondary structure but is the class of conformations that indicate an absence of regular secondary structure
+conformations and hydrogen bonding in codeine and morphine salts
+mad2 is capable of forming unk and adopts at least two structural conformations
+of controls unk e.g. shake wiggle rebuild unk to manipulate the backbone and amino acid side chains of the target protein into more energetically favorable conformations
+unk and unk also studied the conformations of unk sites of immunoglobulins
+the utility of unk can be generalized for use outside of cyclohexane conformations
+due to the larger number of possible conformations of ethyl cyclohexane the a value is reduced from what would be predicted based purely on unk terms
+the constricted nature of the interior of the molecular complex strongly favors compact molecular conformations of the substrate protein
+in the alpha sheet unlike other conformations the peptide bonds are oriented in parallel so that the dipoles of the individual bonds can add up to create a strong overall electrostatic dipole
+other conformations are possible unk b-dna unk unk unk unk unk enantiomeric form of unk unk unk unk z-dna etc. have been described so far
+there are at least two closed conformations in one the channel can open if the membrane potential becomes positive inside
+negative control fusion protein and its wild-type counterpart then the fluorescence is likely caused by non-specific protein interactions so a different combination of fusion protein conformations should be tested
+supramolecular chemistry can require molecules to distort into thermodynamically disfavored conformations unk e.g. during the slipping synthesis of unk unk and may include some covalent chemistry that goes along with the supramolecular
+amino acids that prefer to adopt helical conformations in proteins include methionine alanine leucine glutamate and lysine unk malek in amino-acid unk codes unk by contrast the large aromatic residues unk tryptophan tyrosine
+if the eclipsed conformations of an isomer have high enough potentials they may prevent rotation of substituents to different staggered conformations at sufficiently low energy levels
+in referring to the orientations of the unk angle and the unk angle the three stable staggered unk conformations are termed gauche unk gauche unk gg unk gauche unk trans unk gt unk and trans unk gauche unk tg unk
+both conformations are free of torsional strain but in the gauche conformation the two methyl groups are in closer proximity than the sum of their van der
+a newman projection useful in alkane stereochemistry visualizes chemical conformations of a carbon-carbon chemical bond from front to back with the front carbon represented by a dot and the back carbon as a circle unk
+this difference in energy between the two conformations known as the torsion energy is low compared to the thermal energy of an ethane molecule at ambient temperature
+structures of active conformations of gi alpha 1 and the mechanism of gtp hydrolysis
+the search space consists of all possible orientations and conformations of the protein paired with the ligand
+switching between the open and closed dimer conformations induces conformational changes in the tmd resulting in substrate translocation
+the importance of energy minimum and energy maximum is seen by extension of these concepts to more complex molecules for which stable conformations may be predicted as minimum energy forms
+to calculate the conformational entropy the possible conformations assumed by the polymer may first be discretized into a finite number of states usually characterized by unique combinations of certain structural parameters each of
+ferrocene and unk exhibit eclipsed conformations at low temperatures whereas in the related bis unk unk unk complexes the rings are in a staggered conformation to minimize steric hindrance between the
+there are situations where seemingly identical conformations are not equal in strain energy
+could bind the unk in different conformations
+virus particle present in both strains will have undergone changes due to mutation and that these changes will cause the two particles to assume different conformations and thus be differentiable on an unk gel
+unk are the side chain conformations with low energy
+studies on the effects of the length of the primer strand reveal that an equilibrium mixture of four hybridization conformations was observed when template bases unk as a bulge i.e. a structure flanked on both sides by duplex dna
+the equilibrium of two molecular conformations is determined by the difference in gibbs free energy of the two conformations
+conformations differ based on environmental factors as well similar proteins fold differently based on where they are found
+these results demonstrate that coulombic forces do not explain the favored staggered conformations despite the fact that central bond stretching decreases electrostatic interactions
+for some molecules such as those of unk there can be special versions of staggered conformations called gauche and anti see first newman projection diagram in conformational isomerism
+scoring functions trained with this data can dock high affinity ligands correctly but they will also give plausible docked conformations for ligands that do not bind
+the aplysia isoform expressed in yeast reveal that unk has a key property associated with prions it can cause other proteins to assume alternate protein conformations that are heritable in successive generations of yeast cells
+along with isabella karle a frequent collaborator he has also pioneered the use of unk unk acid to induce and retain helicity and constrain peptide conformations
+because these alignments rely on information about all the query sequences three-dimensional conformations the method can only be used on sequences where these structures are known
+the traditional model is also studied but with an eye toward properties of specific embeddings unk conformations unk of the circle
+conformations owing to the support of hundreds of thousands of home-based computers in hopes to find the conformation of lowest possible energy or set of conformations of lowest possible energy
+different conformations can have different energies can usually unk and are very rarely unk
+this allows chains to assume other possibly energetically equivalent conformations with a small amount of unk
+in this model the substrate binding site alternates between outward unk and unk conformations
+rigid blocks are defined as blocks where all inter residue distances are conserved across conformations
+dna exists in many possible conformations that include unk b-dna and z-dna forms although only b-dna and z-dna have been directly observed in functional organisms
+on the other hand cycloalkanes tend to have higher boiling points than their linear counterparts due to the locked conformations of the molecules which give a plane of intermolecular contact
+in the context of these functional rearrangements these tertiary or quaternary structures are usually referred to as conformations and transitions between them are called conformational changes
+the topo ii core was later solved in two new conformations one by fass et al. unk nature structure biology 1999 pdb id unk unk and one by dong et al. unk nature 2007 pdb id
+to be able to perform their biological function proteins fold into one or more specific spatial conformations driven by a number of noncovalent interactions such as hydrogen bonding ionic interactions van der waals forces and hydrophobic packing
+unk by contrast the large aromatic residues unk tryptophan tyrosine and phenylalanine unk and amino acids unk isoleucine valine and threonine unk prefer to adopt conformations
+for example cyclohexane can exist in a variety of different conformations including a chair conformation and a boat conformation but for cyclohexane itself these can never be separated
+a protein were to fold by sequentially sampling all possible conformations it would take an astronomical amount of time to do so even if the conformations were sampled at a rapid rate unk on the nanosecond or picosecond scale unk
+conformations of monosaccharide and oligosaccharide heavily influence their reactivity and recognition by other molecules which are essential to mammals and other organisms
+a typical decoy set will include globular conformations of various shapes some having no secondary structures some having helices and sheets in different proportions
+effectively this makes computational prediction of protein structure by evaluating all possible conformations unfeasible even for relatively small proteins
+unk congeners which prefer straight line conformations unk their lowest energy state unk will likely span the two receptive sites with one molecule unk binding unk unk
+in addition it appears that ide can exist in two conformations an open conformation in which substrates can access the active site and a closed state in which the active site is contained within the chamber
+and therefore have no one conformation that could be predicted nmr experiments indicate that unk loops are floppy and adopt many conformations while the loop conformations seen by x-ray crystallography may merely reflect crystal packing interactions or the stabilizing influence of crystallization unk
+conformations with unk interactions are usually disfavored due to steric congestion and can shift equilibrium to the other chair form unk example unk to unk unk
+the conformational flexibility of gaba is important for its biological function as it has been found to bind to different receptors with different conformations
+the levinthal paradox observes that if a protein were to fold by sequentially sampling all possible conformations it would take an astronomical amount of time to do so even if the conformations were sampled at a rapid rate unk on the nanosecond
+unk this can not be used as an identifier for biomolecules because often several structures for the same molecule unk in different environments or conformations unk are contained in pdb with different pdb ids
+although many labs have a slightly different approach the main concept is to find from a myriad of protein conformations which conformation is of the lowest energy or in the case of to find relatively low energies of proteins that could cause the protein to
+ab-initio quantum-mechanical methods may be used to calculate the potential energy of a system on the fly as needed for conformations in a trajectory
+icm stands for internal coordinate mechanics and was first designed and built to predict low energy conformations of biomolecules
+he has been a major contributor to the evaluation of factors influencing the folding and conformations of designed peptides and has investigated structural elements playing a key role in the formation of secondary structural motifs such as helices beta turns and
+in the study of globular protein conformations one customarily measures the similarity in three-dimensional structure by the unk of the atomic coordinates after optimal rigid body superposition
+this conformation is in unk equilibrium with the other conformations
+the two conformations also known as unk differ in energy the staggered conformation is 12.6 lower in energy unk more stable unk than the eclipsed conformation unk the
+vary in order to obtain a better fit in other cases the constraints of the flanking segments may be varied to find more unk loop conformations
+unk transition models are formalized techniques in statistical mechanics developed to describe conformations of linear polymers in solution
+this technique was established by hyde and is especially useful for separating overlapping epr signals which result from different radicals molecular conformations or magnetic sites
+this compound and related compounds are studied in the laboratory because they are often display unusual conformations and because of their unusual reactivity
+in addition there are at least 14 other conformations having no symmetry unk not including optical isomers unk which lie within 1 of the c3 geometry
+in principle it allows coexistence of different conformations of protein contributing to average experimental scattering pattern
+both of these staggered conformations are much more stable than the eclipsed conformations
+the difference in energy between conformations is called the a value and is well known for many different substituents
+for unk cyclohexane rings unk i.e. two groups on the ring unk the relative orientation of the two substituents affect the energy of the possible conformations
+unk extend in all directions in thick bundles on the carbon fiber however with the other three fibers unk extended in fine web-like conformations
+for example unk has two possible conformations anti and gauche
+conformations in solution
+this property allows to distinguish the sequences by means of gel electrophoresis which separates the different conformations
+conformations can be locked in place with proper substituents replacing the hydroxyl groups which increase the rotational barrier
+the possible conformations are combinations of anti conformations and gauche conformations and are unk unk gauche unk gauche and gauche unk gauche of which the last one is especially energetically unfavorable
+their conformations remained quite consistent throughout the mycenaean period up through unk when production increased considerably notably in argolis whence came great numbers exported outside greece
+unk conformations are then selected from these decoys using scoring functions as well as conformer clustering
+three dna conformations are believed to be found in nature unk b-dna and z-dna
+pi binds to the rubisco active site and to another site on the large chain where it can influence transitions between activated and less active conformations of the enzyme
+they are artificial molecules that mimic the ability of proteins nucleic acids and polysaccharides to fold into well-defined conformations such as helices and
+the relative binding affinities of the two conformations for the substrate largely determines the net direction of transport
+this least movement consideration would prove important in the tdr mechanism as it accounts for products with intermediates passing through unfavorable conformations
+finding related conformations in the protein data bank unk pdb unk is essential in many areas of bioinformatics
+in the upper-left of the current screensaver the target protein is shown adopting different shapes unk conformations unk in its search for the lowest energy structure
+interactions are further folded into the native structure through a fast folding pathway while those containing non-native interactions are trapped in metastable or stable non-native conformations and the process of conversion to the native structure occurs very slowly
+most unk are stable in one of two chair conformations unk or unk
+this is true even if conformations are sampled at rapid unk nanosecond or picosecond unk rates
+represents the natural corridor that the sierra madre occidental offered to the toltec and unk tribes both whom took advantage of the large accidental stone conformations to survive in the wilderness of the territory
+the two chair conformations may differ in stability depending upon the identity of the functional groups
+x-ray crystallography is the primary method for determining the molecular conformations of biological macromolecules particularly protein and nucleic acids such as dna and rna
+unk and unk forms can exist in different conformers and one can unk between the different conformations if an energy penalty is met
+the steric strain between the two terminal methyl groups accounts for the difference in energy between the two similar yet very different conformations
+in butane the two staggered conformations are no longer equivalent and represent two distinct conformers the unk unk left-most below unk and the gauche conformation unk right-most below unk
+three possible staggered conformations possible unk unk gt unk unk unk gg unk unk unk tg unk
+the energies of these gauche conformations do not vary in a systematic fashion as the kink unk dihedral angle 60 unk moves towards the phosphorus along the unk chain
+depending on the needs of the energy function the space of conformations is restricted to a sufficiently nicely behaved class
+the interconversion of helical and extended conformations at the site of a domain boundary is not uncommon
+when the chain is stretched the entropy is reduced by a large margin because there are fewer conformations available
+some flexibility due to the absence of hydroxyproline and proline residues at specific locations in the amino acid sequence which allows the formation of other conformations such as bends or internal loops in the triple helix and results in the development of unk
+furthermore this precursor film allows the triple line to bend and take different conformations that were originally considered unfavorable
+in addition the newman projection unk which allows organic chemists to represent different conformations of molecules in space unk was introduced by the chemist
+the metal also has a flexible coordination geometry which allows proteins using it to rapidly shift conformations to perform biological reactions
+the factor itself consists of two different types of conformations around the mrna closed and open
+when internally positioned within an oligosaccharide the unk and unk conformations unk shown below for unk unk predominate
+unk can be composed of one or two polypeptides and can usually assume two main conformations called e1 and e2
+the determination of stable conformations has also played a large role in the establishment of the concept of asymmetric induction and the ability to predict the stereochemistry of reactions controlled
+thus the following unk conformations can be identified unk unk lel unk 3 unk unk lel unk 2 unk ob unk unk unk lel unk unk ob unk 2 and
+the conformations of the backbone and side chains are determined by unk the torsion angles and then adjusting the model with a protractor
+this carbonyl group is completely coplanar with the adjacent aromatic ring indicating that the unk conformation corresponds to one of the most stable conformations of this group in the flexible compounds
+in this model tropomyosin can take three conformations unk blocked closed and open
+during that time her main focus was the use of unk complexes to probe the physical conformations of dna
+in calix unk 4 unk arene 4 up-down conformations exist cone unk point group unk unk unk partial cone cs alternate unk and alternate unk
+in larger rings unk strain drops off until the ring is sufficiently large that it can adopt conformations devoid of any negative interactions
+if each of these bond angles can be in one of three stable conformations the protein can fold in unk different combinations
+bent bonds also come into play in the gauche effect explaining the preference for gauche conformations in certain unk alkanes and the cis effect associated with some unusually stable alkene cis isomers
+the three-dimensional structure of heparin is complicated by the fact that unk acid may be present in either of two low-energy conformations when internally positioned within an oligosaccharide
+is rather difficult it is possible by observing the energy distribution of a large number of conformations despite the almost infinite number of different protein conformations possible for any given protein unk see levinthal paradox unk with a reasonably large number of protein energy samplings to predict relatively closely what the
+after publishing a paper on the conformations of cyclohexane hassel was arrested by norwegian nazis and sent to the grini concentration camp until 1944
+may not be well-structured and therefore have no one conformation that could be predicted nmr experiments indicate that unk loops are floppy and adopt many conformations while the loop conformations seen by x-ray crystallography may merely reflect crystal packing interactions or the stabilizing influence of crystallization unk
+this is not actually the case since the ensemble will be energy weighted due to interactions between amino acid side chains with lower-energy conformations being present more frequently
+the white miniature schnauzer may be shown in conformations shows sanctioned by the fci in international competitions and the white variant is becoming very popular in europe as a show dog
+peptide plane flips have been observed in the dynamics of native state protein tertiary structures by comparing crystal structures of the same proteins in multiple conformations
+the registry between these ring conformations and the absolute configuration of the metal centers is described by the nomenclature lel unk when the en backbone lies parallel with the c3 symmetry
+it is also a useful tool for determining sugar conformations
+unk basically acts in an inhibitory fashion and interacts with the unk monomer and interferes with conformations unk atp and adp bound forms unk to control the assembly of microfilaments
+with a unk guest different chemical conformations unk cone unk are in rapid equilibrium
+like all substituted unk it can unk rapidly between two chair conformations
+and inhibition of catalysis imply the existence of two pde5 conformers and results of native gel electrophoresis reveal that pde5 exists in two apparently distinct conformations i.e. an extended conformer and a more compact conformer
+within the cyclic form of glucose rotation may occur around the unk torsion angle termed the unk angle to form three unk conformations as shown in the diagram below
+these single-stranded dna molecules have no single common shape but some conformations are more stable than others
+the representative atomic charges for flexible molecules hence should be computed as average values over several molecular conformations
+a comparison of the open and closed conformations of unk reveals changes in the small helix of the descending strand of the antenna which seems to recoil as the catalytic cleft opens
+there are two types of open conformations in the c-terminal domains of the unk structure
+short loop of two to five residues of which one is frequently a glycine or a proline both of which can assume the unusual unk conformations required for a tight turn
+open and closed conformations
+analysis of the unk allows researchers to evaluate whether the expected number of peaks is present and thus to identify possible problems due to multiple conformations or sample heterogeneity
+these generated conformations are then docked successively into the protein and an md simulation consisting of a simulated annealing protocol is performed
+real polymer coils are more closely represented by a unk walk because conformations in which different chain segments occupy the same space are not physically possible
+infrared spectroscopy has been used to obtain information about the conformations of unk
+the mountainous conformations the high rainfall of the area and the relative unk of the rock give rise to a high risk of storm flooding as demonstrated by
+unlike cyclohexane piperidine has two distinguishable chair conformations one with the n unk h bond in an axial position and the other in an equatorial position
+the conformations of the unk domain of the unk structures are dependent on the presence of a ligand
+is generally observed that the atp bound state is associated with the most extensive interface between abc domains whereas the structures of unk transporters exhibit conformations with greater separations between the abc domains
+these two ligands induce different conformations in the receptor unk highlighted in green unk which accounts for their different functional activity unk agonist vs. antagonist respectively unk
+the conformations of the unk seeds ensuring the binding affinity decide the manner that ligand would be grown
+humic molecules are held together in supramolecular conformations by weak hydrophobic bonds at neutral and alkaline ph and also by unk at low ph.
+many supramolecular systems require their components to have suitable spacing and conformations relative to each other and therefore unk structural units are required
+this analysis is done on an extraordinarily large number of different conformations owing to the support of hundreds of thousands of home-based computers in hopes to find the conformation of lowest possible energy or set of conformations
+it shows the possible conformations of and angles for a polypeptide
+is the minimal number of local maxima of the projection of the knot onto a vector where we minimize over all projections and over all conformations of the knot
+this receptor can exist in three different conformations
+unk unk unk unk unk unk unk give the alcohol in 99 % ee the high ee reflect their unk conformations
+optical isomers can have different detections thresholds since their conformations may cause them to be less perceivable for the human nose
+however the energy barriers to bond rotation between each of the optimal unk conformations are quite low
+since all types of g-protein receptors currently known are activated through binding of molecules with highly specific conformations or shape it is assumed that olfactory receptors operate in a similar fashion
+hair gels resist natural protein conformations and allow hair to be styled and textured
+unk exist in different chemical conformations because rotation around the methylene bridge is not difficult
+residue at every 3rd position and is thought to act as a unk sensor which allows the channel to respond to voltage changes by changing conformations between conducting and non-conducting states unk called gating unk
+it is postulated that they produce 2 different conformations of unk one able to bind gk and the other not
+peptide plane flipping provides a relatively low-energy pathway from alpha sheet or left-handed alpha helix to beta strand conformations
+the idea behind this is that it is unnecessary to search blindly through all possible conformations for the native conformation the search can be limited to a relevant sub-set of structures
+the existence of specific conformations is due to hindered rotation around sigma bonds although a role for hyperconjugation is proposed by a competing theory
+the ligand binding domain of the receptor is in equilibrium between two different conformations
+the smallest alkane with such a chemical bond ethane exists as an infinite number of conformations with respect to rotation around the c-c bond
+side chains can be in different conformations called gauche unk unk unk trans and gauche unk unk
+mutations that result in spontaneous formation of latent unk or unk unk inactive conformations
+it is not trivial to obtain a canonical distribution of conformations and velocities using these algorithms
+this will result in a racemic mixture of conformations that may or may not have different unk in situations such as enzymatic reactions in which molecular shape is usually a key factor of operation
+conformations of a dna plasmid that has not been cut with a restriction enzyme will move with different speeds unk slowest to fastest nicked or open
+developments of vibrational circular dichroism unk vcd unk techniques for proteins currently involving fourier transform unk fft unk instruments provide powerful means for determining protein conformations in solution even for very large protein molecules
+these break chemical bonds in ingested molecules and modulate their conformations and energy states
+wanting to tackle problems at a more fundamental level ramachandran decided to use this information to examine the various polypeptide conformations then known and also to develop a good yardstick that could be used for examining and assessing any structure in general but peptides in particular
+of the late middle ages gave rise to the parallel secular development of the state and nation in spain under the spanish monarchy successive territorial conformations
+the conformations of the unk ring are superficially similar to that of the cyclohexane ring
+dee which is guaranteed to find the optimal solution unk is faster but less accurate overall it is significantly better at identifying correct side chain conformations in the protein core than it is on identifying correct surface conformations
+these are used to determine dynamical pathways between different protein conformations using monte carlo methods
+this process has also been observed in simulations of unk and implicated as occurring naturally in certain protein families by examination of their dihedral angle conformations in crystal structures
+in addition they all appear to unk between at least two different conformations denoted by e1 and e2
+the unk with an odd number of alkene units are more reactive due to the presence of favorable unk diene conformations and da reactions take place more easily with a preference for the termini
+unk are well-studied in organic chemistry because they adopt unusual chemical conformations due to build-up of strain
+to minimize the free energy of the organic layer the molecules adopt conformations that allow high degree of van der waals forces with some hydrogen bonding
+is stretched as it enters the air phase as the force acts in the locality of the phase it is invariant to different lengths or conformations of the dna in solution so dna of any length will be stretched the same as the meniscus retracts
+in practice especially when higher temperatures are used the algorithm instead identifies a small number of unk unk at each position allowing the resulting conformations relative energies to then be enumerated unk based on the precomputed energies not on those derived from the unk approximation unk
+these fractional assignments place important constraints on the possible secondary conformations that the protein can be in
+in solution five different conformations some folded and some extended are found as a result of solvation effects
+analogous extensions of the unk model have been put forth but have not accommodated mixed helical conformations
+this puckering leads to a total of 38 distinct basic unk conformations 2 chairs 6 boats 6 unk 12 unk and 12 envelopes
+pentane interference or syn unk pentane interaction is the steric hindrance that the two terminal methyl groups experience in one of the chemical conformations of unk
+whereas the shape complementarity based approaches are typically fast and robust they can not usually model the movements or dynamic changes in the ligand protein conformations accurately although recent developments allow these methods to investigate ligand flexibility
+noted that because of the very large number of degrees of freedom in an unfolded polypeptide chain the molecule has an astronomical number of possible conformations
+unk conformations have been observed in crystal structures of short non-natural peptides especially those containing a mixture of l and d amino acids
+but less accurate overall it is significantly better at identifying correct side chain conformations in the protein core than it is on identifying correct surface conformations
+rotation about two central single c-c bonds of n unk pentane produces four different conformations
+the continuum representation of solvent also significantly improves the computational speed and reduces errors in statistical averaging that arise from incomplete sampling of solvent conformations so that the energy landscapes obtained with implicit and explicit solvent are different
+

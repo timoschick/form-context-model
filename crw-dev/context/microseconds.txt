@@ -1,390 +1,391 @@
-the machine used magnetic core memory with a cycle time of 1.5 so that a typical unk unk fetch execute unk unk instruction ran at a speed of unk mips
-meg could multiply two integers in about 60
-the multiplexing is performed by interleaving the bytes of the three sts-1 frames to form the unk frame containing bytes and transmitted in 125
-the lasers used for many laser displays have energy levels that can exceed the mpe within a few tens of
-calendar times are 64-bit signed numbers with units of
-this improved speeds by about ten times for instance a floating point add not took 40 unk from 300 unk multiplication 180 unk from 2.2 ms unk and a square root 510 unk from 5.3 ms unk
-because proteins are such large molecules containing hundreds or thousands of atoms it is not possible with current technology to simulate more than a few of their behaviour in unk detail
-also introduced was a new playback equalization setting unk 70 unk that traded some of the extended high-frequency response for lower noise resulting in a 4 unk 5 db improvement in signal-to-noise ratio over unk
-this video processing can cause delays in the video signal ranging from a few to tens of seconds
-when the gtaw equipment detects that the electrode has left the surface and a spark is present it immediately unk within unk increases power converting the spark to a full arc
-time unk tai unk is determined by very long baseline interferometry unk vlbi unk observations of distant quasars a method which has an accuracy of
-later in the war freya operated in the band from 2.5 to 2.3 meters 120 to 130 mhz with a pulse width of 3 a peak power output of 15 to 20 kw and a pulse repetition frequency of 500 hz
-for measuring latency in long haul networks the calculation is actually 4.9 for every kilometre
-unk utilises extremely high power densities of the order of unk in short pulses unk impulses unk of tens of at low duty cycle unk time ratio unk of 10 %
-if after unk for example unk 0.3 one has not seen the decay product on the inner closer hemisphere one can conclude that the particle has decayed with almost absolute certainty but
-the arrangement was such that the gamma ray from the cadmium would be detected 5 after the gamma ray from the positron if it were truly produced by a neutrino
-if this acceleration were constant a falling object would be accelerated to nearly the speed of light in the order of 100
-is by by of that by of that etc to at least six places after the sexagesimal point unk a precision of less than 2 unk by the babylonians after 300 bc but they did not unk subdivide smaller units of time
-it had an ultrasonic mercury delay line memory of 255 words with an average access time of 500
-alternative proposals have been made unk some of which are in use unk including storing either milliseconds or since an epoch unk typically either 1 january 1970 or 1 january 2000 unk in a unk bit integer providing a minimum of years range
-upon reception the returned signal is passed through the same tapped delay line and compressed to 20 in order to increase the accuracy and resolution of the range measurement which is of course a function of the interval between transmission and return
-it could add two fp numbers in about 180 and multiply them in about 360
-the two banks were phased 3.2 apart so average effective memory access time was 4.8
-a value for the muon lifetime was given as to 2.3 unk which was later refined in 1943 by rossi and unk to to 2.15 unk which was still in excellent agreement with special relativity
-the 1974 pocket reference card gave a basic instruction time of 1.2 or 2.6 for instructions that referenced memory
-its floating multiply time was 71 and divide was 81
-unk digit number unk for d up to 10 unk took d cycles so a 10 unk by 10-digit multiplication took 14 cycles or 2800 unk a rate of 357 per second
-a wireless microphone or sound system using diversity reception will switch to the other antenna within if one antenna experiences noise providing an improved quality signal with fewer drop-outs and noise
-stop the oscillator by inducing unk in the crystal and transistors with a swept crystal and properly designed circuit the oscillations can restart within 15 after the radiation burst
-magnetic core memory cycle time was 5 unk corresponding very roughly to a clock speed of 200 kilohertz consequently most arithmetic instructions took 10 unk operations per second unk because they had two memory cycles one for the instruction one for the operand data fetch
-that actually may have more explosive yield of high explosive is hydrodynamic testing in which extremely fast x-ray neutron or other specialized camera measure in the explosive compression of a fissionable material simulant
-a pulse of ultrasound from the transducer might travel nanoseconds or to reach an internal interface and be reflected back to the transducer
-latency is largely a function of the speed of light which is in scientifically controlled environment which would equate to a latency of 4.8 for every kilometer
-the basic machine cycle was 200 unk 20 cycles of the 100 khz clock in the cycling unit unk or cycles per second for operations on the 10-digit numbers
-it decays into a muon and one neutrino with a mean life of unk
-unk utilizes extremely high power densities of the order of in short pulses unk impulses unk of tens of at low duty cycle of 10 %
-the normal human threshold for detection of an itd is up to a time difference of unk unk
-a similar multiplication took 384
-unk model the unk half-lives of several isotopes of the element 120 unk namely unk unk have been predicted to be around 1 unk 20
-therefore all o operations that last longer than a few hundred are asynchronous and have a callback
-it could add two numbers and store the result in 64
-one drum could contain instructions and has an access time of thus it was a stored-program computer
-the resulting values unk in this case they are relativistic increases in the rate of the unk clocks by about 38 per day unk form the basis for adjustments essential for the functioning of the system
-its addition time was 4 multiplication time was 8 and the division time was 28
-unk can deliver up to 64 channels of 48 khz 24-bit pcm audio data with a network latency of 125
-an addition took 15 a multiplication took 31 and a division took 227 not counting memory access time and checking
-unk unk have broad bandwidth calls as they can distinguish echoes as little as 20 apart
-a nop instruction took about 2.5
-general generators for pulses with widths over a few employ digital counters for timing these pulses while widths between approximately 1 nanosecond and several are typically generated by analog techniques such as rc unk unk unk networks or switched delay lines
-when the requested document is in cache response time is typically measured in
-56 unk unk 1974 unk unk found that typical dolphin echolocation signals in the open water had average durations near 40 with peak energies between 120 and 130 khz much higher than the previously reported energy peaks centered at 35 to 60 khz
-for example any character on the screen can be accessed by the processor in
-this is also repeated nine times over until octets have been transmitted also taking 125
-simulcast refers to the broadcasting of the same transmission on the same frequency from multiple towers either simultaneously or offset by a fixed number of
-modern transponders unk manufactured since 1973 unk have an sls circuit which suppresses reply on receipt of any two pulses in any interrogation spaced 2.0 apart that are above the mtl minimum triggering level threshold of the receiver amplitude unk unk p1 unk p2 or p2 unk p3 or p3
-the pegasus basic instruction cycle time for and logical instructions was 128
-the memory cycle time for a was 2 per byte of information
-to the receiving system without undergoing any additional unk signal manipulation with bandwidths optimized for the specified pulse widths of 0.5 0.75 1.0 and 2.4 and the receiver noise figure of 7.5 db was improved to 3.5 db through the addition of unk parametric rf amplifiers
-in practice for signals that are a function of time the sampling interval is typically quite small on the order of milliseconds or less
-it normally varies between 10 to 60
-networks the latency performance rises a bit more due to building risers and unk and can be as bring the latency as high as 5 per kilometre
-the ta value is normally between 0 and 63 with each step representing an advance of one bit period unk approximately 3.69 unk
-in reality the differential delay that might be required to equalise may be many hundreds of
-its addition time was and the multiplication time was unk times include memory access time unk
-data passing through equipment can be delayed by at most 32 compared to a frame rate of 125 and many competing protocols buffer the data for at least one frame or packet before sending it on
-ability to measure perturbations as small as fluid fluctuations of 0.3 nm and can convert this depolarizing potential into a nerve impulse in about 10
-os 2200 has long guaranteed real time events get control of a processor within 50
-veto of conscience to operate for example in a measurable awareness of an intention to carry out an act that occurs about 350 unk 400 after the electrical discharge known as the readiness potential
-seismologists estimate that the earthquake was so powerful that it may have shortened the length of the day by 1.26 and moved the earth figure axis by 8 cm or 2.7 unk
-lack of unk the prototype unk unk were directly connected without any loads across a unk constant voltage source and were switched on for 25
-the stagnation point by assuming a free stream velocity of 7.8 and a nose radius of 1 meter i.e. time of travel is about 18
-for example in a typical application with 8 axes of motion and a cycle rate of 250 the equivalent of 85 mbps is available for nrt use
-addition time was clocked at multiplication at and division time at 26.1 milliseconds
-the highest value of the unk half-life predicted in the quantum tunneling model with the mass estimates from a unk model is 485 for the isotope unk
-a fixed point addition took 5 a floating-point addition took 5 to 10 a multiplication unk fixed or floating-point unk took 25 and a division unk fixed or floating-point
-pulse width is much narrower often about 10
-an additional wire referred to as power good is used to prevent digital circuitry operation during the initial of power supply turn-on where output voltages and currents are rising but not yet sufficient or stable for proper device operation
-the maximum configuration incorporated 32k words of 48-bit core storage unk unk bytes unk with a cycle time of 6
-the transmitted pulse 2000 long is coded or tagged by being passed through a tapped delay line which may reverse the phase at unk intervals
-memory cycle time was reduced to 2
-memory in the cdc 1604 consisted of 32k 48-bit words of magnetic core memory with a cycle time of 6.4
-able to cool it rapidly so that gas temperature between the contacts is reduced from k to less than 2000 k in a few hundred so that it is able to withstand the transient recovery voltage that is applied across the contacts after current interruption
-indeed in a matter of the processor can switch to one of 8 frequency levels and one of 5 voltage levels
-the excited species will after some time usually in the order of few nanoseconds to unk and emit light at a wavelength larger than the excitation wavelength
-an addition required five 12 microsecond cycles two of which were refresh cycles a multiplication or division required 38 cycles unk 456 unk
-with this paradigm simmons estimated that bats can discriminate a range difference of approximately 1 centimeter corresponding to an echo delay difference of approximately 60
-its fastest instructions took 1.59 to execute and the machine use of virtual storage and paging allowed each concurrent user to have up to one million words of storage space
-with a cycle time of 4 the effective cycle time was 2 when instruction and data accesses overlapped in two banks
-ac waveform unk known as the ac unk point unk such that one frame starts after the zero crossing and the other frame starts unk one unk at 60hz unk after the first one
-as the charges collect on the surface of the dielectric they discharge in leading to their reformation elsewhere on the surface
-means that it is not possible to accurately predict the execution speed of any particular command although typically this will be a minimum of 250 at normal 4 mhz operating speed
-the speed can reach 10 peaking some 40 after detonation the cone tip is subjected to acceleration of about 25 million g
-for example 8 is a transient rise time 20 is the fall time
-connection regardless of the speed the radio is moving at i.e. a connection between two radios powered with unk can be established in just 94 10.000 times faster if compared to the 2 unk 5 seconds needed when using normal wi-fi
-of 10 12 unk 10 13 2 allowing the unk to go from a dead stop to near the speed of light in about 100
-the iri can transmit in continuous waves unk cw unk or in pulses as short as 10 unk unk
-a floating point add took between unk unk unk
-free quarks probably existed in the extreme conditions of the very early universe until about 30 after the big bang in a very hot gas of free quarks antiquarks and gluons
-function of the tube geometry on a 21 inch tube the index stripes were positioned 0.51 inches apart a single horizontal sweep takes about 53 so the signal had to be modulated at 7.4 mhz
-any ampere and voltage combination can occur in time but surges commonly occur for to nanoseconds and experimentally modeled surge energy has been far under unk
-the rmd software program working with an unk welding system and closed-loop feedback closely monitors and controls the electrode current at speeds up to 50 unk 50 unk of a second unk
-its average multiplication time was 180 and the average division time was 300
-every loran chain in the world uses a unique group repetition interval the number of which when multiplied by ten gives how many pass between pulses from a given station in the chain
-data passing through equipment can be delayed by at most 32 compared to a frame rate of 125 and many competing protocols buffer the data for at least one frame or packet before sending it
-for unk it is 163
-the time resolution was 200
-core memory cycle times were 20 for the model i 10 for the model ii unk about a thousand times slower than typical computer main memory in 2006 unk
-the time needed to find a particular bit was somewhat longer as it traveled through the wire and access times on the order of 500 were typical
-the pulse length can vary from 0.4 to 2.5 and its peak power is 350 kw
-on the other hand for unk proteins unk i.e. those which have a relaxation rate of the order of 1-100 unk unk unk unk dead time few nanoseconds unk or continuous flow mixing unk dead time few unk can be carried out at different
-the reason that lightning does damage is that this energy is released in a matter of unk typically 30 to 50 unk
-it operated at a frequency of 2880 megahertz with output power of 1500 kilowatts and a pulse width of 3.5
-all instructions are fixed width 16 bits wide and all instructions executed in one memory cycle unk 1.6 unk
-the granularity of the timers is guaranteed to be between 10 and 1 millisecond
-when the wire is connected across this voltage the resulting high current melts and then vaporizes the wire in several
-its floating-point addition time was 1.38 to 1.5 multiplication time was 2.48 to 2.70 and division time was 9.00 to 9.90
-by an inferior or superior state that lasts 100 and a digit 0 is created by an inferior or superior state that lasts 200
-each mobile host maintains a tsf timer with modulus 264 counting in increments of
-this corresponds with the sample rate 44.1 khz unk 22.7 unk
-the use of a fpga from national instruments enables fast scanning speed and a short response time of 4 for critical measurements and controlled feedback
-a radio pulse takes around unk to travel one nautical mile unk unk km unk to and from this is also referred to as a unk
-the exact amount is not yet known but theoretical models suggest the earthquake shortened the length of a day by 2.68 due to a decrease in the unk of the earth
-a multiply took 8 and a divide 25
-the average stroke of lightning peaks at 1 unk but these strokes only last for 30
-a fixed point addition took 5 a floating-point addition took 5 to 10 a multiplication unk fixed or floating-point unk took 25 and a division unk fixed or floating-point unk took 65
-while a mov is designed to conduct significant power for very short durations unk unk such as caused by lightning strikes it typically does not have the capacity to conduct sustained energy
-each station maintains a tsf timer counting in increments of unk unk
-this effect also produces short test times however with some types of tests in these facilities lasting less than 100
-each device in a unk network adds 1.5 of latency
-addition operations took on average 850 whereas multiplications and divisions took 3300
-at least two unk but often more unk secondary unk or slave unk stations with a uniform group repetition interval unk gri unk defined in
-which is about 28
-it was proposed to delay the extraction of ions from the ion source toward the flight tube by a few hundred nanoseconds to a few with respect to the laser pulse
-for example the unk phosphor has a decay time of less than 2 while the unk decay time is on the order of 2-3 milliseconds
-the core memory had an access time of 8 and a cycle time of 4
-unk in practice the delays in many but not all chains are multiples of 100
-of unk bauri recorded peak speeds of between 126 and 230 h unk 78 unk 143 mph unk with the jaws closing within just 130 on average
-the clock rate was 4.25 mhz unk 1 mhz according to one source unk which yielded a word time of about 10
-4004 employed a 10 unk enhancement load pmos technology and could execute approximately instructions per second unk that is a single instruction cycle was 10.8 unk
-upb frames are synchronized to the unk transition of the ac waveform unk known as the ac unk point unk such that one frame starts after the zero crossing and the other frame starts unk one unk at 60hz unk after the first one
-the average peak power output of a single lightning stroke is about a unk unk 1012 w unk and the stroke lasts for around 30
-however some large scale events such as the 2004 indian ocean earthquake have caused the rotation to speed up by around 3
-few after the pulse has been launched so that scattered light at ground level is ignored and only light which has travelled for several high up into the atmosphere and back is actually detected unk
-the parameter typically specifies seconds although some operating systems provide finer resolution such as milliseconds or
-range ranges from 1.07 mpi latency unk unk unk unk unk to 1.29 mpi latency unk unk unk unk unk unk to 2.6 unk unk unk iii unk unk
-the addition time was 864 and the multiplication time was unk unk i.e. close to 3 milliseconds unk
-on a commercial level industry vendor assume the 802.11 tsf synchronization to be within 25
-the radar has a peak power output of 7 kw and is capable of positioning beams in 400 a huge advantage over mechanically scanned radar
-at some point the williams tube memory was replaced with words of magnetic core memory with an access time of 8
-at 3500 rpm had 200 read-write heads and held 24-bit words unk a memory size equivalent to 48 kb unk with access time between 32 and 17 milliseconds
-once again grazing the limb of the sun unk the relativistic time delay is about is about 20 according to theory and about 240 according to general relativity
-the average exposure time used was three
-experience that the signals can shift relative to each other by as much as 2 for instance designing your system with at least 2 of timing margin will prevent incorrect interpretation of the data signal by the receiver
-interaction with solvents however reduces the lifetime to or even nanoseconds
-cycle time was 1.75
-for this purpose each subscriber line termination was examined for a period of 280 every 224 milliseconds a process known as scanning
-latency has as a lower bound the speed of light this corresponds to a few per kilometer of optical fibre
-the plasma would cool to as it traversed the 25 m distance to the pusher plate and then reheat to as unk at about 300 unk it hit the pusher plate and unk
-the neutrons were captured by cadmium nuclei resulting in gamma rays of about that were detected a few after the photons from a positron annihilation event
-bit value of one is represented by a 1 millisecond burst of 120 khz at the zero crossing point unk nominally 0 but within 200 of the zero crossing point unk immediately followed by the absence of a pulse
-of 10 megabits per second was protocol independent and could transmit 4.3 miles the limit being set by the 802.3 propagation delay allowance of 46.4
-for measuring latency in long haul networks the calculation is actually 4.9 for every kilometer
-heavy ion collisions at rhic were successful in creating the quark-gluon plasma unk unk unk a state of matter believed to have existed approximately 10 after the big bang
-instance a floating point add not took 40 unk from 300 unk multiplication 180 unk from 2.2 ms unk and a square root 510 unk from 5.3 ms unk
-on the pdp-1 the core memory cycle time was 5 consequently most arithmetic instructions took 10 unk operations per second unk because most operations took at least two memory cycles one for the instruction one for the operand data fetch
-an add required 16 a multiply or divide 86 these slow times a side effect of its serial operation
-e x treme db provides a code footprint as small as 50k and typical database read and write accesses at the level of a few or less
-at 2 unk 3 the channel filler would transmit some of the energy to the propellant which would vaporize
-an addition could take anywhere from 64 to 1024
-using the same example of 8 axes but with a cycle time of 62.5 the effective bandwidth available for nrt frames would be 40 mbps and the mtu would be reduced to 325
-sometimes the excited state is metastable so the relaxation back out of the excited state is delayed unk necessitating anywhere from a few to hours depending on the material unk the process then corresponds to either one of two phenomena depending on the type of transition and hence
-basic memory cycle time was 6
-symbol duration is 4 which includes a guard interval of 0.8
-based on the modern value of the speed of light the actual delay in this experiment would be about 11
-for the muon lifetime was given as to 2.3 unk which was later refined in 1943 by rossi and unk to to 2.15 unk which was still in excellent agreement with special relativity
-the computational requirements for molecular dynamics are such that in 2002 while the fastest proteins fold on the order of tens of current single computer processors could only simulate on the order of a nanosecond of real-time of folding in full atomic detail per cpu day
-each unk cycle took the transponder 100 allowing it to handle a maximum of interrogations per second and making collisions unlikely
-he found that it was stable to 200 per day equivalent to an error rate of one second in 12 years far more accurate than the 1 second per year that was previously
-it showed the predicted shift of 38 per day
-energy rating is often defined using industry standard transients such as or
-multiply time was unk and divide time was unk
-off venus and returns to earth unk once again grazing the limb of the sun unk the relativistic time delay is about is about 20 according to theory and about 240 according to general relativity
-atomic clocks also show that the earth day lengthens by about 15 unk unk every year
-it transmitted ten megawatt pulses of radio frequency energy with each pulse having a duration of six
-the outer hemisphere is then placed at unk speed of light unk times unk 0.4 unk away that is at about 120 meters away
-54 to 53 cm unk 553 to 566 mhz unk unk an extremely short wavelength for the time unk with a pulse length of 2 a peak power of 7 to 11 kw and a prf of hz
-for example time unit unk usually abbreviated tu unk is used to indicate a unit of time equal to 1024
-a sufficiently high and well known amount of electrical current and voltage the timing of the unk vaporization is both extremely short unk a few unk and extremely precise and predictable unk standard deviation of time to detonate as low as a few tens of nanoseconds unk
-cavemen set in some version of san diego where people speak with southern accents does have moments as much as suspended from any attempt at narrative
-dividing this interface delay value by 10 yields a delay in units of tens of that is used in the weighted formula
-the speeds of computer connections measured in milliseconds and even have become very important
-using bursts of several tens of in duration the tissue can be cut while the size of the heat diffusion zone does not exceed the cellular scale
-its addition time was 72 and the multiplication time was 732
-on the other hand improvements in specialized networking hardware have continued cutting down the communication costs to a couple of
-the computer operated at 500 khz but because each digit was stored as 4 bits the basic word operational cycle was 80
-they had figured out how to write to the video memory without unk the display so the hardware would blank the screen for a few while it accessed the video memory
-entire word in parallel instead of unk as with most machines of the era dramatically improving performance so that an addition would take only 20 and a multiply about 200 unk faster than the prototype at addition even on its much smaller word size
-its addition time was and the multiplication time was unk this was a factor of 2.6 and a factor 8 faster respectively compared to the mark i unk
-this result was improved later by sasaki et al. and generating a collision is now as cheap as verifying it unk a few unk
-in contrast a 100 mhz arm cpu unk from 2008 unk switches in less than 3
-all electrical power from the power distribution system including decoupling capacitors in less than a 1 microsecond and restored to specified voltage in a few upon command
-the round-trip time was about two
-memory access time was unk
-its addition time was 270 unk not counting memory access time unk
-when combining the time dilation and gravitational frequency shift the discrepancy is about 38 per day a difference of unk parts in 1010
-the standard base is january 1 1900 and the 64 bit counter will roll over 252 after that
-obviously in the factory testing every state is impractical if testing each state takes a microsecond and there are more states than the number of since the universe began
-disk but the systems that unk ran on also supported a significant complement of very low latency solid state disks with access times under 10
-the machine originally used electrostatic tubes unk crt or williams tube unk for memory which stored 2000 words with an access time of 8
-this allows the system to ignore most scattered light at ground level only light which has travelled for several high up into the atmosphere and back is actually detected
-the radar operated at 106 mhz using a pulse width from 10 to 25 and a pulse repetition frequency of 621 hz
-since this comparison is carried out during one pulse which is typically a few changes in target position or heading will have no effect on the comparison
-in addition slower motions which take place on a time-scale ranging from about 10 to 100 milliseconds can also be studied
-test waveforms used to design and calibrate surge protectors are all based on modeled waveforms of surges measured in
-most scientific publications about the dynamics of proteins and dna use data from simulations spanning nanoseconds unk unk s unk to unk unk s unk
-and usually uses a 1.2 microsecond rise for the wave to reach 90 % amplitude then drops back down to 50 % amplitude after 50
-in keeping with the conservation of angular momentum the earth rotation is gradually slowing and the earth day thus lengthens by about 17 every year
-on that basis if the half lives of unk unk and unk are 3.05 minutes less than 200 and 140 days unk respectively unk no matter how much original polonium could have been present in the initial magma all these po isotopes would
-in one test readings differed by 47 unk or a difference of 1 degree of at 60hz unk an unacceptable variance
-the length of pulses is usually one hundred
-is fired twice on the same spot on the specimen with a pulse separation in the order of one to a couple of tens of
-the addition time was 48 microsecond and the time was 2112
-speed was good for its cost but with an integer add time of 3.5 it was not in the same league as the scientific workhorses of the day unk the cdc 6600 for example unk
-this is a slow operation taking on the order of to complete
-the tsf is based on a unk clock and ticks in
-the kernel is capable of over unk threads per second and is able to perform a context switch in 1.41 on a unk unk
-experiments proved that the muon decays with a mean life of 2.2 into an electron and two neutrinos but that it does not interact strongly with nuclei so it could not be the yukawa particle
-to the speed of the arithmetic portion of the univac which permits the transfer into or out of the memory of 12 characters in 40
-it has a period of approximately 4.7 and is also known as the sync tip
-between transmitters in an sfn is equal to the distance a signal travels during the guard interval unk for instance a guard interval of 200 would allow transmitters to be spaced 60 km apart
-it had words of memory unk thirty-six bits per word unk using delay line memory with an access time of up to 305
-both of these drums also had an access time of
-in the first few after detonation the bomb and shot cab are destroyed and vaporized
-addition took 285 and multiplication took making it approximately 100 times faster than the harvard mark i. data which had to be retrieved quickly were held in
-the unk frame is transmitted in exactly 125 therefore there are 8000 frames per second on a fiber-optic circuit designated unk unk optical unk unk
-each line must therefore take 63 10.7 of which are for reset to the next line
-if you know from experience that the signals can shift relative to each other by as much as 2 for instance designing your system with at least 2 of timing margin will prevent incorrect interpretation of the data signal by the receiver
-this is repeated nine times over until 810 octets have been transmitted taking 125
-the specifics are that the right channel output is delayed 22.7 from the left channel output
-the data rates supported are 2 and 4 and cyclic update rates as low as 62.5
-with later improvements the system provided single-pass accuracy of roughly 200 meters and also provided time synchronization to roughly 50
-of the early experimental devices was that the magnetic domains could only be pushed slowly through the wires requiring current pulses on the orders of to move them successfully
-the lasers are often pulsed with measurement of the atmosphere being unk unk taking place a few after the pulse has been launched so that scattered light at ground level is ignored and only light which has travelled for several high
-ddr switch chips have a latency of 140 unk end-to-end latency range ranges from 1.07 mpi latency unk unk unk unk unk to 1.29 mpi latency unk unk unk unk unk unk to 2.6 unk unk unk iii unk unk
-the rate of decrease of orbital period is 76.5 per year the rate of decrease of semimajor axis is 3.5 meters per year and the calculated lifetime to final inspiral is years
-pulse unk is a recent method of initiating fast reactions to study reactions occurring on a timescale faster than approximately one hundred when simple mixing of reagents is too slow and other methods of initiating reactions have to be used
-a digit 1 is created by an inferior or superior state that lasts 100 and a digit 0 is created by an inferior or superior state that lasts 200
-in the explosive liner hits the metal cavity reflects and unk on the preheated burnt gases focuses at the center of the hemisphere unk 50 after the initiation of the exploding wire unk and reflects leaving behind a very small pocket unk 1mm unk of extremely high-temperature high-pressure and high
-this type of system is used frequently in high average power laser systems and can produce pulses ranging from 500 to over 20 milliseconds
-fluorescence and phosphorescence is not clean cut as transition unk complexes which combine a metal and several organic moieties have long lifetimes up to several unk as they display mixed unk states unk
-in the second case the php function is used which returns the current unix timestamp with
-a negative lightning stroke typically lasts for only tens of but multiple strikes are common
-one study recorded peak speeds of between 126 and 230 h unk 78 unk 143 mph unk with the jaws closing within just 130 on average
-this type of data exchange allows bus cycle times in the range of a few hundred
-the transponder must be suppressed for a period of 35 10 following receipt of a pulse pair of proper spacing and suppression action must be capable of being unk for the full duration within 2
-the addition time was 800 and the multiplication time was 1200
-this was a bottleneck in the computer and made the access time to data on these drums long unk
-to put numbers to this a call into the bsd kernel on a unk requires about 20 unk unk
-propagation medium memory contents required waiting for the pulses of interest to reach the end of the medium a wait typically on the order of
-discharge sequence is typically about second in duration while the duration of the individual strokes varies greatly between 100 nanoseconds and a few tens of
-the average access time was about 222 which was considerably faster than the mechanical systems used on earlier computers
-the blade server using a pci express x4 link uses less than 9 watts has bandwidth up to 800 and latency as low as 50
-for example in a 20 mhz 68000 processor unk typical of late 1980s unk task switch times are roughly 20
-in error detection normally the two ends of the link exchange a very brief silence unk e.g. a few for unk unk or a reset command and then try to reset and restore the link as if from power-up
-a machine cycle was two
-the memory cycle time was 1.44 to access two bytes unk one half word unk of information
-the implosion compresses the magnetic field to values of around 1000 t for a few
-electronic switch inside a computer may require very little energy to activate yet it must be delivered rapidly enough to complete the transaction in mere
-each step took 12 to execute
-the addition time was 96 and the multiplication time was 352
-unk can usually maintain time to within 10 milliseconds unk s unk over the public internet and can achieve accuracies of 200 unk s unk or better in local area networks under ideal conditions
-the p-3 had a maximum power output of up to 100 kw and a pulse duration of 10-15
-following receipt of a pulse pair of proper spacing and suppression action must be capable of being unk for the full duration within 2 after the end of any suppression period
-can vary from unk mems mirrors unk to tens of seconds for thermally controlled dm
-a basic 12-bit addition took about 240 multiplication about 18 milliseconds
-the unk features 16 o slots in mainframe a 10 mhz clock and a memory cycle time of 1.6
-and is termed the wiegand effect
-each catalyzing muon thus spends most of its ephemeral existence of about 2.2 as measured in its rest frame wandering around looking for suitable unk and tritons with which to bind
-their products are based on blackmer research into ultrasonic frequencies in sound reproduction and his claims that the time resolution of human hearing is 5 or better unk corresponding to 200 khz well above the 20 khz conventionally accepted as the limit of human hearing
-networks with reduced transmission rates require very accurate synchronization it may be necessary to synchronize the local clocks with an accuracy in the order of
-state unk albeit far more slowly than a usual excited state unk or undergo spontaneous fission with half lives of the order of nanoseconds or unk a very short time but many orders of magnitude longer than the half life of a more usual nuclear excited state
-in the following few the test hardware and surrounding rock are vaporised with temperatures of several million degrees and pressures of several million atmospheres
-computed lifetimes are in the range of 0.1 to 10
-unk these times are including the memory access time which was 4-5
-addition to an unk to indicate height the radar had a maximum power output of up to 100 kw and a pulse width of 4-12
-in the ieee 802.11 standard a unit of time equal to 1024
-rate switch chips have a latency of 200 nanoseconds and ddr switch chips have a latency of 140 unk end-to-end latency range ranges from 1.07 mpi latency unk unk unk unk unk to 1.29 mpi latency unk unk unk unk unk unk to 2.6 unk unk unk iii
-this discharge takes no more than a few and is able to reach accelerations of about gs
-relaxation rate of the order of 1-100 unk unk unk unk dead time few nanoseconds unk or continuous flow mixing unk dead time few unk can be carried out at different unk concentrations to obtain a chevron plot
-ssds based on volatile memory such as dram are characterized by ultrafast data access generally less than 10 and are used primarily to accelerate applications that would otherwise be held back by the latency of flash ssds or traditional hdds
-a bank of capacitors releases a pulse of electric current lasting 10 into the coil generating a radial magnetic field
-a unk unk unk unk unk transmitter was soon built this generated unk pulses with a unk of 90 between pulses
-two continents bringing the united kingdom and the united states to within 1 microsecond of each other unk unk efforts were only accurate to 2000 unk
-at the same time the positive ions drift towards the cathode at much lower speed in practical devices the drift times are measured in and milliseconds respectively
-its addition time was 38 multiplication time was 240 and division time was 375
-these times include the storage access time which was about 62
-in tests on a unk a standard unix system call took 21 to complete while a corresponding operation on mach took 114
-one of his recent projects is the realtime preemption patch which aims to bring unk scheduling latencies unk 50 unk 60 worst-case execution time unk to linux
-so a division or square root took up to 143 cycles or unk a rate of 35 per second
-these are called prompt neutrons and strike other nuclei and cause additional fissions within
-the unk instability occurs extremely quickly in a few
-the addition time was 525 and the multiplication time was 2150
-the processor ran with an instruction cycle time of around 1.25 with most instructions executing in 3 to 7
-the generated solvers cover most degenerate cases and can finish in on recent computers
-an addition or subtraction was clocked at 100 multiplication at and division at
-300 ns cycle time unk that was later bumped to 5 mhz clock unk 200 ns cycle time unk instructions executed within 1.6 and 4.8
-in both cases the temperature of the solution is caused to rise by a small amount in unk or less in the case of laser heating unk
-the williams tube memory and later core memory each had a memory cycle time of 12
-he also published research on the value of ultrasonic frequencies in sound reproduction claiming that the time resolution of human hearing is 5 or better unk which would correspond to a frequency of 200 khz requiring audio equipment ideally to have a flat response to that frequency
-such studies are important to understand the early evolution of our universe the first hundred or so
-they profit by providing information such as competing bids and offers to their algorithms faster than their competitors
-step output is stretched by unk to about 16
-in general generators for pulses with widths over a few employ digital counters for timing these pulses while widths between approximately 1 nanosecond and several are typically generated by analog techniques such as rc
-the network update time is easily calculated by multiplying the number nodes with the deterministic update time for each node unk approximately 150 unk
-cpu timing is controlled by four non-overlapping clock phases with 200 nanosecond width and 200 nanosecond spacing for an overall clock cycle of 1.6 equivalent to 625 khz clock frequency
-the neutrons were captured by cadmium nuclei resulting in gamma rays of about 8 mev that were detected a few after the photons from a positron annihilation event
-the addition time was 62 and the multiplication time was 713
-it could observe in ultraviolet visible light and near infrared at a rate of one measurement per 10
-ion with 4000 da mass and it is four times larger than the 1000 da mass it would take twice the time or about 56 to traverse the flight tube since time is proportional to the square root of the mass-to-charge ratio
-the product became popular for telecommunications equipment as response times in the milliseconds or even were required for applications like packet switching
-the identification of an interrupt took 1.7 including the time taken to enable and disable the registers
-the aircraft interrogates the ground transponder with a series of unk unk interrogations unk and after a precise time delay unk typically 50 unk the ground station replies with an identical sequence of reply unk
-when interrogated it first sweeps rapidly unk 0.4 microsecond unk through the band before beginning a relatively slow sweep unk 7.5 unk through the band back to the starting frequency
-or spacing of the wires in a parallel cable can cause different signals unk on different wires unk to arrive at slightly different times unk apart unk at the far end of the cable even when they were sent at exactly the same time from the near end
-calculations in a quantum tunneling model show that such superheavy nuclei would undergo alpha decay within or less
-addition took 285 and multiplication took making it approximately 100 times faster than the harvard mark i. data which had to be retrieved quickly were held in electronic circuits while the
-where c is the speed of light and tsp is the addition of all the positions of the stagger sequence usually in
-the experimenter sets the cycle length and it is possible to sample every 333 to 500
-the speed of arithmetic operations was about the same as the elliot 402 computer which could add in 204 and multiply in unk
-edvac addition time was 864 and its multiplication time was 2900 unk 2.9 milliseconds unk
-the memory cycle time was 0.84 to access four bytes of information
-processing delays in high-speed routers are typically on the order of or less
-these times are excluding the memory access time which added up to approximately 1500 to those times
-time delay due to the presence of the sun of a radar signal travelling from the earth to venus and back would be about 200 well within the limitations of 1960s era technology
-a gun-type plutonium device of the sort planned during the manhattan project the last few centimeters would have to be traveled in less than 40
-the system could be operated at four frequencies between and mhz unk 10 unk 11 cm wavelength unk sending out 300 kw pulses of 0.8 in duration with a pulse repetition frequency unk prf unk of pulses per second
-the antiproton can thus orbit the nucleus for many before finally falling to its surface and annihilating
-shorter metro networks the latency performance rises a bit more due to building risers and unk and can bring the latency as high as 5 per kilometer
-unk unk 1k unk which is an evolution of unk using 1024 neurons to classify an input vector of 256 bytes in up to 10
-if one were to wait 0.4 then the probability that the particle will have decayed will be that is the probability will be very very close to one
-unk detailed models of the acetylcholine unk synapse with monte carlo method working at the time scale of have been built
-the magnetic core memory cycle time was 5 unk corresponding very roughly to a clock speed of 200 kilohertz consequently most arithmetic instructions took 10 unk operations per second unk because they
-great speed agility and reflexes as he has been able to startle superman with his speed and it has been stated he can react in
-in fact it is observed that people can detect interaural differences down to 10
-domain we thus create for a very short time conditions akin in its properties to the early universe at the age of 10 unk 40
-its addition time was 70 the multiplication time was unk and the division time was 590
-of conduction electrons in metals are relatively short unk typically less than 1 nanosecond unk but in semiconductors the lifetimes can be very long unk at low temperatures unk especially when the electrons are isolated in local trapping potentials unk for instance at impurities where lifetimes can be milliseconds unk
-study of unk bauri recorded peak speeds of between 126 and 230 h unk 78 unk 143 mph unk with the jaws closing within 130 on average
-fz lifetimes are around 1000 compared to unk with czochralski and 1-30 with cast multi crystalline silicon
-the nova 1200 executed core memory access instructions unk lda and sta unk in 2.55 unk unk
-this allowed a node to send a message to any other node within 2
-images in lcd tvs could become obsolete since the blue phase mode features a superior response speed unk in the range of 10 unk 100 see ref
-an addition took 10
-single-precision multiplication took and double-precision multiplication took
-the memory cycle time was 1.5 to access one 32 bit word unk 4 bytes
-time scales of milliseconds are the norm and the very fastest known protein folding reactions are complete within a few
-took 5 to 10 a multiplication unk fixed or floating-point unk took 25 and a division unk fixed or floating-point unk took 65
-a discrete number that can take on values in only seconds but as a number that can take discrete values in any time unit milliseconds nanoseconds picoseconds etc.
-in this case the second fm carrier is 14.25 times the line frequency or about 224 khz above the first carrier unk is 75 the stereo control frequency is unk hz the dual sound control frequency is 276 hz and the second channel carries unk unk not r unk
-the alu was serial so addition or subtraction took 240 and overall processing speed was about operations a second
-in low prf and medium prf radar waveforms for long-range detection which use pulse compression and therefore have a duty cycle in the order of
-this allows the study of the shift in equilibrium of reactions that equilibrate in milliseconds unk or with laser temperature jump unk these changes most commonly being observed using absorption spectroscopy
-the lasers are often pulsed with measurement of the atmosphere being limited to a window occurring a few after the pulse has been launched
-two rubidium atoms were used to create the molecule which survived for 18
-latency is largely a function of the speed of light which is in scientifically controlled environment which would equate to a latency of 4.8 for every kilometre
-only 18 of this was hardware related the rest was the mach kernel running various routines on the message
-the ofdm guard interval for tm i is 246 which means that the overall ofdm symbol duration is unk milliseconds
-on the pdp-1 the core memory cycle time was 5 consequently most arithmetic instructions took 10 unk operations per second unk because most operations took at least two memory cycles one for the instruction
-it has been shown to be scalable accurate in the order of few and compatible to ieee 802.11 and similar standards
-start speaking at the same time both stop and wait for short random periods of time unk in ethernet this time is generally measured in unk
-long pulse unk typically of tens of unk lasers but some use
-in order to demonstrate in collaboration with ernest unk that a kerr cell responds to an applied electric field in a few tens of he adapted the unk method that foucault had applied to measure the speed of light
-it also has a time resolution of 16
-its default value is 100 milliseconds but can be changed to 100
-the pulse lasts around 10-40 depending on the laser parameters
-exactly meters per second unk and then multiplying the result by 2 unk round trip twice the distance unk yields a result of approximately unk in duration
-the whole process including axial and radial phases may last for the mather dpf a few unk for a small focus unk to 10 unk for a large focus unk
-unk are not unk unk as is commonly the case in solid-state nmr unk then the nmr signal will generally decay much more quickly e.g. for 1h nmr
-5 up to 10 unk to attain the best possible resolution such that the user needs to choose a compromise between event rate and resolution
-the metal forming process occurs extremely quickly unk typically tens of unk and because of the large forces portions of the workpiece undergo high acceleration reaching velocities of up to 300
-the data exchange cycles are usually in the range of a few hundred up to a few milliseconds
-analogously the interface delay is a configurable static parameter expressed in
-this description is simplified from the literature above which details various steps of differing duration from 15 unk expansion unk to 100 picoseconds unk emission unk
-the bit time was 6 jumps executed in 288 and simple arithmetic instructions in 576
-supported pre-emptive multitasking with round-robin task scheduling with a 110 microsecond context switch time and only 20 of latency unk guaranteed interrupt response time unk
-by properly interleaving accesses to different banks the memory could sustain an effective access time of 4 on each access unk e.g. instruction access in one bank data in another unk
-the value of unk is 2 and is much shorter the unk time
-a word in the computer memory could be read written or refreshed in 360
-the performance increase was dramatic the needed 16 to add two 24-bit integers the 9300 only 1.75 almost 10 times as fast
-seek time was reduced from 40 to 1100 nanoseconds read and 250 nanoseconds write
+the machine used magnetic core memory with a cycle time of 1.5 microseconds so that a typical unk unk fetch execute unk unk instruction ran at a speed of unk mips
+meg could multiply two integers in about 60 microseconds
+the multiplexing is performed by interleaving the bytes of the three sts-1 frames to form the unk frame containing bytes and transmitted in 125 microseconds
+the lasers used for many laser displays have energy levels that can exceed the mpe within a few tens of microseconds
+calendar times are 64-bit signed numbers with units of microseconds
+this improved speeds by about ten times for instance a floating point add not took 40 microseconds unk from 300 unk multiplication 180 unk from 2.2 ms unk and a square root 510 microseconds unk from 5.3 ms unk
+because proteins are such large molecules containing hundreds or thousands of atoms it is not possible with current technology to simulate more than a few microseconds of their behaviour in unk detail
+also introduced was a new playback equalization setting unk 70 microseconds unk that traded some of the extended high-frequency response for lower noise resulting in a 4 unk 5 db improvement in signal-to-noise ratio over unk
+this video processing can cause delays in the video signal ranging from a few microseconds to tens of seconds
+when the gtaw equipment detects that the electrode has left the surface and a spark is present it immediately unk within microseconds unk increases power converting the spark to a full arc
+time unk tai unk is determined by very long baseline interferometry unk vlbi unk observations of distant quasars a method which has an accuracy of microseconds
+later in the war freya operated in the band from 2.5 to 2.3 meters 120 to 130 mhz with a pulse width of 3 microseconds a peak power output of 15 to 20 kw and a pulse repetition frequency of 500 hz
+for measuring latency in long haul networks the calculation is actually 4.9 microseconds for every kilometre
+unk utilises extremely high power densities of the order of unk in short pulses unk impulses unk of tens of microseconds at low duty cycle unk time ratio unk of 10 %
+if after unk for example unk 0.3 microseconds one has not seen the decay product on the inner closer hemisphere one can conclude that the particle has decayed with almost absolute certainty but
+the arrangement was such that the gamma ray from the cadmium would be detected 5 microseconds after the gamma ray from the positron if it were truly produced by a neutrino
+if this acceleration were constant a falling object would be accelerated to nearly the speed of light in the order of 100 microseconds
+is by by of that by of that etc to at least six places after the sexagesimal point unk a precision of less than 2 microseconds unk by the babylonians after 300 bc but they did not unk subdivide smaller units of time
+it had an ultrasonic mercury delay line memory of 255 words with an average access time of 500 microseconds
+alternative proposals have been made unk some of which are in use unk including storing either milliseconds or microseconds since an epoch unk typically either 1 january 1970 or 1 january 2000 unk in a unk bit integer providing a minimum of years range
+upon reception the returned signal is passed through the same tapped delay line and compressed to 20 microseconds in order to increase the accuracy and resolution of the range measurement which is of course a function of the interval between transmission and return
+it could add two fp numbers in about 180 microseconds and multiply them in about 360
+the two banks were phased 3.2 microseconds apart so average effective memory access time was 4.8 microseconds
+a value for the muon lifetime was given as to 2.3 unk microseconds which was later refined in 1943 by rossi and unk to to 2.15 unk microseconds which was still in excellent agreement with special relativity
+the 1974 pocket reference card gave a basic instruction time of 1.2 microseconds or 2.6 microseconds for instructions that referenced memory
+its floating multiply time was 71 microseconds and divide was 81 microseconds
+unk digit number unk for d up to 10 unk took d cycles so a 10 unk by 10-digit multiplication took 14 cycles or 2800 microseconds unk a rate of 357 per second
+a wireless microphone or sound system using diversity reception will switch to the other antenna within microseconds if one antenna experiences noise providing an improved quality signal with fewer drop-outs and noise
+stop the oscillator by inducing unk in the crystal and transistors with a swept crystal and properly designed circuit the oscillations can restart within 15 microseconds after the radiation burst
+magnetic core memory cycle time was 5 microseconds unk corresponding very roughly to a clock speed of 200 kilohertz consequently most arithmetic instructions took 10 microseconds unk operations per second unk because they had two memory cycles one for the instruction one for the operand data fetch
+that actually may have more explosive yield of high explosive is hydrodynamic testing in which extremely fast x-ray neutron or other specialized camera measure in microseconds the explosive compression of a fissionable material simulant
+a pulse of ultrasound from the transducer might travel nanoseconds or microseconds to reach an internal interface and be reflected back to the transducer
+latency is largely a function of the speed of light which is in scientifically controlled environment which would equate to a latency of 4.8 microseconds for every kilometer
+the basic machine cycle was 200 microseconds unk 20 cycles of the 100 khz clock in the cycling unit unk or cycles per second for operations on the 10-digit numbers
+it decays into a muon and one neutrino with a mean life of unk microseconds
+unk utilizes extremely high power densities of the order of in short pulses unk impulses unk of tens of microseconds at low duty cycle of 10 %
+the normal human threshold for detection of an itd is up to a time difference of unk microseconds unk
+a similar multiplication took 384 microseconds
+unk model the unk half-lives of several isotopes of the element 120 unk namely unk unk have been predicted to be around 1 unk 20 microseconds
+therefore all o operations that last longer than a few hundred microseconds are asynchronous and have a callback
+it could add two numbers and store the result in 64 microseconds
+one drum could contain instructions and has an access time of microseconds thus it was a stored-program computer
+the resulting values unk in this case they are relativistic increases in the rate of the unk clocks by about 38 microseconds per day unk form the basis for adjustments essential for the functioning of the system
+its addition time was 4 microseconds multiplication time was 8 microseconds and the division time was 28 microseconds
+unk can deliver up to 64 channels of 48 khz 24-bit pcm audio data with a network latency of 125 microseconds
+an addition took 15 microseconds a multiplication took 31 microseconds and a division took 227 microseconds not counting memory access time and checking
+unk unk have broad bandwidth calls as they can distinguish echoes as little as 20 microseconds apart
+a nop instruction took about 2.5 microseconds
+general generators for pulses with widths over a few microseconds employ digital counters for timing these pulses while widths between approximately 1 nanosecond and several microseconds are typically generated by analog techniques such as rc unk unk unk networks or switched delay lines
+when the requested document is in cache response time is typically measured in microseconds
+56 unk unk 1974 unk unk found that typical dolphin echolocation signals in the open water had average durations near 40 microseconds with peak energies between 120 and 130 khz much higher than the previously reported energy peaks centered at 35 to 60 khz
+for example any character on the screen can be accessed by the processor in microseconds
+this is also repeated nine times over until octets have been transmitted also taking 125 microseconds
+simulcast refers to the broadcasting of the same transmission on the same frequency from multiple towers either simultaneously or offset by a fixed number of microseconds
+modern transponders unk manufactured since 1973 unk have an sls circuit which suppresses reply on receipt of any two pulses in any interrogation spaced 2.0 microseconds apart that are above the mtl minimum triggering level threshold of the receiver amplitude unk unk p1 unk p2 or p2 unk p3 or p3
+the pegasus basic instruction cycle time for and logical instructions was 128 microseconds
+the memory cycle time for a was 2 microseconds per byte of information
+to the receiving system without undergoing any additional unk signal manipulation with bandwidths optimized for the specified pulse widths of 0.5 0.75 1.0 and 2.4 microseconds and the receiver noise figure of 7.5 db was improved to 3.5 db through the addition of unk parametric rf amplifiers
+in practice for signals that are a function of time the sampling interval is typically quite small on the order of milliseconds microseconds or less
+it normally varies between 10 to 60 microseconds
+networks the latency performance rises a bit more due to building risers and unk and can be as bring the latency as high as 5 microseconds per kilometre
+the ta value is normally between 0 and 63 with each step representing an advance of one bit period unk approximately 3.69 microseconds unk
+in reality the differential delay that might be required to equalise may be many hundreds of microseconds
+its addition time was microseconds and the multiplication time was microseconds unk times include memory access time unk
+data passing through equipment can be delayed by at most 32 microseconds compared to a frame rate of 125 microseconds and many competing protocols buffer the data for at least one frame or packet before sending it on
+ability to measure perturbations as small as fluid fluctuations of 0.3 nm and can convert this depolarizing potential into a nerve impulse in about 10 microseconds
+os 2200 has long guaranteed real time events get control of a processor within 50 microseconds
+veto of conscience to operate for example in a measurable awareness of an intention to carry out an act that occurs about 350 unk 400 microseconds after the electrical discharge known as the readiness potential
+seismologists estimate that the earthquake was so powerful that it may have shortened the length of the day by 1.26 microseconds and moved the earth figure axis by 8 cm or 2.7 unk
+lack of unk the prototype unk unk were directly connected without any loads across a unk constant voltage source and were switched on for 25 microseconds
+the stagnation point by assuming a free stream velocity of 7.8 and a nose radius of 1 meter i.e. time of travel is about 18 microseconds
+for example in a typical application with 8 axes of motion and a cycle rate of 250 microseconds the equivalent of 85 mbps is available for nrt use
+addition time was clocked at microseconds multiplication at microseconds and division time at 26.1 milliseconds
+the highest value of the unk half-life predicted in the quantum tunneling model with the mass estimates from a unk model is 485 microseconds for the isotope unk
+a fixed point addition took 5 microseconds a floating-point addition took 5 to 10 microseconds a multiplication unk fixed or floating-point unk took 25 microseconds and a division unk fixed or floating-point
+pulse width is much narrower often about 10 microseconds
+an additional wire referred to as power good is used to prevent digital circuitry operation during the initial microseconds of power supply turn-on where output voltages and currents are rising but not yet sufficient or stable for proper device operation
+the maximum configuration incorporated 32k words of 48-bit core storage unk unk bytes unk with a cycle time of 6 microseconds
+the transmitted pulse 2000 microseconds long is coded or tagged by being passed through a tapped delay line which may reverse the phase at unk intervals
+memory cycle time was reduced to 2 microseconds
+memory in the cdc 1604 consisted of 32k 48-bit words of magnetic core memory with a cycle time of 6.4 microseconds
+able to cool it rapidly so that gas temperature between the contacts is reduced from k to less than 2000 k in a few hundred microseconds so that it is able to withstand the transient recovery voltage that is applied across the contacts after current interruption
+indeed in a matter of microseconds the processor can switch to one of 8 frequency levels and one of 5 voltage levels
+the excited species will after some time usually in the order of few nanoseconds to microseconds unk and emit light at a wavelength larger than the excitation wavelength
+an addition required five 12 microsecond cycles two of which were refresh cycles a multiplication or division required 38 cycles unk 456 microseconds unk
+with this paradigm simmons estimated that bats can discriminate a range difference of approximately 1 centimeter corresponding to an echo delay difference of approximately 60 microseconds
+its fastest instructions took 1.59 microseconds to execute and the machine use of virtual storage and paging allowed each concurrent user to have up to one million words of storage space
+with a cycle time of 4 microseconds the effective cycle time was 2 microseconds when instruction and data accesses overlapped in two banks
+ac waveform unk known as the ac unk point unk such that one frame starts microseconds after the zero crossing and the other frame starts microseconds unk one unk at 60hz unk after the first one
+as the charges collect on the surface of the dielectric they discharge in microseconds leading to their reformation elsewhere on the surface
+means that it is not possible to accurately predict the execution speed of any particular command although typically this will be a minimum of 250 microseconds at normal 4 mhz operating speed
+the speed can reach 10 peaking some 40 microseconds after detonation the cone tip is subjected to acceleration of about 25 million g
+for example 8 microseconds is a transient rise time 20 microseconds is the fall time
+connection regardless of the speed the radio is moving at i.e. a connection between two radios powered with unk can be established in just 94 microseconds 10.000 times faster if compared to the 2 unk 5 seconds needed when using normal wi-fi
+of 10 12 unk 10 13 2 allowing the unk to go from a dead stop to near the speed of light in about 100 microseconds
+the iri can transmit in continuous waves unk cw unk or in pulses as short as 10 microseconds unk unk
+a floating point add took between unk microseconds unk unk
+free quarks probably existed in the extreme conditions of the very early universe until about 30 microseconds after the big bang in a very hot gas of free quarks antiquarks and gluons
+function of the tube geometry on a 21 inch tube the index stripes were positioned 0.51 inches apart a single horizontal sweep takes about 53 microseconds so the signal had to be modulated at 7.4 mhz
+any ampere and voltage combination can occur in time but surges commonly occur for microseconds to nanoseconds and experimentally modeled surge energy has been far under unk
+the rmd software program working with an unk welding system and closed-loop feedback closely monitors and controls the electrode current at speeds up to 50 microseconds unk 50 unk of a second unk
+its average multiplication time was 180 microseconds and the average division time was 300 microseconds
+every loran chain in the world uses a unique group repetition interval the number of which when multiplied by ten gives how many microseconds pass between pulses from a given station in the chain
+data passing through equipment can be delayed by at most 32 microseconds compared to a frame rate of 125 microseconds and many competing protocols buffer the data for at least one frame or packet before sending it
+for unk it is 163 microseconds
+the time resolution was 200 microseconds
+core memory cycle times were 20 microseconds for the model i 10 microseconds for the model ii unk about a thousand times slower than typical computer main memory in 2006 unk
+the time needed to find a particular bit was somewhat longer as it traveled through the wire and access times on the order of 500 microseconds were typical
+the pulse length can vary from 0.4 to 2.5 microseconds and its peak power is 350 kw
+on the other hand for unk proteins unk i.e. those which have a relaxation rate of the order of 1-100 microseconds unk unk unk unk dead time few nanoseconds unk or continuous flow mixing unk dead time few microseconds unk can be carried out at different
+the reason that lightning does damage is that this energy is released in a matter of microseconds unk typically 30 to 50 microseconds unk
+it operated at a frequency of 2880 megahertz with output power of 1500 kilowatts and a pulse width of 3.5 microseconds
+all instructions are fixed width 16 bits wide and all instructions executed in one memory cycle unk 1.6 microseconds unk
+the granularity of the timers is guaranteed to be between 10 microseconds and 1 millisecond
+when the wire is connected across this voltage the resulting high current melts and then vaporizes the wire in several microseconds
+its floating-point addition time was 1.38 to 1.5 microseconds multiplication time was 2.48 to 2.70 microseconds and division time was 9.00 to 9.90 microseconds
+by an inferior or superior state that lasts 100 microseconds and a digit 0 is created by an inferior or superior state that lasts 200 microseconds
+each mobile host maintains a tsf timer with modulus 264 counting in increments of microseconds
+this corresponds with the sample rate 44.1 khz unk 22.7 microseconds unk
+the use of a fpga from national instruments enables fast scanning speed and a short response time of 4 microseconds for critical measurements and controlled feedback
+a radio pulse takes around unk microseconds to travel one nautical mile unk unk km unk to and from this is also referred to as a unk
+the exact amount is not yet known but theoretical models suggest the earthquake shortened the length of a day by 2.68 microseconds due to a decrease in the unk of the earth
+a multiply took 8 microseconds and a divide 25 microseconds
+the average stroke of lightning peaks at 1 unk but these strokes only last for 30 microseconds
+a fixed point addition took 5 microseconds a floating-point addition took 5 to 10 microseconds a multiplication unk fixed or floating-point unk took 25 microseconds and a division unk fixed or floating-point unk took 65 microseconds
+while a mov is designed to conduct significant power for very short durations unk microseconds unk such as caused by lightning strikes it typically does not have the capacity to conduct sustained energy
+each station maintains a tsf timer counting in increments of microseconds unk unk
+this effect also produces short test times however with some types of tests in these facilities lasting less than 100 microseconds
+each device in a unk network adds 1.5 microseconds of latency
+addition operations took on average 850 microseconds whereas multiplications and divisions took 3300 microseconds
+at least two unk but often more unk secondary unk or slave unk stations with a uniform group repetition interval unk gri unk defined in microseconds
+which is about 28 microseconds
+it was proposed to delay the extraction of ions from the ion source toward the flight tube by a few hundred nanoseconds to a few microseconds with respect to the laser pulse
+for example the unk phosphor has a decay time of less than 2 microseconds while the unk decay time is on the order of 2-3 milliseconds
+the core memory had an access time of 8 microseconds and a cycle time of 4 microseconds
+unk in practice the delays in many but not all chains are multiples of 100 microseconds
+of unk bauri recorded peak speeds of between 126 and 230 h unk 78 unk 143 mph unk with the jaws closing within just 130 microseconds on average
+the clock rate was 4.25 mhz unk 1 mhz according to one source unk which yielded a word time of about 10 microseconds
+4004 employed a 10 unk enhancement load pmos technology and could execute approximately instructions per second unk that is a single instruction cycle was 10.8 microseconds unk
+upb frames are synchronized to the unk transition of the ac waveform unk known as the ac unk point unk such that one frame starts microseconds after the zero crossing and the other frame starts microseconds unk one unk at 60hz unk after the first one
+the average peak power output of a single lightning stroke is about a unk unk 1012 w unk and the stroke lasts for around 30 microseconds
+however some large scale events such as the 2004 indian ocean earthquake have caused the rotation to speed up by around 3 microseconds
+few microseconds after the pulse has been launched so that scattered light at ground level is ignored and only light which has travelled for several microseconds high up into the atmosphere and back is actually detected unk
+the parameter typically specifies seconds although some operating systems provide finer resolution such as milliseconds or microseconds
+range ranges from 1.07 microseconds mpi latency unk unk unk unk unk to 1.29 microseconds mpi latency unk unk unk unk unk unk to 2.6 microseconds unk unk unk iii unk unk
+the addition time was 864 microseconds and the multiplication time was unk microseconds unk i.e. close to 3 milliseconds unk
+on a commercial level industry vendor assume the 802.11 tsf synchronization to be within 25 microseconds
+the radar has a peak power output of 7 kw and is capable of positioning beams in 400 microseconds a huge advantage over mechanically scanned radar
+at some point the williams tube memory was replaced with words of magnetic core memory with an access time of 8 microseconds
+at 3500 rpm had 200 read-write heads and held 24-bit words unk a memory size equivalent to 48 kb unk with access time between 32 microseconds and 17 milliseconds
+once again grazing the limb of the sun unk the relativistic time delay is about is about 20 microseconds according to theory and about 240 microseconds according to general relativity
+the average exposure time used was three microseconds
+experience that the signals can shift relative to each other by as much as 2 microseconds for instance designing your system with at least 2 microseconds of timing margin will prevent incorrect interpretation of the data signal by the receiver
+interaction with solvents however reduces the lifetime to microseconds or even nanoseconds
+cycle time was 1.75 microseconds
+for this purpose each subscriber line termination was examined for a period of 280 microseconds every 224 milliseconds a process known as scanning
+latency has as a lower bound the speed of light this corresponds to a few microseconds per kilometer of optical fibre
+the plasma would cool to as it traversed the 25 m distance to the pusher plate and then reheat to as unk at about 300 microseconds unk it hit the pusher plate and unk
+the neutrons were captured by cadmium nuclei resulting in gamma rays of about that were detected a few microseconds after the photons from a positron annihilation event
+bit value of one is represented by a 1 millisecond burst of 120 khz at the zero crossing point unk nominally 0 but within 200 microseconds of the zero crossing point unk immediately followed by the absence of a pulse
+of 10 megabits per second was protocol independent and could transmit 4.3 miles the limit being set by the 802.3 propagation delay allowance of 46.4 microseconds
+for measuring latency in long haul networks the calculation is actually 4.9 microseconds for every kilometer
+heavy ion collisions at rhic were successful in creating the quark-gluon plasma unk unk unk a state of matter believed to have existed approximately 10 microseconds after the big bang
+instance a floating point add not took 40 microseconds unk from 300 unk multiplication 180 unk from 2.2 ms unk and a square root 510 microseconds unk from 5.3 ms unk
+on the pdp-1 the core memory cycle time was 5 microseconds consequently most arithmetic instructions took 10 microseconds unk operations per second unk because most operations took at least two memory cycles one for the instruction one for the operand data fetch
+an add required 16 microseconds a multiply or divide 86 these slow times a side effect of its serial operation
+e x treme db provides a code footprint as small as 50k and typical database read and write accesses at the level of a few microseconds or less
+at 2 unk 3 microseconds the channel filler would transmit some of the energy to the propellant which would vaporize
+an addition could take anywhere from 64 microseconds to 1024 microseconds
+using the same example of 8 axes but with a cycle time of 62.5 microseconds the effective bandwidth available for nrt frames would be 40 mbps and the mtu would be reduced to 325
+sometimes the excited state is metastable so the relaxation back out of the excited state is delayed unk necessitating anywhere from a few microseconds to hours depending on the material unk the process then corresponds to either one of two phenomena depending on the type of transition and hence
+basic memory cycle time was 6 microseconds
+symbol duration is 4 microseconds which includes a guard interval of 0.8 microseconds
+based on the modern value of the speed of light the actual delay in this experiment would be about 11 microseconds
+for the muon lifetime was given as to 2.3 unk microseconds which was later refined in 1943 by rossi and unk to to 2.15 unk microseconds which was still in excellent agreement with special relativity
+the computational requirements for molecular dynamics are such that in 2002 while the fastest proteins fold on the order of tens of microseconds current single computer processors could only simulate on the order of a nanosecond of real-time of folding in full atomic detail per cpu day
+each unk cycle took the transponder 100 microseconds allowing it to handle a maximum of interrogations per second and making collisions unlikely
+he found that it was stable to 200 microseconds per day equivalent to an error rate of one second in 12 years far more accurate than the 1 second per year that was previously
+it showed the predicted shift of 38 microseconds per day
+energy rating is often defined using industry standard transients such as microseconds or microseconds
+multiply time was unk microseconds and divide time was unk microseconds
+off venus and returns to earth unk once again grazing the limb of the sun unk the relativistic time delay is about is about 20 microseconds according to theory and about 240 microseconds according to general relativity
+atomic clocks also show that the earth day lengthens by about 15 microseconds unk unk every year
+it transmitted ten megawatt pulses of radio frequency energy with each pulse having a duration of six microseconds
+the outer hemisphere is then placed at unk speed of light unk times unk 0.4 microseconds unk away that is at about 120 meters away
+54 to 53 cm unk 553 to 566 mhz unk unk an extremely short wavelength for the time unk with a pulse length of 2 microseconds a peak power of 7 to 11 kw and a prf of hz
+for example time unit unk usually abbreviated tu unk is used to indicate a unit of time equal to 1024 microseconds
+a sufficiently high and well known amount of electrical current and voltage the timing of the unk vaporization is both extremely short unk a few microseconds unk and extremely precise and predictable unk standard deviation of time to detonate as low as a few tens of nanoseconds unk
+cavemen set in some version of san diego where people speak with southern accents does have moments as much as microseconds suspended from any attempt at narrative
+dividing this interface delay value by 10 yields a delay in units of tens of microseconds that is used in the weighted formula
+the speeds of computer connections measured in milliseconds and even microseconds have become very important
+using bursts of several tens of microseconds in duration the tissue can be cut while the size of the heat diffusion zone does not exceed the cellular scale
+its addition time was 72 microseconds and the multiplication time was 732 microseconds
+on the other hand improvements in specialized networking hardware have continued cutting down the communication costs to a couple of microseconds
+the computer operated at 500 khz but because each digit was stored as 4 bits the basic word operational cycle was 80 microseconds
+they had figured out how to write to the video memory without unk the display so the hardware would blank the screen for a few microseconds while it accessed the video memory
+entire word in parallel instead of unk as with most machines of the era dramatically improving performance so that an addition would take only 20 microseconds and a multiply about 200 unk faster than the prototype at addition even on its much smaller word size
+its addition time was microseconds and the multiplication time was microseconds unk this was a factor of 2.6 and a factor 8 faster respectively compared to the mark i unk
+this result was improved later by sasaki et al. and generating a collision is now as cheap as verifying it unk a few microseconds unk
+in contrast a 100 mhz arm cpu unk from 2008 unk switches in less than 3 microseconds
+all electrical power from the power distribution system including decoupling capacitors in less than a 1 microsecond and restored to specified voltage in a few microseconds upon command
+the round-trip time was about two microseconds
+memory access time was unk microseconds
+its addition time was 270 microseconds unk not counting memory access time unk
+when combining the time dilation and gravitational frequency shift the discrepancy is about 38 microseconds per day a difference of unk parts in 1010
+the standard base is january 1 1900 and the 64 bit counter will roll over 252 microseconds after that
+obviously in the factory testing every state is impractical if testing each state takes a microsecond and there are more states than the number of microseconds since the universe began
+disk but the systems that unk ran on also supported a significant complement of very low latency solid state disks with access times under 10 microseconds
+the machine originally used electrostatic tubes unk crt or williams tube unk for memory which stored 2000 words with an access time of 8 microseconds
+this allows the system to ignore most scattered light at ground level only light which has travelled for several microseconds high up into the atmosphere and back is actually detected
+the radar operated at 106 mhz using a pulse width from 10 to 25 microseconds and a pulse repetition frequency of 621 hz
+since this comparison is carried out during one pulse which is typically a few microseconds changes in target position or heading will have no effect on the comparison
+in addition slower motions which take place on a time-scale ranging from about 10 microseconds to 100 milliseconds can also be studied
+test waveforms used to design and calibrate surge protectors are all based on modeled waveforms of surges measured in microseconds
+most scientific publications about the dynamics of proteins and dna use data from simulations spanning nanoseconds unk unk s unk to microseconds unk unk s unk
+and usually uses a 1.2 microsecond rise for the wave to reach 90 % amplitude then drops back down to 50 % amplitude after 50 microseconds
+in keeping with the conservation of angular momentum the earth rotation is gradually slowing and the earth day thus lengthens by about 17 microseconds every year
+on that basis if the half lives of unk unk and unk are 3.05 minutes less than 200 microseconds and 140 days unk respectively unk no matter how much original polonium could have been present in the initial magma all these po isotopes would
+in one test readings differed by 47 microseconds unk or a difference of 1 degree of at 60hz unk an unacceptable variance
+the length of pulses is usually one hundred microseconds
+is fired twice on the same spot on the specimen with a pulse separation in the order of one to a couple of tens of microseconds
+the addition time was 48 microsecond and the time was 2112 microseconds
+speed was good for its cost but with an integer add time of 3.5 microseconds it was not in the same league as the scientific workhorses of the day unk the cdc 6600 for example unk
+this is a slow operation taking on the order of microseconds to complete
+the tsf is based on a unk clock and ticks in microseconds
+the kernel is capable of over unk threads per second and is able to perform a context switch in 1.41 microseconds on a unk unk
+experiments proved that the muon decays with a mean life of 2.2 microseconds into an electron and two neutrinos but that it does not interact strongly with nuclei so it could not be the yukawa particle
+to the speed of the arithmetic portion of the univac which permits the transfer into or out of the memory of 12 characters in 40 microseconds
+it has a period of approximately 4.7 microseconds and is also known as the sync tip
+between transmitters in an sfn is equal to the distance a signal travels during the guard interval unk for instance a guard interval of 200 microseconds would allow transmitters to be spaced 60 km apart
+it had words of memory unk thirty-six bits per word unk using delay line memory with an access time of up to 305 microseconds
+both of these drums also had an access time of microseconds
+in the first few microseconds after detonation the bomb and shot cab are destroyed and vaporized
+addition took 285 microseconds and multiplication took microseconds making it approximately 100 times faster than the harvard mark i. data which had to be retrieved quickly were held in
+the unk frame is transmitted in exactly 125 microseconds therefore there are 8000 frames per second on a fiber-optic circuit designated unk unk optical unk unk
+each line must therefore take 63 microseconds 10.7 of which are for reset to the next line
+if you know from experience that the signals can shift relative to each other by as much as 2 microseconds for instance designing your system with at least 2 microseconds of timing margin will prevent incorrect interpretation of the data signal by the receiver
+this is repeated nine times over until 810 octets have been transmitted taking 125 microseconds
+the specifics are that the right channel output is delayed 22.7 microseconds from the left channel output
+the data rates supported are 2 and 4 and cyclic update rates as low as 62.5 microseconds
+with later improvements the system provided single-pass accuracy of roughly 200 meters and also provided time synchronization to roughly 50 microseconds
+of the early experimental devices was that the magnetic domains could only be pushed slowly through the wires requiring current pulses on the orders of microseconds to move them successfully
+the lasers are often pulsed with measurement of the atmosphere being unk unk taking place a few microseconds after the pulse has been launched so that scattered light at ground level is ignored and only light which has travelled for several microseconds high
+ddr switch chips have a latency of 140 unk end-to-end latency range ranges from 1.07 microseconds mpi latency unk unk unk unk unk to 1.29 microseconds mpi latency unk unk unk unk unk unk to 2.6 microseconds unk unk unk iii unk unk
+the rate of decrease of orbital period is 76.5 microseconds per year the rate of decrease of semimajor axis is 3.5 meters per year and the calculated lifetime to final inspiral is years
+pulse unk is a recent method of initiating fast reactions to study reactions occurring on a timescale faster than approximately one hundred microseconds when simple mixing of reagents is too slow and other methods of initiating reactions have to be used
+a digit 1 is created by an inferior or superior state that lasts 100 microseconds and a digit 0 is created by an inferior or superior state that lasts 200 microseconds
+in the explosive liner hits the metal cavity reflects and unk on the preheated burnt gases focuses at the center of the hemisphere unk 50 microseconds after the initiation of the exploding wire unk and reflects leaving behind a very small pocket unk 1mm unk of extremely high-temperature high-pressure and high
+this type of system is used frequently in high average power laser systems and can produce pulses ranging from 500 microseconds to over 20 milliseconds
+fluorescence and phosphorescence is not clean cut as transition unk complexes which combine a metal and several organic moieties have long lifetimes up to several microseconds unk as they display mixed unk states unk
+in the second case the php function is used which returns the current unix timestamp with microseconds
+a negative lightning stroke typically lasts for only tens of microseconds but multiple strikes are common
+one study recorded peak speeds of between 126 and 230 h unk 78 unk 143 mph unk with the jaws closing within just 130 microseconds on average
+this type of data exchange allows bus cycle times in the range of a few hundred microseconds
+the transponder must be suppressed for a period of 35 10 microseconds following receipt of a pulse pair of proper spacing and suppression action must be capable of being unk for the full duration within 2 microseconds
+the addition time was 800 microseconds and the multiplication time was 1200 microseconds
+this was a bottleneck in the computer and made the access time to data on these drums long unk microseconds
+to put numbers to this a call into the bsd kernel on a unk requires about 20 microseconds unk unk
+propagation medium memory contents required waiting for the pulses of interest to reach the end of the medium a wait typically on the order of microseconds
+discharge sequence is typically about second in duration while the duration of the individual strokes varies greatly between 100 nanoseconds and a few tens of microseconds
+the average access time was about 222 microseconds which was considerably faster than the mechanical systems used on earlier computers
+the blade server using a pci express x4 link uses less than 9 watts has bandwidth up to 800 and latency as low as 50 microseconds
+for example in a 20 mhz 68000 processor unk typical of late 1980s unk task switch times are roughly 20 microseconds
+in error detection normally the two ends of the link exchange a very brief silence unk e.g. a few microseconds for unk unk or a reset command and then try to reset and restore the link as if from power-up
+a machine cycle was two microseconds
+the memory cycle time was 1.44 microseconds to access two bytes unk one half word unk of information
+the implosion compresses the magnetic field to values of around 1000 t for a few microseconds
+electronic switch inside a computer may require very little energy to activate yet it must be delivered rapidly enough to complete the transaction in mere microseconds
+each step took 12 microseconds to execute
+the addition time was 96 microseconds and the multiplication time was 352 microseconds
+unk can usually maintain time to within 10 milliseconds unk s unk over the public internet and can achieve accuracies of 200 microseconds unk s unk or better in local area networks under ideal conditions
+the p-3 had a maximum power output of up to 100 kw and a pulse duration of 10-15 microseconds
+microseconds following receipt of a pulse pair of proper spacing and suppression action must be capable of being unk for the full duration within 2 microseconds after the end of any suppression period
+can vary from microseconds unk mems mirrors unk to tens of seconds for thermally controlled dm
+a basic 12-bit addition took about 240 microseconds multiplication about 18 milliseconds
+the unk features 16 o slots in mainframe a 10 mhz clock and a memory cycle time of 1.6 microseconds
+microseconds and is termed the wiegand effect
+each catalyzing muon thus spends most of its ephemeral existence of about 2.2 microseconds as measured in its rest frame wandering around looking for suitable unk and tritons with which to bind
+their products are based on blackmer research into ultrasonic frequencies in sound reproduction and his claims that the time resolution of human hearing is 5 microseconds or better unk corresponding to 200 khz well above the 20 khz conventionally accepted as the limit of human hearing
+networks with reduced transmission rates require very accurate synchronization it may be necessary to synchronize the local clocks with an accuracy in the order of microseconds
+state unk albeit far more slowly than a usual excited state unk or undergo spontaneous fission with half lives of the order of nanoseconds or microseconds unk a very short time but many orders of magnitude longer than the half life of a more usual nuclear excited state
+in the following few microseconds the test hardware and surrounding rock are vaporised with temperatures of several million degrees and pressures of several million atmospheres
+computed lifetimes are in the range of 0.1 to 10 microseconds
+unk these times are including the memory access time which was 4-5 microseconds
+addition to an unk to indicate height the radar had a maximum power output of up to 100 kw and a pulse width of 4-12 microseconds
+in the ieee 802.11 standard a unit of time equal to 1024 microseconds
+rate switch chips have a latency of 200 nanoseconds and ddr switch chips have a latency of 140 unk end-to-end latency range ranges from 1.07 microseconds mpi latency unk unk unk unk unk to 1.29 microseconds mpi latency unk unk unk unk unk unk to 2.6 microseconds unk unk unk iii
+this discharge takes no more than a few microseconds and is able to reach accelerations of about gs
+relaxation rate of the order of 1-100 microseconds unk unk unk unk dead time few nanoseconds unk or continuous flow mixing unk dead time few microseconds unk can be carried out at different unk concentrations to obtain a chevron plot
+ssds based on volatile memory such as dram are characterized by ultrafast data access generally less than 10 microseconds and are used primarily to accelerate applications that would otherwise be held back by the latency of flash ssds or traditional hdds
+a bank of capacitors releases a pulse of electric current lasting 10 microseconds into the coil generating a radial magnetic field
+a unk unk unk unk unk transmitter was soon built this generated unk pulses with a unk of 90 microseconds between pulses
+two continents bringing the united kingdom and the united states to within 1 microsecond of each other unk unk efforts were only accurate to 2000 microseconds unk
+at the same time the positive ions drift towards the cathode at much lower speed in practical devices the drift times are measured in microseconds and milliseconds respectively
+its addition time was 38 microseconds multiplication time was 240 microseconds and division time was 375 microseconds
+these times include the storage access time which was about 62 microseconds
+in tests on a unk a standard unix system call took 21 microseconds to complete while a corresponding operation on mach took 114 microseconds
+one of his recent projects is the realtime preemption patch which aims to bring unk scheduling latencies unk 50 unk 60 microseconds worst-case execution time unk to linux
+so a division or square root took up to 143 cycles or microseconds unk a rate of 35 per second
+these are called prompt neutrons and strike other nuclei and cause additional fissions within microseconds
+the unk instability occurs extremely quickly in a few microseconds
+the addition time was 525 microseconds and the multiplication time was 2150 microseconds
+the processor ran with an instruction cycle time of around 1.25 microseconds with most instructions executing in 3 to 7 microseconds
+the generated solvers cover most degenerate cases and can finish in microseconds on recent computers
+an addition or subtraction was clocked at 100 microseconds multiplication at microseconds and division at microseconds
+300 ns cycle time unk that was later bumped to 5 mhz clock unk 200 ns cycle time unk instructions executed within 1.6 and 4.8 microseconds
+in both cases the temperature of the solution is caused to rise by a small amount in microseconds unk or less in the case of laser heating unk
+the williams tube memory and later core memory each had a memory cycle time of 12 microseconds
+he also published research on the value of ultrasonic frequencies in sound reproduction claiming that the time resolution of human hearing is 5 microseconds or better unk which would correspond to a frequency of 200 khz requiring audio equipment ideally to have a flat response to that frequency
+such studies are important to understand the early evolution of our universe the first hundred microseconds or so
+they profit by providing information such as competing bids and offers to their algorithms microseconds faster than their competitors
+step output is stretched by unk to about 16 microseconds
+in general generators for pulses with widths over a few microseconds employ digital counters for timing these pulses while widths between approximately 1 nanosecond and several microseconds are typically generated by analog techniques such as rc
+the network update time is easily calculated by multiplying the number nodes with the deterministic update time for each node unk approximately 150 microseconds unk
+cpu timing is controlled by four non-overlapping clock phases with 200 nanosecond width and 200 nanosecond spacing for an overall clock cycle of 1.6 microseconds equivalent to 625 khz clock frequency
+the neutrons were captured by cadmium nuclei resulting in gamma rays of about 8 mev that were detected a few microseconds after the photons from a positron annihilation event
+the addition time was 62 microseconds and the multiplication time was 713 microseconds
+it could observe in ultraviolet visible light and near infrared at a rate of one measurement per 10 microseconds
+ion with 4000 da mass and it is four times larger than the 1000 da mass it would take twice the time or about 56 microseconds to traverse the flight tube since time is proportional to the square root of the mass-to-charge ratio
+the product became popular for telecommunications equipment as response times in the milliseconds or even microseconds were required for applications like packet switching
+the identification of an interrupt took 1.7 microseconds including the time taken to enable and disable the registers
+the aircraft interrogates the ground transponder with a series of unk unk interrogations unk and after a precise time delay unk typically 50 microseconds unk the ground station replies with an identical sequence of reply unk
+when interrogated it first sweeps rapidly unk 0.4 microsecond unk through the band before beginning a relatively slow sweep unk 7.5 microseconds unk through the band back to the starting frequency
+or spacing of the wires in a parallel cable can cause different signals unk on different wires unk to arrive at slightly different times unk microseconds apart unk at the far end of the cable even when they were sent at exactly the same time from the near end
+calculations in a quantum tunneling model show that such superheavy nuclei would undergo alpha decay within microseconds or less
+addition took 285 microseconds and multiplication took microseconds making it approximately 100 times faster than the harvard mark i. data which had to be retrieved quickly were held in electronic circuits while the
+where c is the speed of light and tsp is the addition of all the positions of the stagger sequence usually in microseconds
+the experimenter sets the cycle length and it is possible to sample every 333 to 500 microseconds
+the speed of arithmetic operations was about the same as the elliot 402 computer which could add in 204 microseconds and multiply in unk microseconds
+edvac addition time was 864 microseconds and its multiplication time was 2900 microseconds unk 2.9 milliseconds unk
+the memory cycle time was 0.84 microseconds to access four bytes of information
+processing delays in high-speed routers are typically on the order of microseconds or less
+these times are excluding the memory access time which added up to approximately 1500 microseconds to those times
+time delay due to the presence of the sun of a radar signal travelling from the earth to venus and back would be about 200 microseconds well within the limitations of 1960s era technology
+a gun-type plutonium device of the sort planned during the manhattan project the last few centimeters would have to be traveled in less than 40 microseconds
+the system could be operated at four frequencies between and mhz unk 10 unk 11 cm wavelength unk sending out 300 kw pulses of 0.8 microseconds in duration with a pulse repetition frequency unk prf unk of pulses per second
+the antiproton can thus orbit the nucleus for many microseconds before finally falling to its surface and annihilating
+shorter metro networks the latency performance rises a bit more due to building risers and unk and can bring the latency as high as 5 microseconds per kilometer
+unk unk 1k unk which is an evolution of unk using 1024 neurons to classify an input vector of 256 bytes in up to 10 microseconds
+if one were to wait 0.4 microseconds then the probability that the particle will have decayed will be that is the probability will be very very close to one
+unk detailed models of the acetylcholine unk synapse with monte carlo method working at the time scale of microseconds have been built
+the magnetic core memory cycle time was 5 microseconds unk corresponding very roughly to a clock speed of 200 kilohertz consequently most arithmetic instructions took 10 microseconds unk operations per second unk because they
+great speed agility and reflexes as he has been able to startle superman with his speed and it has been stated he can react in microseconds
+in fact it is observed that people can detect interaural differences down to 10 microseconds
+domain we thus create for a very short time conditions akin in its properties to the early universe at the age of 10 unk 40 microseconds
+its addition time was 70 microseconds the multiplication time was unk microseconds and the division time was 590 microseconds
+of conduction electrons in metals are relatively short unk typically less than 1 nanosecond unk but in semiconductors the lifetimes can be very long unk microseconds at low temperatures unk especially when the electrons are isolated in local trapping potentials unk for instance at impurities where lifetimes can be milliseconds unk
+study of unk bauri recorded peak speeds of between 126 and 230 h unk 78 unk 143 mph unk with the jaws closing within 130 microseconds on average
+fz lifetimes are around 1000 microseconds compared to unk microseconds with czochralski and 1-30 microseconds with cast multi crystalline silicon
+the nova 1200 executed core memory access instructions unk lda and sta unk in 2.55 microseconds unk unk
+this allowed a node to send a message to any other node within 2 microseconds
+images in lcd tvs could become obsolete since the blue phase mode features a superior response speed unk in the range of 10 unk 100 microseconds see ref
+an addition took 10 microseconds
+single-precision multiplication took microseconds and double-precision multiplication took microseconds
+the memory cycle time was 1.5 microseconds to access one 32 bit word unk 4 bytes
+time scales of milliseconds are the norm and the very fastest known protein folding reactions are complete within a few microseconds
+took 5 to 10 microseconds a multiplication unk fixed or floating-point unk took 25 microseconds and a division unk fixed or floating-point unk took 65 microseconds
+a discrete number that can take on values in only seconds but as a number that can take discrete values in any time unit milliseconds microseconds nanoseconds picoseconds etc.
+in this case the second fm carrier is 14.25 times the line frequency or about 224 khz above the first carrier unk is 75 microseconds the stereo control frequency is unk hz the dual sound control frequency is 276 hz and the second channel carries unk unk not r unk
+the alu was serial so addition or subtraction took 240 microseconds and overall processing speed was about operations a second
+in low prf and medium prf radar waveforms for long-range detection which use pulse compression and therefore have a duty cycle in the order of microseconds
+this allows the study of the shift in equilibrium of reactions that equilibrate in milliseconds unk or microseconds with laser temperature jump unk these changes most commonly being observed using absorption spectroscopy
+the lasers are often pulsed with measurement of the atmosphere being limited to a window occurring a few microseconds after the pulse has been launched
+two rubidium atoms were used to create the molecule which survived for 18 microseconds
+latency is largely a function of the speed of light which is in scientifically controlled environment which would equate to a latency of 4.8 microseconds for every kilometre
+only 18 microseconds of this was hardware related the rest was the mach kernel running various routines on the message
+the ofdm guard interval for tm i is 246 microseconds which means that the overall ofdm symbol duration is unk milliseconds
+on the pdp-1 the core memory cycle time was 5 microseconds consequently most arithmetic instructions took 10 microseconds unk operations per second unk because most operations took at least two memory cycles one for the instruction
+it has been shown to be scalable accurate in the order of few microseconds and compatible to ieee 802.11 and similar standards
+start speaking at the same time both stop and wait for short random periods of time unk in ethernet this time is generally measured in microseconds unk
+long pulse unk typically of tens of microseconds unk lasers but some use
+in order to demonstrate in collaboration with ernest unk that a kerr cell responds to an applied electric field in a few tens of microseconds he adapted the unk method that foucault had applied to measure the speed of light
+it also has a time resolution of 16 microseconds
+its default value is 100 milliseconds but can be changed to 100 microseconds
+the pulse lasts around 10-40 microseconds depending on the laser parameters
+exactly meters per second unk and then multiplying the result by 2 unk round trip twice the distance unk yields a result of approximately unk microseconds in duration
+the whole process including axial and radial phases may last for the mather dpf a few microseconds unk for a small focus unk to 10 microseconds unk for a large focus unk
+unk are not unk unk as is commonly the case in solid-state nmr unk then the nmr signal will generally decay much more quickly e.g. microseconds for 1h nmr
+5 up to 10 microseconds unk to attain the best possible resolution such that the user needs to choose a compromise between event rate and resolution
+the metal forming process occurs extremely quickly unk typically tens of microseconds unk and because of the large forces portions of the workpiece undergo high acceleration reaching velocities of up to 300
+the data exchange cycles are usually in the range of a few hundred microseconds up to a few milliseconds
+analogously the interface delay is a configurable static parameter expressed in microseconds
+this description is simplified from the literature above which details various steps of differing duration from 15 microseconds unk expansion unk to 100 picoseconds unk emission unk
+the bit time was 6 microseconds jumps executed in 288 microseconds and simple arithmetic instructions in 576 microseconds
+supported pre-emptive multitasking with round-robin task scheduling with a 110 microsecond context switch time and only 20 microseconds of latency unk guaranteed interrupt response time unk
+by properly interleaving accesses to different banks the memory could sustain an effective access time of 4 microseconds on each access unk e.g. instruction access in one bank data in another unk
+the value of unk is 2 microseconds and is much shorter the unk time
+a word in the computer memory could be read written or refreshed in 360 microseconds
+the performance increase was dramatic the needed 16 microseconds to add two 24-bit integers the 9300 only 1.75 almost 10 times as fast
+seek time was reduced from 40 microseconds to 1100 nanoseconds read and 250 nanoseconds write
+
