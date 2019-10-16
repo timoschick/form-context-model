@@ -1,5 +1,6 @@
 import random
-from typing import Counter, List
+from typing import List
+from collections import Counter
 import nltk
 import os
 import argparse
